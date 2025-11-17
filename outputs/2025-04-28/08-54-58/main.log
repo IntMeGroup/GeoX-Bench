@@ -1,0 +1,8 @@
+[2025-04-28 08:54:59,541][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-28 08:55:23,451][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-04-28 08:55:23,468][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-04-28 08:55:23,468][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-04-28 08:55:23,468][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-04-28 08:55:23,468][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-04-28 08:55:44,882][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-28 08:55:48,293][accelerate.big_modeling][WARNING] - Some parameters are on the meta device because they were offloaded to the cpu.

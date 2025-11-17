@@ -1,0 +1,11 @@
+name: map_gauss
+dataset_class: Tasks.map_gauss.MapGaussDataset
+data_writer_class: Tasks.map_gauss.MapGaussDataWriter
+lmm_message_class: Tasks.map_gauss.MapGaussLMMMessage
+get_dataloader_fn: Tasks.map_gauss.get_dataloader
+output_dir: map_gauss
+instances:
+- root_dir: /home/Data/LocationSelection/VIGOR_Chicago
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/VIGOR_Chicago.json
+  output: VIGOR_Chicago.json
+  sample_size: 0

@@ -1,0 +1,8 @@
+# conf/model/gpt4o.yaml
+name: g25pro_nothinking 
+class_path: model.CloseAI
+model_size: 7B
+test_mode: false
+model_path: 'gemini-2.5-pro-nothinking'
+batch_size: 50
+gpu_occu: 1

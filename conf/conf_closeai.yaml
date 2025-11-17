@@ -1,0 +1,58 @@
+defaults:
+  - _self_
+  - model@models.0: gemini_nothink
+  - model@models.1: gpt4o
+  - model@models.2: claude_sonnet_4
+  - model@models.3: o3
+  - model@models.4: grok4
+
+# ── Single task for testing ──────────────────────────────────────────────
+  - task@tasks.Orin4:      orin4_FoV90
+  - task@tasks.Orin4_Random:      orin4_random_FoV90
+  - task@tasks.Location:      location4_FoV90
+  - task@tasks.Location_Random:      location4_random_FoV90
+  - task@tasks.map_guass:      map_gauss
+  - task@tasks.map_guass_random:      map_gauss_random
+  
+# ───────────────────────── global knobs ────────────────────────────────────
+output_base: /home/LMMBench/output/CloseAI
+
+# ───────────────────────── sampling configuration ──────────────────────────
+# Small sample size for testing
+global_samples_per_dataset: 12
+
+# ───────────────────────── pipeline configuration ─────────────────────────────
+# Single pipeline with CloseAI model running one task
+pipelines:
+
+  # - model: ${models.0}
+  #   tasks:
+  #     - ${tasks.map_guass}
+  #     - ${tasks.map_guass_random}
+
+  # - model: ${models.1}
+  #   tasks:
+  #     - ${tasks.Orin4}
+  #     - ${tasks.Orin4_Random}
+  #     - ${tasks.Location}
+  #     - ${tasks.Location_Random}
+  #     - ${tasks.map_guass}
+  #     - ${tasks.map_guass_random}
+
+  # - model: ${models.3}
+    # tasks:
+      # - ${tasks.Orin4}
+      # - ${tasks.Orin4_Random}
+      # - ${tasks.Location}
+      # - ${tasks.Location_Random}
+      # - ${tasks.map_guass}
+      # - ${tasks.map_guass_random}
+
+  - model: ${models.4}
+    tasks:
+      # - ${tasks.Orin4}
+      # - ${tasks.Orin4_Random}
+      # - ${tasks.Location}
+      # - ${tasks.Location_Random}
+      # - ${tasks.map_guass}
+      - ${tasks.map_guass_random}

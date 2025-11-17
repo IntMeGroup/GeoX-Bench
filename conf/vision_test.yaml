@@ -1,0 +1,45 @@
+defaults:
+  - _self_
+
+  # ── models ───────────────────────────────────────────────────────────────
+  - model@models.0: llava_interleave_qwen_7b
+  - model@models.1: qwen25vl_7b #8
+  - model@models.2: mPLUG-owl3_7b #16
+  - model@models.3: MS-Phi3d5 #
+  - model@models.4: llava-one-vision_7b
+  - model@models.5: InternVL3-8B
+  - model@models.6: deepseek-vl-7b-chat
+  - model@models.7: Mantis-8B-Idefics2
+
+  # ── tasks ────────────────────────────────────────────────────────────────
+  - task@tasks.vision:      vision_test
+
+# ───────────────────────── global knobs ────────────────────────────────────
+output_base: /home/LMMBench/output/VisionTest_batch
+
+# ───────────────────────── pipeline wiring ─────────────────────────────────
+# Each entry chooses one model & a *block‑style* list of tasks it should run.
+pipelines:
+
+  # model‑0 handles both orientation & location
+  # - model: ${models.0}
+  #   tasks:
+  #     - ${tasks.vision}
+  # - model: ${models.1} 
+  #   tasks:
+  #     - ${tasks.vision}
+  # - model: ${models.2}
+  #   tasks:
+  #     - ${tasks.vision}
+  # - model: ${models.3}
+  #   tasks:
+  #     - ${tasks.vision}
+  # - model: ${models.4}
+  #   tasks:
+  #     - ${tasks.vision}
+  # - model: ${models.5}
+  #   tasks:
+  #     - ${tasks.vision}
+  - model: ${models.6}
+    tasks:
+      - ${tasks.vision}

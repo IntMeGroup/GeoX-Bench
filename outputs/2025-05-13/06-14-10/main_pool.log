@@ -1,0 +1,32 @@
+[2025-05-13 06:14:11,668][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:14:11,668][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:14:11,668][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:14:11,668][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:14:11,669][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:14:16,220][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:14:16,269][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:14:16,374][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:14:16,513][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:14:16,730][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:20:58,710][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:20:58,723][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:21:02,623][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:21:02,851][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:21:05,876][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:21:06,724][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:21:08,737][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:21:10,284][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:21:10,502][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:21:12,773][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:27:46,815][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:27:50,777][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:27:51,877][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:27:54,859][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 06:27:55,839][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 06:27:58,524][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 07:20:06,184][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 07:20:10,333][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 07:21:53,187][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 07:21:57,584][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-13 07:26:50,223][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 07:26:53,825][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb

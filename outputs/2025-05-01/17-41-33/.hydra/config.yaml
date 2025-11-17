@@ -1,0 +1,104 @@
+output_base: /home/LMMBench/output/orin_4_SameLocation
+batch_size: 1
+pipelines:
+- model: ${models.0}
+  tasks:
+  - ${tasks.orin4}
+- model: ${models.4}
+  tasks:
+  - ${tasks.orin4}
+models:
+  '0':
+    name: llava_interleave_qwen_7b
+    class_path: model.LlavaInterleaveQwen
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/llava-interleave-qwen-7b-hf
+  '1':
+    name: qwen25vl_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/Qwen2.5-VL-7B-Instruct
+  '2':
+    name: mPLUG-owl3_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/mPLUG-Owl3-7B-240728
+  '3':
+    name: MS-Phi3d5
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/Phi-3.5-vision-instruct
+  '4':
+    name: llava-one-vision_7b
+    class_path: model.LLaVAOneVision
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/llava-onevision-qwen2-7b-ov
+  '5':
+    name: InternVL3-8B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home/model/InternVL3-8B
+  '6':
+    name: deepseek-vl-7b-chat
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/deepseek-vl-7b-chat
+tasks:
+  orin4:
+    name: orin_4
+    dataset_class: Tasks.orin_task.OrientationDataset
+    data_writer_class: Tasks.orin_task.OrintationDataWriter
+    lmm_message_class: Tasks.orin_task.Orintation4LMMMessage
+    get_dataloader_fn: Tasks.orin_task.get_dataloader
+    instances:
+    - root_dir: /mnt/dataset/TianYi/Custom/CVGlobal_Brisbane
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVGloable.json
+      output: CVGloable.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/CVUSA_CVPRSubset
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom18.json
+      output: CVUSA_zoom18.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/CVUSA_CVPRSubset
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom19.json
+      output: CVUSA_zoom19.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/CVUSA_CVPRSubset
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom20.json
+      output: CVUSA_zoom20.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/LLMGeo/2425
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom20.json
+      output: LMMGeo_zoom20.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/LLMGeo/2425
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom21.json
+      output: LMMGeo_zoom21.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/LLMGeo/2425
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom22.json
+      output: LMMGeo_zoom22.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/OmniCity
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_View1.json
+      output: OmniCity_View1.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/OmniCity
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_View2.json
+      output: OmniCity_View2.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/OmniCity
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_View3.json
+      output: OmniCity_View3.json
+      sample_size: 0
+    - root_dir: /mnt/dataset/TianYi/Custom/VIGOR_Chicago
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/VIGOR_Chicago.json
+      output: VIGOR_Chicago.json
+      sample_size: 0

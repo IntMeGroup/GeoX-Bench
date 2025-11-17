@@ -1,0 +1,6 @@
+[2025-07-29 05:14:26,991][datasets][INFO] - PyTorch version 2.7.1+cu128 available.
+[2025-07-29 05:14:47,867][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-29 05:15:05,043][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-29 05:15:06,072][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-29 05:15:07,103][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-29 05:15:07,375][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 200 OK"

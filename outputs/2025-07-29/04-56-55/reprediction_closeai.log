@@ -1,0 +1,2 @@
+[2025-07-29 04:56:57,085][datasets][INFO] - PyTorch version 2.7.1+cu128 available.
+[2025-07-29 04:57:29,002][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 400 Bad Request"

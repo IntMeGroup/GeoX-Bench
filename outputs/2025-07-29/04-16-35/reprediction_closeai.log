@@ -1,0 +1,8 @@
+[2025-07-29 04:16:37,110][datasets][INFO] - PyTorch version 2.7.1+cu128 available.
+[2025-07-29 04:20:01,057][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-29 04:20:01,058][openai._base_client][INFO] - Retrying request to /chat/completions in 0.420072 seconds
+[2025-07-29 04:21:21,340][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-29 04:24:27,638][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 200 OK"
+[2025-07-29 04:27:48,815][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-29 04:27:48,816][openai._base_client][INFO] - Retrying request to /chat/completions in 0.496874 seconds
+[2025-07-29 04:30:45,260][httpx][INFO] - HTTP Request: POST http://34.13.73.248:3888/v1/chat/completions "HTTP/1.1 200 OK"

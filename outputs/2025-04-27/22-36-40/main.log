@@ -1,0 +1,3 @@
+[2025-04-27 22:36:41,801][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-27 22:37:05,313][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-04-27 22:37:05,552][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config

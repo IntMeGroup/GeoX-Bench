@@ -1,0 +1,5 @@
+[2025-04-27 22:19:10,905][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-27 22:19:52,434][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-04-27 22:20:00,500][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-04-27 22:20:00,608][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-04-27 22:22:20,455][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb

@@ -1,0 +1,66 @@
+[2025-05-13 02:04:19,349][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 02:04:19,349][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 02:04:19,349][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 02:04:19,350][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 02:04:19,352][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 02:04:19,376][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-13 02:04:23,248][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,248][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,248][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,248][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,255][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,255][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,255][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,255][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,276][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,276][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,276][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,276][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,283][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,283][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,284][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,284][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,340][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,340][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,340][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,340][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,347][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,347][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,347][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,347][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,349][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,349][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,349][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,350][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,367][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,367][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,367][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,367][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,495][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,495][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,495][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,495][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,497][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,497][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,497][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,497][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,503][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,503][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,503][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,503][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,504][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-13 02:04:23,504][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,504][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-13 02:04:23,504][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-13 02:04:23,700][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-13 02:04:23,700][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,708][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-13 02:04:23,708][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,784][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-13 02:04:23,784][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,784][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-13 02:04:23,784][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:23,946][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-13 02:04:23,946][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-13 02:04:24,006][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-13 02:04:24,006][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - ps_version: v2

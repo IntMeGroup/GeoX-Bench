@@ -1,0 +1,1802 @@
+[
+  {
+    "image_id": "689_90",
+    "original_id": "3469",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/689.png",
+      "fov": 90,
+      "capture_time": "2024-02",
+      "real_location": "13.25327608595927,144.7313337604654",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/689.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "508_270",
+    "original_id": "2355",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/508.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "52.72558366054739,22.80970312714603",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/508.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "747_270",
+    "original_id": "4491",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/747.png",
+      "fov": 90,
+      "capture_time": "2024-07",
+      "real_location": "55.1702690824854,-119.3231910610685",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/747.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "383_270",
+    "original_id": "3244",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/383.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "45.15697029094882,13.78802199005148",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/383.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "377_0",
+    "original_id": "6231",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/377.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "58.02101318902781,27.05758910835238",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/377.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "595_180",
+    "original_id": "2787",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/595.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "63.49190993417014,29.04988119481807",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/595.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "441_270",
+    "original_id": "805",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/441.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "55.0347651359894,22.89993326543749",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/441.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "190_90",
+    "original_id": "4964",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/190.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "48.02655060452047,26.46685007885283",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/190.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "360_180",
+    "original_id": "4552",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/360.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "46.74320601393217,18.64965586523037",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/360.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "312_270",
+    "original_id": "3127",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/312.png",
+      "fov": 90,
+      "capture_time": "2024-07",
+      "real_location": "52.57112651896459,-117.7158893171348",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/312.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "441_0",
+    "original_id": "805",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/441.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "55.0347651359894,22.89993326543749",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/441.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "710_270",
+    "original_id": "6145",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/710.png",
+      "fov": 90,
+      "capture_time": "2024-07",
+      "real_location": "55.21247482000005,-119.3846707162383",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/710.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "207_90",
+    "original_id": "3143",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/207.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "56.82641490528099,26.73288380939815",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/207.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "382_0",
+    "original_id": "2504",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/382.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "66.68357475433567,22.07372696377329",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/382.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1233_180",
+    "original_id": "5307",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/1233.png",
+      "fov": 90,
+      "capture_time": "2025-01",
+      "real_location": "39.21870068600108,-6.345051297101956",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1233.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "190_180",
+    "original_id": "4964",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/190.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "48.02655060452047,26.46685007885283",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/190.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "240_0",
+    "original_id": "3650",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/240.png",
+      "fov": 90,
+      "capture_time": "2024-04",
+      "real_location": "47.83073786338403,26.0139866747494",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/240.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "465_0",
+    "original_id": "5170",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/465.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "63.1573231833429,15.67312880505712",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/465.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1100_0",
+    "original_id": "3566",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/1100.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "51.44899529085741,-115.038248938372",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1100.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "144_90",
+    "original_id": "951",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "90/144.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "56.54315645576709,26.34900302711448",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/144.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "383_0",
+    "original_id": "3244",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/383.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "45.15697029094882,13.78802199005148",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/383.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "760_270",
+    "original_id": "727",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/760.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "52.07069945281959,23.36119767586409",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/760.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1112_90",
+    "original_id": "1160",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/1112.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "48.81417202794916,21.68576553566799",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1112.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1039_0",
+    "original_id": "4997",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/1039.png",
+      "fov": 90,
+      "capture_time": "2024-03",
+      "real_location": "-20.66108026373136,-53.22647560584323",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1039.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "660_90",
+    "original_id": "5056",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/660.png",
+      "fov": 90,
+      "capture_time": "2024-09",
+      "real_location": "44.53955891647533,-84.95310527891793",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/660.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "489_90",
+    "original_id": "4443",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/489.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "49.13953560004868,21.36687413138033",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/489.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "489_0",
+    "original_id": "4443",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/489.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "49.13953560004868,21.36687413138033",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/489.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1231_180",
+    "original_id": "400",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/1231.png",
+      "fov": 90,
+      "capture_time": "2025-02",
+      "real_location": "31.03777568110528,-83.62891719337284",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1231.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "616_90",
+    "original_id": "776",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/616.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "-18.66525447739588,144.725048553647",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/616.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "656_90",
+    "original_id": "189",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/656.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "50.33553567810407,12.85265533870265",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/656.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "40_90",
+    "original_id": "88",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "90/40.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "56.35548267158146,26.38122872176083",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/40.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "465_90",
+    "original_id": "5170",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/465.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "63.1573231833429,15.67312880505712",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/465.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "513_90",
+    "original_id": "3445",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/513.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "67.61462578031123,17.91922227476097",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/513.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "145_180",
+    "original_id": "904",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "180/145.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "57.85156593386787,26.87364406646617",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/145.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "565_180",
+    "original_id": "1750",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/565.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "49.48703579604276,16.10420126032799",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/565.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "240_270",
+    "original_id": "3650",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/240.png",
+      "fov": 90,
+      "capture_time": "2024-04",
+      "real_location": "47.83073786338403,26.0139866747494",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/240.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "577_270",
+    "original_id": "5596",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/577.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "56.07168124370786,25.11914016826889",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/577.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "60_180",
+    "original_id": "489",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "180/60.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "50.05159425792462,-97.84288767257644",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/60.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "57_270",
+    "original_id": "120",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "270/57.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "63.19416263307296,15.33275082327965",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/57.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "489_180",
+    "original_id": "4443",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/489.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "49.13953560004868,21.36687413138033",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/489.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1041_180",
+    "original_id": "4746",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/1041.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "43.93451061788441,12.44515130301433",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1041.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1233_0",
+    "original_id": "5307",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/1233.png",
+      "fov": 90,
+      "capture_time": "2025-01",
+      "real_location": "39.21870068600108,-6.345051297101956",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1233.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "731_0",
+    "original_id": "1163",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/731.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "56.63355215869491,26.63322615263158",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/731.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1047_0",
+    "original_id": "3511",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/1047.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "-26.85518673674293,-54.88920990603479",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1047.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "145_90",
+    "original_id": "904",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "90/145.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "57.85156593386787,26.87364406646617",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/145.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "656_270",
+    "original_id": "189",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/656.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "50.33553567810407,12.85265533870265",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/656.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "509_180",
+    "original_id": "2633",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/509.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "64.91204692088317,-22.86764393304064",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/509.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "135_270",
+    "original_id": "506",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "270/135.png",
+      "fov": 90,
+      "capture_time": "2024-09",
+      "real_location": "53.39306930707495,21.62078313781541",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/135.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "622_90",
+    "original_id": "5797",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/622.png",
+      "fov": 90,
+      "capture_time": "2024-01",
+      "real_location": "19.71815863887643,82.1187465079767",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/622.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "319_270",
+    "original_id": "2034",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/319.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "48.0015065350264,26.4330350777342",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/319.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "660_180",
+    "original_id": "5056",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/660.png",
+      "fov": 90,
+      "capture_time": "2024-09",
+      "real_location": "44.53955891647533,-84.95310527891793",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/660.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1041_270",
+    "original_id": "4746",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/1041.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "43.93451061788441,12.44515130301433",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1041.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "784_180",
+    "original_id": "3670",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/784.png",
+      "fov": 90,
+      "capture_time": "2024-07",
+      "real_location": "51.4754206753578,-117.221312480366",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/784.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "565_270",
+    "original_id": "1750",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/565.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "49.48703579604276,16.10420126032799",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/565.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1134_0",
+    "original_id": "1813",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/1134.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "48.93047626961499,21.62058784117886",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1134.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "128_180",
+    "original_id": "781",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "180/128.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "47.99816072284138,15.16031355138191",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/128.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "784_270",
+    "original_id": "3670",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/784.png",
+      "fov": 90,
+      "capture_time": "2024-07",
+      "real_location": "51.4754206753578,-117.221312480366",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/784.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "198_0",
+    "original_id": "352",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/198.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "47.95112453868646,15.235047050998",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/198.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "731_90",
+    "original_id": "1163",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/731.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "56.63355215869491,26.63322615263158",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/731.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "57_0",
+    "original_id": "120",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "0/57.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "63.19416263307296,15.33275082327965",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/57.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "2_90",
+    "original_id": "990",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "90/2.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "51.37923648990522,-102.737734371693",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/2.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "754_270",
+    "original_id": "385",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/754.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "64.06140358087399,15.55269738921926",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/754.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1045_0",
+    "original_id": "1010",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/1045.png",
+      "fov": 90,
+      "capture_time": "2024-02",
+      "real_location": "-13.49761064081411,-40.1876982031024",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1045.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "710_90",
+    "original_id": "6145",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/710.png",
+      "fov": 90,
+      "capture_time": "2024-07",
+      "real_location": "55.21247482000005,-119.3846707162383",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/710.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1097_90",
+    "original_id": "1311",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/1097.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "48.87949586646663,21.55923999153957",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1097.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1231_270",
+    "original_id": "400",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/1231.png",
+      "fov": 90,
+      "capture_time": "2025-02",
+      "real_location": "31.03777568110528,-83.62891719337284",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1231.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "49_0",
+    "original_id": "868",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "0/49.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "67.72831603528145,24.43431259079092",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/49.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "311_90",
+    "original_id": "2726",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/311.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "49.03864053876098,21.53734393096058",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/311.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "719_180",
+    "original_id": "605",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/719.png",
+      "fov": 90,
+      "capture_time": "2024-03",
+      "real_location": "21.36323690747751,-98.66059207020871",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/719.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1134_180",
+    "original_id": "1813",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/1134.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "48.93047626961499,21.62058784117886",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1134.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "120_90",
+    "original_id": "556",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "90/120.png",
+      "fov": 90,
+      "capture_time": "2024-07",
+      "real_location": "65.42909041878308,-19.11946722634238",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/120.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "360_90",
+    "original_id": "4552",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/360.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "46.74320601393217,18.64965586523037",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/360.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "144_0",
+    "original_id": "951",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "0/144.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "56.54315645576709,26.34900302711448",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/144.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "120_270",
+    "original_id": "556",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "270/120.png",
+      "fov": 90,
+      "capture_time": "2024-07",
+      "real_location": "65.42909041878308,-19.11946722634238",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/120.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "622_0",
+    "original_id": "5797",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/622.png",
+      "fov": 90,
+      "capture_time": "2024-01",
+      "real_location": "19.71815863887643,82.1187465079767",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/622.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "577_0",
+    "original_id": "5596",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/577.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "56.07168124370786,25.11914016826889",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/577.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "435_0",
+    "original_id": "535",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/435.png",
+      "fov": 90,
+      "capture_time": "2024-04",
+      "real_location": "47.5387406053696,26.86740295673576",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/435.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "190_0",
+    "original_id": "4964",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/190.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "48.02655060452047,26.46685007885283",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/190.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1231_0",
+    "original_id": "400",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/1231.png",
+      "fov": 90,
+      "capture_time": "2025-02",
+      "real_location": "31.03777568110528,-83.62891719337284",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1231.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1097_270",
+    "original_id": "1311",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/1097.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "48.87949586646663,21.55923999153957",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1097.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "754_180",
+    "original_id": "385",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/754.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "64.06140358087399,15.55269738921926",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/754.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "930_270",
+    "original_id": "2139",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/930.png",
+      "fov": 90,
+      "capture_time": "2024-11",
+      "real_location": "45.26227584175614,25.00034565762325",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/930.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "312_90",
+    "original_id": "3127",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/312.png",
+      "fov": 90,
+      "capture_time": "2024-07",
+      "real_location": "52.57112651896459,-117.7158893171348",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/312.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "435_90",
+    "original_id": "535",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/435.png",
+      "fov": 90,
+      "capture_time": "2024-04",
+      "real_location": "47.5387406053696,26.86740295673576",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/435.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1047_180",
+    "original_id": "3511",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/1047.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "-26.85518673674293,-54.88920990603479",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1047.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "435_270",
+    "original_id": "535",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/435.png",
+      "fov": 90,
+      "capture_time": "2024-04",
+      "real_location": "47.5387406053696,26.86740295673576",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/435.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1097_180",
+    "original_id": "1311",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/1097.png",
+      "fov": 90,
+      "capture_time": "2024-05",
+      "real_location": "48.87949586646663,21.55923999153957",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1097.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "240_180",
+    "original_id": "3650",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/240.png",
+      "fov": 90,
+      "capture_time": "2024-04",
+      "real_location": "47.83073786338403,26.0139866747494",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/240.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "190_270",
+    "original_id": "4964",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/190.png",
+      "fov": 90,
+      "capture_time": "2024-10",
+      "real_location": "48.02655060452047,26.46685007885283",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/190.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "333_180",
+    "original_id": "3925",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/333.png",
+      "fov": 90,
+      "capture_time": "2024-04",
+      "real_location": "56.03803173209327,26.84094218745375",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/333.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "329_180",
+    "original_id": "33",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/329.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "46.251822623068,-74.02042968637232",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/329.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "1231_90",
+    "original_id": "400",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/1231.png",
+      "fov": 90,
+      "capture_time": "2025-02",
+      "real_location": "31.03777568110528,-83.62891719337284",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/1231.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "145_0",
+    "original_id": "904",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "0/145.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "57.85156593386787,26.87364406646617",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/145.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "382_90",
+    "original_id": "2504",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "90/382.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "66.68357475433567,22.07372696377329",
+      "orientation": "E",
+      "degree": 90.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/382.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "656_0",
+    "original_id": "189",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "0/656.png",
+      "fov": 90,
+      "capture_time": "2024-06",
+      "real_location": "50.33553567810407,12.85265533870265",
+      "orientation": "N",
+      "degree": 0.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/656.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "435_180",
+    "original_id": "535",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/435.png",
+      "fov": 90,
+      "capture_time": "2024-04",
+      "real_location": "47.5387406053696,26.86740295673576",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/435.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "689_270",
+    "original_id": "3469",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/689.png",
+      "fov": 90,
+      "capture_time": "2024-02",
+      "real_location": "13.25327608595927,144.7313337604654",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/689.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "140_180",
+    "original_id": "807",
+    "source": "test",
+    "GroundImage": {
+      "file_path": "180/140.png",
+      "fov": 90,
+      "capture_time": "2024-04",
+      "real_location": "54.37456969225685,23.20631342987818",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/140.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "689_180",
+    "original_id": "3469",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "180/689.png",
+      "fov": 90,
+      "capture_time": "2024-02",
+      "real_location": "13.25327608595927,144.7313337604654",
+      "orientation": "S",
+      "degree": 180.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/689.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  },
+  {
+    "image_id": "465_270",
+    "original_id": "5170",
+    "source": "train",
+    "GroundImage": {
+      "file_path": "270/465.png",
+      "fov": 90,
+      "capture_time": "2024-08",
+      "real_location": "63.1573231833429,15.67312880505712",
+      "orientation": "W",
+      "degree": 270.0
+    },
+    "AerialImage": {
+      "file_path": "ProcessedTiles/465.png",
+      "zoom_level": 20,
+      "centered": true
+    }
+  }
+]

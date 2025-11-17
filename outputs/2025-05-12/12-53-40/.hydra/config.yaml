@@ -1,0 +1,165 @@
+output_base: /home2/ys_zheng/LMMBench/output/tmp512
+pipelines:
+- model: ${models.3}
+  tasks:
+  - ${tasks.tmp}
+models:
+  '1':
+    name: deepseek-vl-7b-chat
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/deepseek-vl-7b-chat
+    batch_size: 1
+  '2':
+    name: InternVL2-2B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/InternVL2-2B
+    batch_size: 8
+  '3':
+    name: InternVL2-4B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/InternVL2-4B
+    batch_size: 8
+  '4':
+    name: InternVL2-8B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/InternVL2-8B
+    batch_size: 8
+  '5':
+    name: InternVL3-2B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/InternVL3-2B
+    batch_size: 8
+  '6':
+    name: InternVL3-8B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/InternVL3-8B
+    batch_size: 8
+  '7':
+    name: llava_interleave_qwen_7b
+    class_path: model.LlavaInterleaveQwen
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/llava-interleave-qwen-7b-hf
+    batch_size: 1
+  '8':
+    name: llava-one-vision_7b
+    class_path: model.LLaVAOneVision
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/llava-onevision-qwen2-7b-ov
+    batch_size: 1
+  '10':
+    name: mPLUG-owl3_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/mPLUG-Owl3-7B-240728
+    batch_size: 8
+  '11':
+    name: MS-Phi3d5
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Phi-3.5-vision-instruct
+    batch_size: 8
+  '12':
+    name: qwen25vl_3b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Qwen2.5-VL-3B-Instruct
+    batch_size: 8
+  '13':
+    name: qwen25vl_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Qwen2.5-VL-7B-Instruct
+    batch_size: 8
+  '14':
+    name: qwen2vl_2b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Qwen2-VL-2B-Instruct
+    batch_size: 8
+  '15':
+    name: qwen2vl_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Qwen2-VL-7B-Instruct
+    batch_size: 8
+tasks:
+  map_gauss:
+    name: map_gauss
+    dataset_class: Tasks.map_gauss.MapGaussDataset
+    data_writer_class: Tasks.map_gauss.MapGaussDataWriter
+    lmm_message_class: Tasks.map_gauss.MapGaussLMMMessage
+    get_dataloader_fn: Tasks.map_gauss.get_dataloader
+    output_dir: map_gauss
+    instances:
+    - root_dir: /home2/ys_zheng/LocationSelection/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/LocationSelection/LMMGeo_zoom20.json
+      output: LMMGeo_zoom20.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/LocationSelection/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/LocationSelection/LMMGeo_zoom21.json
+      output: LMMGeo_zoom21.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/LocationSelection/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/LocationSelection/LMMGeo_zoom22.json
+      output: LMMGeo_zoom22.json
+      sample_size: 0
+  map_gauss_random:
+    name: map_gauss_random
+    dataset_class: Tasks.map_gauss_random.MapGaussDataset
+    data_writer_class: Tasks.map_gauss_random.MapGaussDataWriter
+    lmm_message_class: Tasks.map_gauss_random.MapGaussLMMMessage
+    get_dataloader_fn: Tasks.map_gauss_random.get_dataloader
+    output_dir: map_gauss_random
+    instances:
+    - root_dir: /home2/ys_zheng/LocationSelection/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/LocationSelection/LMMGeo_zoom20.json
+      output: LMMGeo_zoom20.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/LocationSelection/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/LocationSelection/LMMGeo_zoom21.json
+      output: LMMGeo_zoom21.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/LocationSelection/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/LocationSelection/LMMGeo_zoom22.json
+      output: LMMGeo_zoom22.json
+      sample_size: 0
+  tmp:
+    name: orin4_FoV90
+    dataset_class: Tasks.orin_task.OrientationDataset
+    data_writer_class: Tasks.orin_task.OrintationDataWriter
+    lmm_message_class: Tasks.orin_task.Orintation4LMMMessage
+    get_dataloader_fn: Tasks.orin_task.get_dataloader
+    output_dir: orin4_FoV90
+    instances:
+    - root_dir: /home2/ys_zheng/Mule_Transfer/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom20.json
+      output: LMMGeo_zoom20.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom21.json
+      output: LMMGeo_zoom21.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom22.json
+      output: LMMGeo_zoom22.json
+      sample_size: 0

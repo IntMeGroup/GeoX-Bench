@@ -1,0 +1,236 @@
+[
+    {
+        "image_id": "35804",
+        "original_id": "35803",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/abwejr-7h4UDDCbGQsuntA,41.878122,-87.669972,S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.878122,-87.669972",
+            "orientation": "S",
+            "degree": 180
+        },
+        "AerialImage": {
+            "file_path": "map/abwejr-7h4UDDCbGQsuntA,41.878122,-87.669972,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "111491",
+        "original_id": "111490",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/m5AGs-EhBz3h5llb74wLWQ,41.860509,-87.625713,SE.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.860509,-87.625713",
+            "orientation": "SE",
+            "degree": 135
+        },
+        "AerialImage": {
+            "file_path": "map/m5AGs-EhBz3h5llb74wLWQ,41.860509,-87.625713,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "2444",
+        "original_id": "2443",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/-ulE8Fgd8ARtzAf-E5_vRg,41.868960,-87.642198,S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.868960,-87.642198",
+            "orientation": "S",
+            "degree": 180
+        },
+        "AerialImage": {
+            "file_path": "map/-ulE8Fgd8ARtzAf-E5_vRg,41.868960,-87.642198,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "151280",
+        "original_id": "151279",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/sbE1__TO7w17uZQM6vxn-g,41.883877,-87.671837,N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.883877,-87.671837",
+            "orientation": "N",
+            "degree": 0
+        },
+        "AerialImage": {
+            "file_path": "map/sbE1__TO7w17uZQM6vxn-g,41.883877,-87.671837,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "72502",
+        "original_id": "72501",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/fwg5qyuCVTF8c8Csrhw4Ww,41.857220,-87.622271,W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.857220,-87.622271",
+            "orientation": "W",
+            "degree": 270
+        },
+        "AerialImage": {
+            "file_path": "map/fwg5qyuCVTF8c8Csrhw4Ww,41.857220,-87.622271,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "191803",
+        "original_id": "191802",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/yqqFev0_eR90EilCauxyrw,41.854840,-87.622215,SE.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.854840,-87.622215",
+            "orientation": "SE",
+            "degree": 135
+        },
+        "AerialImage": {
+            "file_path": "map/yqqFev0_eR90EilCauxyrw,41.854840,-87.622215,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "40270",
+        "original_id": "40269",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/axZc7nW7nNTCb-dHmhJ9pA,41.887385,-87.655695,W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.887385,-87.655695",
+            "orientation": "W",
+            "degree": 270
+        },
+        "AerialImage": {
+            "file_path": "map/axZc7nW7nNTCb-dHmhJ9pA,41.887385,-87.655695,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "46008",
+        "original_id": "46007",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/bu7-I8rXxw5D7fZoxghXpg,41.892864,-87.637487,N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.892864,-87.637487",
+            "orientation": "N",
+            "degree": 0
+        },
+        "AerialImage": {
+            "file_path": "map/bu7-I8rXxw5D7fZoxghXpg,41.892864,-87.637487,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "45847",
+        "original_id": "45846",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/bTDoh3VSj2jRsB0SAYFZxQ,41.886209,-87.687808,NW.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.886209,-87.687808",
+            "orientation": "NW",
+            "degree": 315
+        },
+        "AerialImage": {
+            "file_path": "map/bTDoh3VSj2jRsB0SAYFZxQ,41.886209,-87.687808,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "163796",
+        "original_id": "163795",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/uDaIsxdoHN1qwE6t8D9_pg,41.889498,-87.618196,S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.889498,-87.618196",
+            "orientation": "S",
+            "degree": 180
+        },
+        "AerialImage": {
+            "file_path": "map/uDaIsxdoHN1qwE6t8D9_pg,41.889498,-87.618196,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "33132",
+        "original_id": "33131",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/9qsLschXitsE3wbJ5aJi9g,41.878081,-87.635651,S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.878081,-87.635651",
+            "orientation": "S",
+            "degree": 180
+        },
+        "AerialImage": {
+            "file_path": "map/9qsLschXitsE3wbJ5aJi9g,41.878081,-87.635651,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "90606",
+        "original_id": "90605",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/ISOA8A_SYAfTYP1V1s3cSA,41.862264,-87.621607,W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.862264,-87.621607",
+            "orientation": "W",
+            "degree": 270
+        },
+        "AerialImage": {
+            "file_path": "map/ISOA8A_SYAfTYP1V1s3cSA,41.862264,-87.621607,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    },
+    {
+        "image_id": "200794",
+        "original_id": "200793",
+        "source": "test",
+        "GroundImage": {
+            "file_path": "image/_2rRbWTdYI11i_S6Z09vrQ,41.861657,-87.651492,E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "41.861657,-87.651492",
+            "orientation": "E",
+            "degree": 90
+        },
+        "AerialImage": {
+            "file_path": "map/_2rRbWTdYI11i_S6Z09vrQ,41.861657,-87.651492,.png",
+            "zoom_level": null,
+            "centered": true
+        }
+    }
+]

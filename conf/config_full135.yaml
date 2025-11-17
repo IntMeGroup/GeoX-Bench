@@ -1,0 +1,57 @@
+defaults:
+  - _self_
+
+  # ── models ───────────────────────────────────────────────────────────────
+  - model@models.0: llava_interleave_qwen_7b
+  - model@models.1: qwen25vl_7b
+  - model@models.2: mPLUG-owl3_7b
+  - model@models.3: MS-Phi3d5
+  - model@models.4: llava-one-vision_7b
+  - model@models.5: InternVL3-8B
+  - model@models.6: deepseek-vl-7b-chat
+
+  # ── tasks ────────────────────────────────────────────────────────────────
+  - task@tasks.location:      location
+  - task@tasks.orin:          orin_4
+  - task@tasks.orin_random:   location_random
+  - task@tasks.orin4:         orin4_random
+
+# ───────────────────────── global knobs ────────────────────────────────────
+output_base: /home2/ys_zheng/LMMBench/output/output_135FoV
+batch_size: 1
+
+# ───────────────────────── pipeline wiring ─────────────────────────────────
+# Full combination: Every model runs every task
+pipelines:
+  # - model: ${models.0}
+  #   tasks:
+  #     - ${tasks.location}
+  #     - ${tasks.orin}
+  #     - ${tasks.orin_random}
+
+  - model: ${models.1}
+    tasks:
+      - ${tasks.location}
+      - ${tasks.orin}
+      - ${tasks.orin_random}
+      - ${tasks.orin4}
+
+  - model: ${models.2}
+    tasks:
+      - ${tasks.location}
+      - ${tasks.orin}
+      - ${tasks.orin_random}
+
+  - model: ${models.5}
+    tasks:
+      - ${tasks.location}
+      - ${tasks.orin}
+      - ${tasks.orin_random}
+      - ${tasks.orin4}
+
+  - model: ${models.6}
+    tasks:
+      - ${tasks.location}
+      - ${tasks.orin}
+      - ${tasks.orin_random}
+      - ${tasks.orin4}

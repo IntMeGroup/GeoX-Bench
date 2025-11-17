@@ -1,0 +1,20 @@
+[2025-05-01 17:00:51,237][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-05-01 17:01:22,209][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-01 17:02:05,197][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-05-01 17:02:28,888][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-01 17:02:29,148][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-01 17:05:32,025][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-05-01 17:05:56,608][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-01 17:06:24,956][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-05-01 17:06:48,442][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-01 17:06:48,442][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-01 17:06:48,442][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-01 17:06:48,442][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-01 17:06:48,450][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-01 17:06:48,450][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-01 17:06:48,450][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-01 17:06:48,450][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-01 17:06:49,012][transformers_modules.InternVL3-8B.modeling_intern_vit][INFO] - Discovered apex.normalization.FusedRMSNorm - will use it instead of InternRMSNorm
+[2025-05-01 17:06:49,016][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-01 17:06:49,016][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-01 17:07:22,491][datasets][INFO] - PyTorch version 2.6.0 available.

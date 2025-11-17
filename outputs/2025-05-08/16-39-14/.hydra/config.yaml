@@ -1,0 +1,169 @@
+output_base: /home2/ys_zheng/LMMBench/output/random9
+pipelines:
+- mode: 1
+  model: ${models.1}
+  tasks:
+  - ${tasks.location9}
+- mode: 2
+  model: ${models.2}
+  tasks:
+  - ${tasks.location9}
+- mode: 3
+  model: ${models.3}
+  tasks:
+  - ${tasks.location9}
+- mode: 4
+  model: ${models.4}
+  tasks:
+  - ${tasks.location9}
+- mode: 5
+  model: ${models.5}
+  tasks:
+  - ${tasks.location9}
+- mode: 6
+  model: ${models.6}
+  tasks:
+  - ${tasks.location9}
+- mode: 7
+  model: ${models.7}
+  tasks:
+  - ${tasks.location9}
+- mode: 8
+  model: ${models.8}
+  tasks:
+  - ${tasks.location9}
+- mode: 9
+  model: ${models.9}
+  tasks:
+  - ${tasks.location9}
+- mode: 10
+  model: ${models.10}
+  tasks:
+  - ${tasks.location9}
+models:
+  '1':
+    name: qwen25vl_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Qwen2.5-VL-7B-Instruct
+    batch_size: 8
+  '2':
+    name: mPLUG-owl3_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/mPLUG-Owl3-7B-240728
+    batch_size: 8
+  '3':
+    name: MS-Phi3d5
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Phi-3.5-vision-instruct
+    batch_size: 8
+  '4':
+    name: InternVL3-8B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/InternVL3-8B
+    batch_size: 8
+  '5':
+    name: deepseek-vl-7b-chat
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/deepseek-vl-7b-chat
+    batch_size: 2
+  '6':
+    name: qwensft1200
+    class_path: model.LoRAInferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Qwen2.5-VL-7B-Instruct
+    batch_size: 8
+    lora_checkpoint: /home2/ys_zheng/sft/output_orin_only_lora_checkpoints/v8-20250504-175705/checkpoint-1200
+  '7':
+    name: llava-one-vision_7b
+    class_path: model.LLaVAOneVision
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/llava-onevision-qwen2-7b-ov
+    batch_size: 1
+  '8':
+    name: llava_interleave_qwen_7b
+    class_path: model.LlavaInterleaveQwen
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/llava-interleave-qwen-7b-hf
+    batch_size: 1
+  '9':
+    name: qwensftNOVIGOR
+    class_path: model.LoRAInferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Qwen2.5-VL-7B-Instruct
+    batch_size: 8
+    lora_checkpoint: /home2/ys_zheng/sft/output_Orin_NOVIGOR/v3-20250506-160705/checkpoint-340
+  '10':
+    name: qwensftBoth
+    class_path: model.LoRAInferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Qwen2.5-VL-7B-Instruct
+    batch_size: 8
+    lora_checkpoint: /home2/ys_zheng/sft/output_orin_and_location/v3-20250505-152340/checkpoint-2600
+tasks:
+  location9:
+    name: location4_random9_FoV90
+    dataset_class: Tasks.location_8_gauss.InRangeDataset
+    data_writer_class: Tasks.location_8_gauss.InRnageDataWriter
+    lmm_message_class: Tasks.location_8_gauss.LocationLMMMessage
+    get_dataloader_fn: Tasks.location_8_gauss.get_dataloader
+    output_dir: location4_random9_FoV90
+    instances:
+    - root_dir: /home2/ys_zheng/Mule_Transfer/CVGloable
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/CVGloable.json
+      output: CVGloable.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/CVUSA
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/CVUSA_zoom18.json
+      output: CVUSA_zoom18.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/CVUSA
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/CVUSA_zoom19.json
+      output: CVUSA_zoom19.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/CVUSA
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/CVUSA_zoom20.json
+      output: CVUSA_zoom20.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/LMMGeo_zoom20.json
+      output: LMMGeo_zoom20.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/LMMGeo_zoom21.json
+      output: LMMGeo_zoom21.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/LMMGeo_zoom22.json
+      output: LMMGeo_zoom22.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/OmniCity
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/OmniCity_view1.json
+      output: OmniCity_View1.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/OmniCity
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/OmniCity_view2.json
+      output: OmniCity_View2.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/OmniCity
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/OmniCity_view3.json
+      output: OmniCity_View3.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/VIGOR_Chicago
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Location4_80InRange/VIGOR_Chicago.json
+      output: VIGOR_Chicago.json
+      sample_size: 0

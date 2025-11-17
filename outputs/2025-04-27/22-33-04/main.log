@@ -1,0 +1,4 @@
+[2025-04-27 22:33:05,415][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-27 22:33:18,989][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-04-27 22:33:19,309][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-04-27 22:33:38,428][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb

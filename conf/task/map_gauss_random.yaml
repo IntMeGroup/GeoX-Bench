@@ -1,0 +1,51 @@
+name: map_gauss_random
+dataset_class: Tasks.map_gauss_random.MapGaussDataset
+data_writer_class: Tasks.map_gauss_random.MapGaussDataWriter
+lmm_message_class: Tasks.map_gauss_random.MapGaussLMMMessage
+get_dataloader_fn: Tasks.map_gauss_random.get_dataloader
+output_dir: map_gauss_random
+instances:
+- root_dir: /home/Data/LocationSelection/LMMGeo
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/LMMGeo_zoom20.json
+  output: LMMGeo_zoom20.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/LMMGeo
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/LMMGeo_zoom21.json
+  output: LMMGeo_zoom21.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/LMMGeo
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/LMMGeo_zoom22.json
+  output: LMMGeo_zoom22.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/CVGloable
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/CVGloable.json
+  output: CVGloable.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/CVUSA
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/CVUSA_zoom18.json
+  output: CVUSA_zoom18.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/CVUSA
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/CVUSA_zoom19.json
+  output: CVUSA_zoom19.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/CVUSA
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/CVUSA_zoom20.json
+  output: CVUSA_zoom20.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/OmniCity
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/OmniCity_view1.json
+  output: OmniCity_View1.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/OmniCity
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/OmniCity_view2.json
+  output: OmniCity_View2.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/OmniCity
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/OmniCity_view3.json
+  output: OmniCity_View3.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/VIGOR_Chicago
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/VIGOR_Chicago.json
+  output: VIGOR_Chicago.json
+  sample_size: 0

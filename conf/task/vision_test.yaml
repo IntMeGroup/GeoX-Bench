@@ -1,0 +1,10 @@
+name: vision_test
+dataset_class: Tasks.vision_test.GADataset
+data_writer_class: Tasks.vision_test.DataWriter
+lmm_message_class: Tasks.vision_test.LMMMessage
+get_dataloader_fn: Tasks.vision_test.get_dataloader
+instances:
+- root_dir: /home
+  json_path: /home/LMMBench/Dataset_Index/Vision_Test.json
+  output: VisionTest.json
+  sample_size: 0

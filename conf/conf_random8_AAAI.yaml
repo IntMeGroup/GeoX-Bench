@@ -1,0 +1,42 @@
+defaults:
+  - _self_
+  # - model@models.0: gemini_nothink
+  # - model@models.1: gpt4o
+  # - model@models.2: claude_sonnet_4
+  - model@models.3: o3
+  # - model@models.4: grok4
+  # - model@models.5: closeai_test
+
+# ── Single task for testing ──────────────────────────────────────────────
+  - task@tasks.location8_random:      location4_random9_FoV90
+  
+# ───────────────────────── global knobs ────────────────────────────────────
+output_base: /home/LMMBench/output/CloseAI_Random8_AAAI
+
+# ───────────────────────── sampling configuration ──────────────────────────
+# Small sample size for testing
+global_samples_per_dataset: 24
+
+# ───────────────────────── pipeline configuration ─────────────────────────────
+# Single pipeline with CloseAI model running one task
+pipelines:
+
+  # - model: ${models.0}
+  #   tasks:
+  #     - ${tasks.location8_random}
+  #
+  # - model: ${models.1}
+  #   tasks:
+  #     - ${tasks.location8_random}
+
+  - model: ${models.3}
+    tasks:
+      - ${tasks.location8_random}
+
+  # - model: ${models.2}
+  #   tasks:
+  #     - ${tasks.location8_random}
+
+  # - model: ${models.4}
+  #   tasks:
+  #     - ${tasks.location8_random}

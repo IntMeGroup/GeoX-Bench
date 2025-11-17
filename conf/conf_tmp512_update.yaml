@@ -1,0 +1,57 @@
+defaults:
+  - _self_
+
+  # ── models ───────────────────────────────────────────────────────────────
+  # - model@models.0: llava_interleave_qwen_7b
+  - model@models.1: deepseek-vl-7b-chatb1
+  - model@models.2: InternVL2-2B
+  - model@models.3: InternVL2-4B
+  - model@models.4: InternVL2-8B
+  - model@models.5: InternVL3-2B
+  - model@models.6: InternVL3-8B
+  - model@models.7: llava_interleave_qwen_7b
+  - model@models.8: llava-one-vision_7b
+  - model@models.10: mPLUG-owl3_7b
+  - model@models.11: MS-Phi3d5
+  - model@models.12: qwen25vl_3b
+  - model@models.13: qwen25vl_7b
+  - model@models.14: qwen2vl_2b
+  - model@models.15: qwen2vl_7b
+
+
+  # ── tasks ────────────────────────────────────────────────────────────────
+  - task@tasks.map_gauss: map_gauss
+  - task@tasks.map_gauss_random: map_gauss_random
+  - task@tasks.tmp: _orin4_random_FoV90_tmp
+  - task@tasks.location4_random_FoV90: location4_random_FoV90
+  - task@tasks.orin4_random_FoV90: orin4_random_FoV90
+  - task@tasks._location4_random9_FoV90_LMMGeo: _location4_random9_FoV90_LMMGeo
+# ───────────────────────── global knobs ────────────────────────────────────
+output_base: /home2/ys_zheng/LMMBench/output/tmp512_LMMGeo
+
+# ───────────────────────── pipeline wiring ─────────────────────────────────
+pipelines:
+  # - model: ${models.1}
+  #   tasks:
+  #     - ${tasks.map_gauss}
+  #     - ${tasks.map_gauss_random}
+
+  # - model: ${models.2}
+  #   tasks:
+  #     - ${tasks.location4_random_FoV90}
+
+  # - model: ${models.11}
+  #   tasks:
+  #     - ${tasks.orin4_random_FoV90}
+
+  - model: ${models.3}
+    tasks:
+      # - ${tasks.location4_random_FoV90}
+      - ${tasks._location4_random9_FoV90_LMMGeo}
+  - model: ${models.4}
+    tasks:
+      # - ${tasks.location4_random_FoV90}
+      - ${tasks._location4_random9_FoV90_LMMGeo}
+  # - model: ${models.5}
+  #   tasks:
+  #     - ${tasks.location4_random_FoV90}

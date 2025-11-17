@@ -1,0 +1,79 @@
+output_base: /home/LMMBench/output/VisionTest_NoImageToeken
+batch_size: 1
+pipelines:
+- model: ${models.0}
+  tasks:
+  - ${tasks.vision}
+- model: ${models.1}
+  tasks:
+  - ${tasks.vision}
+- model: ${models.2}
+  tasks:
+  - ${tasks.vision}
+- model: ${models.3}
+  tasks:
+  - ${tasks.vision}
+- model: ${models.4}
+  tasks:
+  - ${tasks.vision}
+- model: ${models.5}
+  tasks:
+  - ${tasks.vision}
+- model: ${models.6}
+  tasks:
+  - ${tasks.vision}
+models:
+  '0':
+    name: llava_interleave_qwen_7b
+    class_path: model.LlavaInterleaveQwen
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/llava-interleave-qwen-7b-hf
+  '1':
+    name: qwen25vl_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/Qwen2.5-VL-7B-Instruct
+  '2':
+    name: mPLUG-owl3_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /mnt/weight/mPLUG-Owl3-7B-240728
+  '3':
+    name: MS-Phi3d5
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/Phi-3.5-vision-instruct
+  '4':
+    name: llava-one-vision_7b
+    class_path: model.LLaVAOneVision
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/llava-onevision-qwen2-7b-ov
+  '5':
+    name: InternVL3-8B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home/model/InternVL3-8B
+  '6':
+    name: deepseek-vl-7b-chat
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/deepseek-vl-7b-chat
+tasks:
+  vision:
+    name: vision_test
+    dataset_class: Tasks.vision_test.GADataset
+    data_writer_class: Tasks.vision_test.DataWriter
+    lmm_message_class: Tasks.vision_test.LMMMessage
+    get_dataloader_fn: Tasks.vision_test.get_dataloader
+    instances:
+    - root_dir: /home
+      json_path: /home/LMMBench/Dataset_Index/Vision_Test.json
+      output: VisionTest.json
+      sample_size: 0

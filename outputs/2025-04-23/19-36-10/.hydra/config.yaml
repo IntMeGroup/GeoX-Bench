@@ -1,0 +1,70 @@
+output_base: /home/LMMBench/output
+batch_size: 4
+pipelines:
+- model: ${models.0}
+  tasks:
+  - ${tasks.location}
+  - ${tasks.orin}
+- model: ${models.1}
+  tasks:
+  - ${tasks.location}
+models:
+  '0':
+    name: qwen25vl_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/Qwen2.5-VL-7B-Instruct
+  '1':
+    name: qwen25vl_72b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/Qwen2.5-VL-7B-Instruct
+tasks:
+  location:
+    name: location
+    dataset_class: Tasks.location_task.InRangeDataset
+    data_writer_class: Tasks.location_task.InRnageDataWriter
+    lmm_message_class: Tasks.location_task.LocationLMMMessage
+    get_dataloader_fn: Tasks.location_task.get_dataloader
+    instances:
+    - root_dir: /mnt/dataset/TianYi/Custom/2425
+      json_path: /home/LMMBench/Dataset_Index/100Sample/LLMGeo_Location_13.json
+      output: LLMGeo_Location.json
+      sample_size: 100
+    - root_dir: /mnt/dataset/TianYi/Custom/VIGOR_Chicago
+      json_path: /home/LMMBench/Dataset_Index/100Sample/VIGOR_Location_13.json
+      output: VIGOR_Chicago_Location.json
+      batch_size: 2
+      sample_size: 100
+  orin:
+    name: orin
+    dataset_class: Tasks.orin_task.OrientationDataset
+    data_writer_class: Tasks.orin_task.OrintationDataWriter
+    lmm_message_class: Tasks.orin_task.OrintationLMMMessage
+    get_dataloader_fn: Tasks.orin_task.get_dataloader
+    instances:
+    - root_dir: /mnt/dataset/TianYi/Custom/2425
+      json_path: /home/LMMBench/Dataset_Index/100Sample/LLMGeo_Orin_100.json
+      output: LLMGeo.json
+      sample_size: 100
+    - root_dir: /mnt/dataset/TianYi/Custom/VIGOR_Chicago
+      json_path: /home/LMMBench/Dataset_Index/100Sample/VIGOR_Orin_100.json
+      output: VIGOR_Chicago.json
+      sample_size: 100
+  orin_random:
+    name: orin_random
+    dataset_class: Tasks.orin_task_random.OrientationRandomDataset
+    data_writer_class: Tasks.orin_task.OrintationDataWriter
+    lmm_message_class: Tasks.orin_task.OrintationLMMMessage
+    get_dataloader_fn: Tasks.orin_task.get_dataloader
+    instances:
+    - root_dir: /mnt/dataset/TianYi/Custom/2425
+      json_path: /home/LMMBench/Dataset_Index/100Sample/LLMGeo_Orin_13.json
+      output: LLMGeo_Random.json
+      sample_size: 100
+    - root_dir: /mnt/dataset/TianYi/Custom/VIGOR_Chicago
+      json_path: /home/LMMBench/Dataset_Index/100Sample/VIGOR_Orin_13.json
+      output: VIGOR_Chicago_Random.json
+      sample_size: 100

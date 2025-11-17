@@ -1,0 +1,11 @@
+[2025-05-02 17:15:47,772][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:15:50,671][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-02 17:15:50,671][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-02 17:15:50,671][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-02 17:15:50,671][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-02 17:15:50,679][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-02 17:15:50,679][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-02 17:15:50,679][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-02 17:15:50,679][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-02 17:15:51,451][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-02 17:15:51,451][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - ps_version: v2

@@ -1,0 +1,7 @@
+# conf/model/llava_interleave_qwen_7b.yaml
+name: llava_interleave_qwen_7b 
+class_path: model.LlavaInterleaveQwen
+model_size: 7B
+test_mode: false
+model_path: '/home/LMMBench/llava-interleave-qwen-7b-hf'
+batch_size: 1

@@ -1,0 +1,7 @@
+# conf/model/qwen25vl_7b.yaml
+name: qwen2vl_2b
+class_path: model.InferenceModel
+model_size: 7B
+test_mode: false
+model_path: '/home2/ys_zheng/HugginfaceDownloader/Qwen2-VL-2B-Instruct'
+batch_size: 8

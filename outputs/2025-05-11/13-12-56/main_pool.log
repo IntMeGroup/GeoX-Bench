@@ -1,0 +1,414 @@
+[2025-05-11 13:12:57,912][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:12:57,912][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:12:57,912][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:12:57,980][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:16:10,970][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:16:14,986][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:16:16,973][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:16:21,371][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:16:21,371][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:16:21,372][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:16:21,372][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:16:21,381][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:16:21,381][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:16:21,381][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:16:21,381][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:16:21,860][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:16:21,860][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:16:34,973][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:16:38,809][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:16:38,809][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:16:38,809][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:16:38,809][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:16:38,819][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:16:38,820][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:16:38,820][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:16:38,820][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:16:39,248][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:16:39,248][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:16:50,000][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:16:54,350][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:16:54,350][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:16:54,350][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:16:54,350][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:16:54,361][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:16:54,361][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:16:54,361][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:16:54,361][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:16:54,796][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:16:54,797][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:17:05,012][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:17:09,897][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:17:09,898][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:17:09,898][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:17:09,898][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:17:09,908][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:17:09,908][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:17:09,908][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:17:09,908][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:17:10,328][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:17:10,328][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:17:45,075][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:17:50,399][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:17:50,399][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:17:50,400][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:17:50,400][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:17:50,411][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:17:50,411][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:17:50,411][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:17:50,411][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:17:50,829][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:17:50,829][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:18:23,993][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:18:28,079][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:18:28,079][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:18:28,079][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:18:28,079][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:18:28,089][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:18:28,089][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:18:28,089][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:18:28,089][transformers_modules.InternVL2-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:18:28,524][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:18:28,524][transformers_modules.InternVL2-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:18:56,136][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:19:01,277][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:19:01,278][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:01,278][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:19:01,278][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:19:01,301][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:19:01,301][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:01,301][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:19:01,301][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:19:01,781][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:19:01,781][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:14,049][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:19:19,766][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:19:19,766][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:19,766][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:19:19,766][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:19:19,777][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:19:19,777][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:19,777][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:19:19,777][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:19:20,232][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:19:20,232][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:30,071][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:19:35,722][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:19:35,722][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:35,722][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:19:35,722][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:19:35,733][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:19:35,733][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:35,733][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:19:35,733][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:19:36,187][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:19:36,187][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:47,079][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:19:51,055][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:19:51,055][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:51,055][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:19:51,055][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:19:51,065][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:19:51,066][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:19:51,066][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:19:51,066][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:19:51,536][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:19:51,536][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:20:27,171][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:20:31,189][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:20:31,190][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:20:31,190][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:20:31,190][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:20:31,212][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:20:31,213][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:20:31,213][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:20:31,213][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:20:31,688][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:20:31,688][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:21:06,093][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:21:11,886][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:21:11,886][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:21:11,886][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:21:11,886][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:21:11,897][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:21:11,897][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:21:11,897][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:21:11,897][transformers_modules.InternVL2-4B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:21:12,385][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:21:12,385][transformers_modules.InternVL2-4B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:21:39,135][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:21:43,312][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:21:43,312][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:21:43,312][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:21:43,312][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:21:43,320][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:21:43,320][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:21:43,320][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:21:43,320][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:21:43,766][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:21:43,766][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:22:01,450][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:22:05,411][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:22:05,412][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:22:05,412][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:22:05,412][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:22:05,433][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:22:05,433][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:22:05,433][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:22:05,433][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:22:05,861][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:22:05,861][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:22:18,208][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:22:21,999][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:22:21,999][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:22:21,999][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:22:21,999][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:22:22,009][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:22:22,009][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:22:22,009][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:22:22,009][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:22:22,467][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:22:22,467][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:22:34,146][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:22:38,009][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:22:38,009][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:22:38,009][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:22:38,009][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:22:38,019][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:22:38,019][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:22:38,019][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:22:38,019][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:22:38,442][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:22:38,442][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:23:15,174][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:23:19,697][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:23:19,697][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:23:19,697][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:23:19,697][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:23:19,709][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:23:19,709][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:23:19,709][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:23:19,709][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:23:20,190][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:23:20,190][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:23:55,185][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:24:04,672][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:24:04,672][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:24:04,672][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:24:04,672][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:24:04,683][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:24:04,683][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:24:04,683][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:24:04,683][transformers_modules.InternVL2-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:24:05,110][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:24:05,110][transformers_modules.InternVL2-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:24:33,174][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:24:38,766][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:24:38,766][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:24:38,766][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:24:38,766][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:24:38,775][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:24:38,775][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:24:38,775][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:24:38,776][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:24:39,224][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:24:39,224][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:27:12,220][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:27:44,058][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:27:44,058][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:27:44,058][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:27:44,058][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:27:44,066][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:27:44,066][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:27:44,066][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:27:44,066][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:27:44,506][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:27:44,506][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:30:17,244][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:30:22,570][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:30:22,571][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:30:22,571][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:30:22,571][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:30:22,581][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:30:22,581][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:30:22,581][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:30:22,581][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:30:23,011][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:30:23,011][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:32:56,573][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:33:01,167][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:33:01,167][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:33:01,167][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:33:01,167][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:33:01,179][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:33:01,179][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:33:01,180][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:33:01,180][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:33:01,705][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:33:01,705][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:34:02,278][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:34:06,971][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:34:06,971][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:34:06,971][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:34:06,971][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:34:06,986][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:34:06,986][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:34:06,986][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:34:06,986][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:34:07,463][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:34:07,463][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:37:22,417][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:37:22,511][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:37:27,145][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:37:27,145][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:37:27,146][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:37:27,146][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:37:27,155][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:37:27,155][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:37:27,155][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:37:27,155][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:37:27,618][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:37:27,618][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:37:27,620][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:37:27,620][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:37:27,620][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:37:27,620][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:37:27,631][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:37:27,631][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:37:27,631][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:37:27,631][transformers_modules.InternVL3-2B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:37:28,086][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:37:28,086][transformers_modules.InternVL3-2B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:37:46,783][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:37:51,117][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:37:51,117][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:37:51,117][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:37:51,117][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:37:51,127][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:37:51,128][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:37:51,128][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:37:51,128][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:37:51,594][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:37:51,594][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:38:06,790][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:38:11,391][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:38:11,391][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:38:11,391][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:38:11,391][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:38:11,401][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:38:11,401][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:38:11,401][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:38:11,401][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:38:11,901][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:38:11,901][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:38:26,499][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:38:30,426][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:38:30,426][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:38:30,426][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:38:30,426][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:38:30,436][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:38:30,436][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:38:30,436][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:38:30,436][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:38:30,868][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:38:30,868][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:39:11,524][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:39:16,612][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:39:16,612][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:39:16,612][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:39:16,612][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:39:16,621][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:39:16,622][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:39:16,622][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:39:16,622][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:39:17,148][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:39:17,148][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:39:56,518][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:40:00,548][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:40:00,548][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:40:00,548][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:40:00,548][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:40:00,558][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-05-11 13:40:00,558][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:40:00,558][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-05-11 13:40:00,558][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-05-11 13:40:01,002][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-05-11 13:40:01,002][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-05-11 13:40:33,435][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:40:37,554][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:40:37,632][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:46:05,454][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:46:10,246][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:46:10,320][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:51:41,590][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:51:45,646][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:51:45,714][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:53:05,579][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:53:10,046][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:53:10,115][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:53:58,578][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:54:03,387][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:54:03,456][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:57:19,567][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:57:19,578][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:57:24,483][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:57:24,552][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 13:57:25,843][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 13:57:36,720][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:57:42,845][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 13:57:53,616][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:58:00,122][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 13:58:09,605][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:58:15,171][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 13:58:49,640][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:58:54,771][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 13:59:28,790][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 13:59:33,550][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 13:59:59,825][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:00:09,527][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:00:21,660][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:00:42,489][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:00:51,656][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:01:06,171][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:01:59,716][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:02:12,402][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:02:58,779][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:03:07,981][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:03:49,704][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:03:58,650][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:04:21,787][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:04:31,260][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:04:57,729][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:05:07,154][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:05:20,757][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:05:31,113][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:05:56,782][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:06:05,643][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:07:06,785][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:07:17,317][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:07:48,829][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:07:58,182][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:08:21,799][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:08:30,532][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:08:36,894][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:08:44,350][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:08:59,823][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:09:07,749][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:09:13,855][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:09:21,501][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:10:11,845][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:10:19,532][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:11:19,909][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:11:28,182][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:12:04,915][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:12:14,840][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:12:19,992][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:12:28,437][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:12:33,906][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:12:43,065][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:12:48,964][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:12:58,256][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:13:27,966][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:13:38,957][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 14:14:07,941][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 14:14:17,275][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176

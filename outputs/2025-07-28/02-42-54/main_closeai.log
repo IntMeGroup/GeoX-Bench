@@ -1,0 +1,649 @@
+[2025-07-28 02:42:55,928][datasets][INFO] - PyTorch version 2.7.1+cu128 available.
+[2025-07-28 02:43:04,590][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,591][openai._base_client][INFO] - Retrying request to /chat/completions in 0.417200 seconds
+[2025-07-28 02:43:04,596][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,597][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,597][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,598][openai._base_client][INFO] - Retrying request to /chat/completions in 0.492812 seconds
+[2025-07-28 02:43:04,599][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,599][openai._base_client][INFO] - Retrying request to /chat/completions in 0.421436 seconds
+[2025-07-28 02:43:04,600][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,601][openai._base_client][INFO] - Retrying request to /chat/completions in 0.386151 seconds
+[2025-07-28 02:43:04,601][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,602][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,603][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,603][openai._base_client][INFO] - Retrying request to /chat/completions in 0.490420 seconds
+[2025-07-28 02:43:04,603][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,604][openai._base_client][INFO] - Retrying request to /chat/completions in 0.383950 seconds
+[2025-07-28 02:43:04,605][openai._base_client][INFO] - Retrying request to /chat/completions in 0.467319 seconds
+[2025-07-28 02:43:04,605][openai._base_client][INFO] - Retrying request to /chat/completions in 0.402033 seconds
+[2025-07-28 02:43:04,606][openai._base_client][INFO] - Retrying request to /chat/completions in 0.481027 seconds
+[2025-07-28 02:43:04,606][openai._base_client][INFO] - Retrying request to /chat/completions in 0.490066 seconds
+[2025-07-28 02:43:04,607][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,608][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,608][openai._base_client][INFO] - Retrying request to /chat/completions in 0.386525 seconds
+[2025-07-28 02:43:04,609][openai._base_client][INFO] - Retrying request to /chat/completions in 0.429991 seconds
+[2025-07-28 02:43:04,616][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,616][openai._base_client][INFO] - Retrying request to /chat/completions in 0.426398 seconds
+[2025-07-28 02:43:04,621][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,621][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,622][openai._base_client][INFO] - Retrying request to /chat/completions in 0.434482 seconds
+[2025-07-28 02:43:04,622][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,623][openai._base_client][INFO] - Retrying request to /chat/completions in 0.422484 seconds
+[2025-07-28 02:43:04,623][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,624][openai._base_client][INFO] - Retrying request to /chat/completions in 0.493507 seconds
+[2025-07-28 02:43:04,624][openai._base_client][INFO] - Retrying request to /chat/completions in 0.390155 seconds
+[2025-07-28 02:43:04,625][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,626][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,626][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,627][openai._base_client][INFO] - Retrying request to /chat/completions in 0.420847 seconds
+[2025-07-28 02:43:04,627][openai._base_client][INFO] - Retrying request to /chat/completions in 0.462156 seconds
+[2025-07-28 02:43:04,628][openai._base_client][INFO] - Retrying request to /chat/completions in 0.381244 seconds
+[2025-07-28 02:43:04,631][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,631][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,632][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,632][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,632][openai._base_client][INFO] - Retrying request to /chat/completions in 0.459955 seconds
+[2025-07-28 02:43:04,633][openai._base_client][INFO] - Retrying request to /chat/completions in 0.464870 seconds
+[2025-07-28 02:43:04,633][openai._base_client][INFO] - Retrying request to /chat/completions in 0.479671 seconds
+[2025-07-28 02:43:04,633][openai._base_client][INFO] - Retrying request to /chat/completions in 0.493180 seconds
+[2025-07-28 02:43:04,659][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,659][openai._base_client][INFO] - Retrying request to /chat/completions in 0.441719 seconds
+[2025-07-28 02:43:04,660][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,661][openai._base_client][INFO] - Retrying request to /chat/completions in 0.485705 seconds
+[2025-07-28 02:43:04,663][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,664][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,664][openai._base_client][INFO] - Retrying request to /chat/completions in 0.431505 seconds
+[2025-07-28 02:43:04,664][openai._base_client][INFO] - Retrying request to /chat/completions in 0.461420 seconds
+[2025-07-28 02:43:04,664][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,665][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,666][openai._base_client][INFO] - Retrying request to /chat/completions in 0.431621 seconds
+[2025-07-28 02:43:04,667][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,667][openai._base_client][INFO] - Retrying request to /chat/completions in 0.384524 seconds
+[2025-07-28 02:43:04,669][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,670][openai._base_client][INFO] - Retrying request to /chat/completions in 0.439900 seconds
+[2025-07-28 02:43:04,667][openai._base_client][INFO] - Retrying request to /chat/completions in 0.427865 seconds
+[2025-07-28 02:43:04,671][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,667][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,667][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,671][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,668][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,669][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,672][openai._base_client][INFO] - Retrying request to /chat/completions in 0.395995 seconds
+[2025-07-28 02:43:04,669][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,673][openai._base_client][INFO] - Retrying request to /chat/completions in 0.378175 seconds
+[2025-07-28 02:43:04,673][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,670][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,671][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,674][openai._base_client][INFO] - Retrying request to /chat/completions in 0.377171 seconds
+[2025-07-28 02:43:04,671][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,672][openai._base_client][INFO] - Retrying request to /chat/completions in 0.455784 seconds
+[2025-07-28 02:43:04,672][openai._base_client][INFO] - Retrying request to /chat/completions in 0.414029 seconds
+[2025-07-28 02:43:04,673][openai._base_client][INFO] - Retrying request to /chat/completions in 0.472990 seconds
+[2025-07-28 02:43:04,673][openai._base_client][INFO] - Retrying request to /chat/completions in 0.453158 seconds
+[2025-07-28 02:43:04,674][openai._base_client][INFO] - Retrying request to /chat/completions in 0.436310 seconds
+[2025-07-28 02:43:04,674][openai._base_client][INFO] - Retrying request to /chat/completions in 0.427709 seconds
+[2025-07-28 02:43:04,674][openai._base_client][INFO] - Retrying request to /chat/completions in 0.400696 seconds
+[2025-07-28 02:43:04,675][openai._base_client][INFO] - Retrying request to /chat/completions in 0.391790 seconds
+[2025-07-28 02:43:04,675][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,676][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,676][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,676][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,676][openai._base_client][INFO] - Retrying request to /chat/completions in 0.496878 seconds
+[2025-07-28 02:43:04,677][openai._base_client][INFO] - Retrying request to /chat/completions in 0.407300 seconds
+[2025-07-28 02:43:04,676][openai._base_client][INFO] - Retrying request to /chat/completions in 0.471057 seconds
+[2025-07-28 02:43:04,677][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,677][openai._base_client][INFO] - Retrying request to /chat/completions in 0.409200 seconds
+[2025-07-28 02:43:04,678][openai._base_client][INFO] - Retrying request to /chat/completions in 0.451069 seconds
+[2025-07-28 02:43:04,680][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,681][openai._base_client][INFO] - Retrying request to /chat/completions in 0.441837 seconds
+[2025-07-28 02:43:04,683][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,683][openai._base_client][INFO] - Retrying request to /chat/completions in 0.451985 seconds
+[2025-07-28 02:43:04,692][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,693][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,694][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,695][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,695][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,695][openai._base_client][INFO] - Retrying request to /chat/completions in 0.434221 seconds
+[2025-07-28 02:43:04,696][openai._base_client][INFO] - Retrying request to /chat/completions in 0.490801 seconds
+[2025-07-28 02:43:04,696][openai._base_client][INFO] - Retrying request to /chat/completions in 0.430031 seconds
+[2025-07-28 02:43:04,697][openai._base_client][INFO] - Retrying request to /chat/completions in 0.477168 seconds
+[2025-07-28 02:43:04,697][openai._base_client][INFO] - Retrying request to /chat/completions in 0.430652 seconds
+[2025-07-28 02:43:04,708][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,708][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,709][openai._base_client][INFO] - Retrying request to /chat/completions in 0.468110 seconds
+[2025-07-28 02:43:04,709][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,709][openai._base_client][INFO] - Retrying request to /chat/completions in 0.433032 seconds
+[2025-07-28 02:43:04,711][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,710][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,711][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,712][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,711][openai._base_client][INFO] - Retrying request to /chat/completions in 0.467071 seconds
+[2025-07-28 02:43:04,712][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,712][openai._base_client][INFO] - Retrying request to /chat/completions in 0.461584 seconds
+[2025-07-28 02:43:04,712][openai._base_client][INFO] - Retrying request to /chat/completions in 0.473588 seconds
+[2025-07-28 02:43:04,713][openai._base_client][INFO] - Retrying request to /chat/completions in 0.384743 seconds
+[2025-07-28 02:43:04,713][openai._base_client][INFO] - Retrying request to /chat/completions in 0.426219 seconds
+[2025-07-28 02:43:04,713][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,713][openai._base_client][INFO] - Retrying request to /chat/completions in 0.398459 seconds
+[2025-07-28 02:43:04,714][openai._base_client][INFO] - Retrying request to /chat/completions in 0.399776 seconds
+[2025-07-28 02:43:04,715][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,715][openai._base_client][INFO] - Retrying request to /chat/completions in 0.375347 seconds
+[2025-07-28 02:43:04,717][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,717][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,718][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,718][openai._base_client][INFO] - Retrying request to /chat/completions in 0.445472 seconds
+[2025-07-28 02:43:04,719][openai._base_client][INFO] - Retrying request to /chat/completions in 0.446368 seconds
+[2025-07-28 02:43:04,719][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,720][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,720][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,721][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,721][openai._base_client][INFO] - Retrying request to /chat/completions in 0.491592 seconds
+[2025-07-28 02:43:04,721][openai._base_client][INFO] - Retrying request to /chat/completions in 0.475340 seconds
+[2025-07-28 02:43:04,722][openai._base_client][INFO] - Retrying request to /chat/completions in 0.413548 seconds
+[2025-07-28 02:43:04,722][openai._base_client][INFO] - Retrying request to /chat/completions in 0.403061 seconds
+[2025-07-28 02:43:04,722][openai._base_client][INFO] - Retrying request to /chat/completions in 0.420275 seconds
+[2025-07-28 02:43:04,907][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,908][openai._base_client][INFO] - Retrying request to /chat/completions in 0.409238 seconds
+[2025-07-28 02:43:04,913][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,914][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,914][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,915][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,915][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,916][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,917][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,917][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,918][openai._base_client][INFO] - Retrying request to /chat/completions in 0.404531 seconds
+[2025-07-28 02:43:04,918][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,918][openai._base_client][INFO] - Retrying request to /chat/completions in 0.420334 seconds
+[2025-07-28 02:43:04,919][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,920][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:04,920][openai._base_client][INFO] - Retrying request to /chat/completions in 0.405480 seconds
+[2025-07-28 02:43:04,921][openai._base_client][INFO] - Retrying request to /chat/completions in 0.487933 seconds
+[2025-07-28 02:43:04,921][openai._base_client][INFO] - Retrying request to /chat/completions in 0.418141 seconds
+[2025-07-28 02:43:04,921][openai._base_client][INFO] - Retrying request to /chat/completions in 0.422822 seconds
+[2025-07-28 02:43:04,922][openai._base_client][INFO] - Retrying request to /chat/completions in 0.491860 seconds
+[2025-07-28 02:43:04,922][openai._base_client][INFO] - Retrying request to /chat/completions in 0.454364 seconds
+[2025-07-28 02:43:04,923][openai._base_client][INFO] - Retrying request to /chat/completions in 0.409504 seconds
+[2025-07-28 02:43:04,924][openai._base_client][INFO] - Retrying request to /chat/completions in 0.465494 seconds
+[2025-07-28 02:43:04,924][openai._base_client][INFO] - Retrying request to /chat/completions in 0.417616 seconds
+[2025-07-28 02:43:10,001][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,001][openai._base_client][INFO] - Retrying request to /chat/completions in 0.952367 seconds
+[2025-07-28 02:43:10,002][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,002][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,003][openai._base_client][INFO] - Retrying request to /chat/completions in 0.927730 seconds
+[2025-07-28 02:43:10,003][openai._base_client][INFO] - Retrying request to /chat/completions in 0.921403 seconds
+[2025-07-28 02:43:10,014][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,014][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,014][openai._base_client][INFO] - Retrying request to /chat/completions in 0.937744 seconds
+[2025-07-28 02:43:10,015][openai._base_client][INFO] - Retrying request to /chat/completions in 0.998212 seconds
+[2025-07-28 02:43:10,015][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,016][openai._base_client][INFO] - Retrying request to /chat/completions in 0.786317 seconds
+[2025-07-28 02:43:10,021][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,021][openai._base_client][INFO] - Retrying request to /chat/completions in 0.847296 seconds
+[2025-07-28 02:43:10,029][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,029][openai._base_client][INFO] - Retrying request to /chat/completions in 0.988585 seconds
+[2025-07-28 02:43:10,043][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,043][openai._base_client][INFO] - Retrying request to /chat/completions in 0.943990 seconds
+[2025-07-28 02:43:10,053][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,054][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,054][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,054][openai._base_client][INFO] - Retrying request to /chat/completions in 0.812958 seconds
+[2025-07-28 02:43:10,055][openai._base_client][INFO] - Retrying request to /chat/completions in 0.854290 seconds
+[2025-07-28 02:43:10,055][openai._base_client][INFO] - Retrying request to /chat/completions in 0.826487 seconds
+[2025-07-28 02:43:10,061][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,061][openai._base_client][INFO] - Retrying request to /chat/completions in 0.994107 seconds
+[2025-07-28 02:43:10,063][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,064][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,064][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,064][openai._base_client][INFO] - Retrying request to /chat/completions in 0.885404 seconds
+[2025-07-28 02:43:10,065][openai._base_client][INFO] - Retrying request to /chat/completions in 0.789868 seconds
+[2025-07-28 02:43:10,065][openai._base_client][INFO] - Retrying request to /chat/completions in 0.995116 seconds
+[2025-07-28 02:43:10,073][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,073][openai._base_client][INFO] - Retrying request to /chat/completions in 0.846007 seconds
+[2025-07-28 02:43:10,073][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,073][openai._base_client][INFO] - Retrying request to /chat/completions in 0.755396 seconds
+[2025-07-28 02:43:10,080][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,081][openai._base_client][INFO] - Retrying request to /chat/completions in 0.767835 seconds
+[2025-07-28 02:43:10,081][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,081][openai._base_client][INFO] - Retrying request to /chat/completions in 0.903413 seconds
+[2025-07-28 02:43:10,092][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,092][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,092][openai._base_client][INFO] - Retrying request to /chat/completions in 0.972841 seconds
+[2025-07-28 02:43:10,092][openai._base_client][INFO] - Retrying request to /chat/completions in 0.895475 seconds
+[2025-07-28 02:43:10,093][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,094][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,094][openai._base_client][INFO] - Retrying request to /chat/completions in 0.876399 seconds
+[2025-07-28 02:43:10,094][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,094][openai._base_client][INFO] - Retrying request to /chat/completions in 0.930733 seconds
+[2025-07-28 02:43:10,095][openai._base_client][INFO] - Retrying request to /chat/completions in 0.820916 seconds
+[2025-07-28 02:43:10,096][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,097][openai._base_client][INFO] - Retrying request to /chat/completions in 0.801186 seconds
+[2025-07-28 02:43:10,097][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,097][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,097][openai._base_client][INFO] - Retrying request to /chat/completions in 0.785807 seconds
+[2025-07-28 02:43:10,098][openai._base_client][INFO] - Retrying request to /chat/completions in 0.757936 seconds
+[2025-07-28 02:43:10,100][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,101][openai._base_client][INFO] - Retrying request to /chat/completions in 0.998985 seconds
+[2025-07-28 02:43:10,102][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,102][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,102][openai._base_client][INFO] - Retrying request to /chat/completions in 0.941713 seconds
+[2025-07-28 02:43:10,102][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,102][openai._base_client][INFO] - Retrying request to /chat/completions in 0.921340 seconds
+[2025-07-28 02:43:10,103][openai._base_client][INFO] - Retrying request to /chat/completions in 0.764962 seconds
+[2025-07-28 02:43:10,104][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,105][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,105][openai._base_client][INFO] - Retrying request to /chat/completions in 0.832506 seconds
+[2025-07-28 02:43:10,105][openai._base_client][INFO] - Retrying request to /chat/completions in 0.984593 seconds
+[2025-07-28 02:43:10,110][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,111][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,111][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,112][openai._base_client][INFO] - Retrying request to /chat/completions in 0.843025 seconds
+[2025-07-28 02:43:10,112][openai._base_client][INFO] - Retrying request to /chat/completions in 0.863676 seconds
+[2025-07-28 02:43:10,112][openai._base_client][INFO] - Retrying request to /chat/completions in 0.862106 seconds
+[2025-07-28 02:43:10,116][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,116][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,116][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,116][openai._base_client][INFO] - Retrying request to /chat/completions in 0.982408 seconds
+[2025-07-28 02:43:10,116][openai._base_client][INFO] - Retrying request to /chat/completions in 0.869324 seconds
+[2025-07-28 02:43:10,117][openai._base_client][INFO] - Retrying request to /chat/completions in 0.898155 seconds
+[2025-07-28 02:43:10,123][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,123][openai._base_client][INFO] - Retrying request to /chat/completions in 0.887800 seconds
+[2025-07-28 02:43:10,124][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,124][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,125][openai._base_client][INFO] - Retrying request to /chat/completions in 0.802948 seconds
+[2025-07-28 02:43:10,125][openai._base_client][INFO] - Retrying request to /chat/completions in 0.843182 seconds
+[2025-07-28 02:43:10,129][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,129][openai._base_client][INFO] - Retrying request to /chat/completions in 0.843997 seconds
+[2025-07-28 02:43:10,130][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,130][openai._base_client][INFO] - Retrying request to /chat/completions in 0.761523 seconds
+[2025-07-28 02:43:10,133][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,133][openai._base_client][INFO] - Retrying request to /chat/completions in 0.951715 seconds
+[2025-07-28 02:43:10,135][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,135][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,136][openai._base_client][INFO] - Retrying request to /chat/completions in 0.931188 seconds
+[2025-07-28 02:43:10,136][openai._base_client][INFO] - Retrying request to /chat/completions in 0.875163 seconds
+[2025-07-28 02:43:10,138][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,138][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,139][openai._base_client][INFO] - Retrying request to /chat/completions in 0.776411 seconds
+[2025-07-28 02:43:10,139][openai._base_client][INFO] - Retrying request to /chat/completions in 0.838875 seconds
+[2025-07-28 02:43:10,142][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,142][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,142][openai._base_client][INFO] - Retrying request to /chat/completions in 0.826689 seconds
+[2025-07-28 02:43:10,142][openai._base_client][INFO] - Retrying request to /chat/completions in 0.873116 seconds
+[2025-07-28 02:43:10,148][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,149][openai._base_client][INFO] - Retrying request to /chat/completions in 0.824357 seconds
+[2025-07-28 02:43:10,153][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,154][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,154][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,154][openai._base_client][INFO] - Retrying request to /chat/completions in 0.838914 seconds
+[2025-07-28 02:43:10,155][openai._base_client][INFO] - Retrying request to /chat/completions in 0.770562 seconds
+[2025-07-28 02:43:10,155][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,155][openai._base_client][INFO] - Retrying request to /chat/completions in 0.972277 seconds
+[2025-07-28 02:43:10,155][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,155][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,156][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,156][openai._base_client][INFO] - Retrying request to /chat/completions in 0.850676 seconds
+[2025-07-28 02:43:10,157][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,157][openai._base_client][INFO] - Retrying request to /chat/completions in 0.773783 seconds
+[2025-07-28 02:43:10,158][openai._base_client][INFO] - Retrying request to /chat/completions in 0.965634 seconds
+[2025-07-28 02:43:10,158][openai._base_client][INFO] - Retrying request to /chat/completions in 0.808828 seconds
+[2025-07-28 02:43:10,159][openai._base_client][INFO] - Retrying request to /chat/completions in 0.841402 seconds
+[2025-07-28 02:43:10,178][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,178][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,179][openai._base_client][INFO] - Retrying request to /chat/completions in 0.866461 seconds
+[2025-07-28 02:43:10,179][openai._base_client][INFO] - Retrying request to /chat/completions in 0.888881 seconds
+[2025-07-28 02:43:10,180][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,181][openai._base_client][INFO] - Retrying request to /chat/completions in 0.831728 seconds
+[2025-07-28 02:43:10,182][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,182][openai._base_client][INFO] - Retrying request to /chat/completions in 0.933306 seconds
+[2025-07-28 02:43:10,188][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,188][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,189][openai._base_client][INFO] - Retrying request to /chat/completions in 0.830763 seconds
+[2025-07-28 02:43:10,189][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,190][openai._base_client][INFO] - Retrying request to /chat/completions in 0.761194 seconds
+[2025-07-28 02:43:10,190][openai._base_client][INFO] - Retrying request to /chat/completions in 0.816520 seconds
+[2025-07-28 02:43:10,193][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,193][openai._base_client][INFO] - Retrying request to /chat/completions in 0.797010 seconds
+[2025-07-28 02:43:10,194][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,195][openai._base_client][INFO] - Retrying request to /chat/completions in 0.854420 seconds
+[2025-07-28 02:43:10,203][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,204][openai._base_client][INFO] - Retrying request to /chat/completions in 0.754050 seconds
+[2025-07-28 02:43:10,221][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,221][openai._base_client][INFO] - Retrying request to /chat/completions in 0.800360 seconds
+[2025-07-28 02:43:10,325][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,325][openai._base_client][INFO] - Retrying request to /chat/completions in 0.785728 seconds
+[2025-07-28 02:43:10,342][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,342][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,343][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,343][openai._base_client][INFO] - Retrying request to /chat/completions in 0.767214 seconds
+[2025-07-28 02:43:10,344][openai._base_client][INFO] - Retrying request to /chat/completions in 0.791598 seconds
+[2025-07-28 02:43:10,344][openai._base_client][INFO] - Retrying request to /chat/completions in 0.826679 seconds
+[2025-07-28 02:43:10,357][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,358][openai._base_client][INFO] - Retrying request to /chat/completions in 0.919968 seconds
+[2025-07-28 02:43:10,362][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,363][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,364][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,364][openai._base_client][INFO] - Retrying request to /chat/completions in 0.856696 seconds
+[2025-07-28 02:43:10,364][openai._base_client][INFO] - Retrying request to /chat/completions in 0.888281 seconds
+[2025-07-28 02:43:10,365][openai._base_client][INFO] - Retrying request to /chat/completions in 0.819948 seconds
+[2025-07-28 02:43:10,386][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,386][openai._base_client][INFO] - Retrying request to /chat/completions in 0.878139 seconds
+[2025-07-28 02:43:10,396][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,397][openai._base_client][INFO] - Retrying request to /chat/completions in 0.895680 seconds
+[2025-07-28 02:43:10,423][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,424][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:10,424][openai._base_client][INFO] - Retrying request to /chat/completions in 0.832900 seconds
+[2025-07-28 02:43:10,424][openai._base_client][INFO] - Retrying request to /chat/completions in 0.952572 seconds
+[2025-07-28 02:43:12,065][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,066][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,067][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,067][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,068][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,069][openai._base_client][INFO] - Retrying request to /chat/completions in 0.426787 seconds
+[2025-07-28 02:43:12,069][openai._base_client][INFO] - Retrying request to /chat/completions in 0.415913 seconds
+[2025-07-28 02:43:12,070][openai._base_client][INFO] - Retrying request to /chat/completions in 0.481486 seconds
+[2025-07-28 02:43:12,071][openai._base_client][INFO] - Retrying request to /chat/completions in 0.375480 seconds
+[2025-07-28 02:43:12,071][openai._base_client][INFO] - Retrying request to /chat/completions in 0.456167 seconds
+[2025-07-28 02:43:12,115][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,116][openai._base_client][INFO] - Retrying request to /chat/completions in 0.385614 seconds
+[2025-07-28 02:43:12,165][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,166][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,167][openai._base_client][INFO] - Retrying request to /chat/completions in 0.461483 seconds
+[2025-07-28 02:43:12,167][openai._base_client][INFO] - Retrying request to /chat/completions in 0.469453 seconds
+[2025-07-28 02:43:12,171][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,171][openai._base_client][INFO] - Retrying request to /chat/completions in 0.460125 seconds
+[2025-07-28 02:43:12,215][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,216][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,216][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:12,217][openai._base_client][INFO] - Retrying request to /chat/completions in 0.394114 seconds
+[2025-07-28 02:43:12,217][openai._base_client][INFO] - Retrying request to /chat/completions in 0.441735 seconds
+[2025-07-28 02:43:12,218][openai._base_client][INFO] - Retrying request to /chat/completions in 0.488539 seconds
+[2025-07-28 02:43:15,808][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,837][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,854][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,861][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,862][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,874][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,877][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,878][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,886][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,887][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,896][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,903][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,914][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,923][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,926][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,927][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,929][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,929][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,934][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,934][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,938][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,941][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,955][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,959][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,960][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,960][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,960][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,963][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,973][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,973][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,975][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,979][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,979][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,979][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,992][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,992][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,994][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,993][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,994][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,994][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,995][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,997][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:15,999][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,007][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,017][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,017][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,018][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,021][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,021][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,022][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,023][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,023][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,024][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,027][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,027][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,028][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,031][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,048][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,051][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,056][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,060][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,066][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,074][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,075][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,075][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,091][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,097][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,108][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,108][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,120][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,121][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,121][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,130][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,134][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,142][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,178][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,191][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,228][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,264][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,265][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,270][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,284][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,298][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:16,384][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,475][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,475][openai._base_client][INFO] - Retrying request to /chat/completions in 0.942071 seconds
+[2025-07-28 02:43:17,672][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,673][openai._base_client][INFO] - Retrying request to /chat/completions in 0.996722 seconds
+[2025-07-28 02:43:17,676][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,676][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,677][openai._base_client][INFO] - Retrying request to /chat/completions in 0.856511 seconds
+[2025-07-28 02:43:17,677][openai._base_client][INFO] - Retrying request to /chat/completions in 0.863873 seconds
+[2025-07-28 02:43:17,678][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,679][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,679][openai._base_client][INFO] - Retrying request to /chat/completions in 0.924736 seconds
+[2025-07-28 02:43:17,680][openai._base_client][INFO] - Retrying request to /chat/completions in 0.909653 seconds
+[2025-07-28 02:43:17,775][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,776][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,776][openai._base_client][INFO] - Retrying request to /chat/completions in 0.866744 seconds
+[2025-07-28 02:43:17,777][openai._base_client][INFO] - Retrying request to /chat/completions in 0.847987 seconds
+[2025-07-28 02:43:17,778][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,778][openai._base_client][INFO] - Retrying request to /chat/completions in 0.777006 seconds
+[2025-07-28 02:43:17,788][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,788][openai._base_client][INFO] - Retrying request to /chat/completions in 0.768906 seconds
+[2025-07-28 02:43:17,789][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,789][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:17,789][openai._base_client][INFO] - Retrying request to /chat/completions in 0.948693 seconds
+[2025-07-28 02:43:17,790][openai._base_client][INFO] - Retrying request to /chat/completions in 0.990800 seconds
+[2025-07-28 02:43:21,968][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:21,969][openai._base_client][INFO] - Retrying request to /chat/completions in 0.479813 seconds
+[2025-07-28 02:43:21,986][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:21,986][openai._base_client][INFO] - Retrying request to /chat/completions in 0.476724 seconds
+[2025-07-28 02:43:21,997][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:21,998][openai._base_client][INFO] - Retrying request to /chat/completions in 0.399522 seconds
+[2025-07-28 02:43:22,016][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,017][openai._base_client][INFO] - Retrying request to /chat/completions in 0.478518 seconds
+[2025-07-28 02:43:22,029][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,030][openai._base_client][INFO] - Retrying request to /chat/completions in 0.385279 seconds
+[2025-07-28 02:43:22,047][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,047][openai._base_client][INFO] - Retrying request to /chat/completions in 0.406984 seconds
+[2025-07-28 02:43:22,051][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,052][openai._base_client][INFO] - Retrying request to /chat/completions in 0.389420 seconds
+[2025-07-28 02:43:22,058][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,059][openai._base_client][INFO] - Retrying request to /chat/completions in 0.389073 seconds
+[2025-07-28 02:43:22,078][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,078][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,078][openai._base_client][INFO] - Retrying request to /chat/completions in 0.395695 seconds
+[2025-07-28 02:43:22,079][openai._base_client][INFO] - Retrying request to /chat/completions in 0.481589 seconds
+[2025-07-28 02:43:22,087][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,087][openai._base_client][INFO] - Retrying request to /chat/completions in 0.459222 seconds
+[2025-07-28 02:43:22,088][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,089][openai._base_client][INFO] - Retrying request to /chat/completions in 0.462069 seconds
+[2025-07-28 02:43:22,094][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,094][openai._base_client][INFO] - Retrying request to /chat/completions in 0.420668 seconds
+[2025-07-28 02:43:22,098][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,099][openai._base_client][INFO] - Retrying request to /chat/completions in 0.425851 seconds
+[2025-07-28 02:43:22,100][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,101][openai._base_client][INFO] - Retrying request to /chat/completions in 0.382559 seconds
+[2025-07-28 02:43:22,121][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,122][openai._base_client][INFO] - Retrying request to /chat/completions in 0.423320 seconds
+[2025-07-28 02:43:22,132][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,132][openai._base_client][INFO] - Retrying request to /chat/completions in 0.487054 seconds
+[2025-07-28 02:43:22,133][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,134][openai._base_client][INFO] - Retrying request to /chat/completions in 0.479221 seconds
+[2025-07-28 02:43:22,134][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,134][openai._base_client][INFO] - Retrying request to /chat/completions in 0.375257 seconds
+[2025-07-28 02:43:22,139][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,139][openai._base_client][INFO] - Retrying request to /chat/completions in 0.435938 seconds
+[2025-07-28 02:43:22,146][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,147][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,147][openai._base_client][INFO] - Retrying request to /chat/completions in 0.459206 seconds
+[2025-07-28 02:43:22,147][openai._base_client][INFO] - Retrying request to /chat/completions in 0.499313 seconds
+[2025-07-28 02:43:22,152][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,153][openai._base_client][INFO] - Retrying request to /chat/completions in 0.490695 seconds
+[2025-07-28 02:43:22,154][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,155][openai._base_client][INFO] - Retrying request to /chat/completions in 0.477143 seconds
+[2025-07-28 02:43:22,164][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,165][openai._base_client][INFO] - Retrying request to /chat/completions in 0.447195 seconds
+[2025-07-28 02:43:22,168][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,168][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,169][openai._base_client][INFO] - Retrying request to /chat/completions in 0.432421 seconds
+[2025-07-28 02:43:22,169][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,169][openai._base_client][INFO] - Retrying request to /chat/completions in 0.377662 seconds
+[2025-07-28 02:43:22,170][openai._base_client][INFO] - Retrying request to /chat/completions in 0.385461 seconds
+[2025-07-28 02:43:22,180][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,181][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,181][openai._base_client][INFO] - Retrying request to /chat/completions in 0.455125 seconds
+[2025-07-28 02:43:22,182][openai._base_client][INFO] - Retrying request to /chat/completions in 0.465160 seconds
+[2025-07-28 02:43:22,183][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,184][openai._base_client][INFO] - Retrying request to /chat/completions in 0.496357 seconds
+[2025-07-28 02:43:22,189][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,189][openai._base_client][INFO] - Retrying request to /chat/completions in 0.423677 seconds
+[2025-07-28 02:43:22,195][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,195][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,196][openai._base_client][INFO] - Retrying request to /chat/completions in 0.444734 seconds
+[2025-07-28 02:43:22,196][openai._base_client][INFO] - Retrying request to /chat/completions in 0.467818 seconds
+[2025-07-28 02:43:22,202][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,202][openai._base_client][INFO] - Retrying request to /chat/completions in 0.437009 seconds
+[2025-07-28 02:43:22,206][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,207][openai._base_client][INFO] - Retrying request to /chat/completions in 0.497298 seconds
+[2025-07-28 02:43:22,209][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,210][openai._base_client][INFO] - Retrying request to /chat/completions in 0.490728 seconds
+[2025-07-28 02:43:22,213][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,213][openai._base_client][INFO] - Retrying request to /chat/completions in 0.429839 seconds
+[2025-07-28 02:43:22,214][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,214][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,215][openai._base_client][INFO] - Retrying request to /chat/completions in 0.389468 seconds
+[2025-07-28 02:43:22,215][openai._base_client][INFO] - Retrying request to /chat/completions in 0.449983 seconds
+[2025-07-28 02:43:22,217][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,217][openai._base_client][INFO] - Retrying request to /chat/completions in 0.399588 seconds
+[2025-07-28 02:43:22,221][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,221][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,221][openai._base_client][INFO] - Retrying request to /chat/completions in 0.488186 seconds
+[2025-07-28 02:43:22,221][openai._base_client][INFO] - Retrying request to /chat/completions in 0.434028 seconds
+[2025-07-28 02:43:22,227][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,227][openai._base_client][INFO] - Retrying request to /chat/completions in 0.475700 seconds
+[2025-07-28 02:43:22,230][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,231][openai._base_client][INFO] - Retrying request to /chat/completions in 0.468082 seconds
+[2025-07-28 02:43:22,232][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,233][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,233][openai._base_client][INFO] - Retrying request to /chat/completions in 0.405770 seconds
+[2025-07-28 02:43:22,233][openai._base_client][INFO] - Retrying request to /chat/completions in 0.382795 seconds
+[2025-07-28 02:43:22,235][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,236][openai._base_client][INFO] - Retrying request to /chat/completions in 0.469972 seconds
+[2025-07-28 02:43:22,236][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,237][openai._base_client][INFO] - Retrying request to /chat/completions in 0.475546 seconds
+[2025-07-28 02:43:22,237][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,237][openai._base_client][INFO] - Retrying request to /chat/completions in 0.395339 seconds
+[2025-07-28 02:43:22,242][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,243][openai._base_client][INFO] - Retrying request to /chat/completions in 0.418081 seconds
+[2025-07-28 02:43:22,249][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,249][openai._base_client][INFO] - Retrying request to /chat/completions in 0.494225 seconds
+[2025-07-28 02:43:22,253][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,253][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,254][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,254][openai._base_client][INFO] - Retrying request to /chat/completions in 0.393332 seconds
+[2025-07-28 02:43:22,254][openai._base_client][INFO] - Retrying request to /chat/completions in 0.434705 seconds
+[2025-07-28 02:43:22,254][openai._base_client][INFO] - Retrying request to /chat/completions in 0.482153 seconds
+[2025-07-28 02:43:22,256][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,256][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,256][openai._base_client][INFO] - Retrying request to /chat/completions in 0.492877 seconds
+[2025-07-28 02:43:22,257][openai._base_client][INFO] - Retrying request to /chat/completions in 0.375496 seconds
+[2025-07-28 02:43:22,259][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,259][openai._base_client][INFO] - Retrying request to /chat/completions in 0.481789 seconds
+[2025-07-28 02:43:22,259][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,260][openai._base_client][INFO] - Retrying request to /chat/completions in 0.399009 seconds
+[2025-07-28 02:43:22,263][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,263][openai._base_client][INFO] - Retrying request to /chat/completions in 0.490246 seconds
+[2025-07-28 02:43:22,268][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,269][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,269][openai._base_client][INFO] - Retrying request to /chat/completions in 0.407970 seconds
+[2025-07-28 02:43:22,270][openai._base_client][INFO] - Retrying request to /chat/completions in 0.480470 seconds
+[2025-07-28 02:43:22,274][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,275][openai._base_client][INFO] - Retrying request to /chat/completions in 0.390700 seconds
+[2025-07-28 02:43:22,275][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,275][openai._base_client][INFO] - Retrying request to /chat/completions in 0.388434 seconds
+[2025-07-28 02:43:22,278][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,278][openai._base_client][INFO] - Retrying request to /chat/completions in 0.413106 seconds
+[2025-07-28 02:43:22,279][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,279][openai._base_client][INFO] - Retrying request to /chat/completions in 0.478608 seconds
+[2025-07-28 02:43:22,282][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,283][openai._base_client][INFO] - Retrying request to /chat/completions in 0.412777 seconds
+[2025-07-28 02:43:22,294][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,295][openai._base_client][INFO] - Retrying request to /chat/completions in 0.405708 seconds
+[2025-07-28 02:43:22,301][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,302][openai._base_client][INFO] - Retrying request to /chat/completions in 0.483172 seconds
+[2025-07-28 02:43:22,304][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,304][openai._base_client][INFO] - Retrying request to /chat/completions in 0.450226 seconds
+[2025-07-28 02:43:22,309][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,309][openai._base_client][INFO] - Retrying request to /chat/completions in 0.449802 seconds
+[2025-07-28 02:43:22,314][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,315][openai._base_client][INFO] - Retrying request to /chat/completions in 0.420533 seconds
+[2025-07-28 02:43:22,323][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,324][openai._base_client][INFO] - Retrying request to /chat/completions in 0.381998 seconds
+[2025-07-28 02:43:22,329][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,329][openai._base_client][INFO] - Retrying request to /chat/completions in 0.465159 seconds
+[2025-07-28 02:43:22,338][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,338][openai._base_client][INFO] - Retrying request to /chat/completions in 0.458157 seconds
+[2025-07-28 02:43:22,378][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,378][openai._base_client][INFO] - Retrying request to /chat/completions in 0.439990 seconds
+[2025-07-28 02:43:22,387][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,388][openai._base_client][INFO] - Retrying request to /chat/completions in 0.456943 seconds
+[2025-07-28 02:43:22,420][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,421][openai._base_client][INFO] - Retrying request to /chat/completions in 0.397095 seconds
+[2025-07-28 02:43:22,427][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,427][openai._base_client][INFO] - Retrying request to /chat/completions in 0.379875 seconds
+[2025-07-28 02:43:22,459][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,459][openai._base_client][INFO] - Retrying request to /chat/completions in 0.415020 seconds
+[2025-07-28 02:43:22,497][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,497][openai._base_client][INFO] - Retrying request to /chat/completions in 0.489226 seconds
+[2025-07-28 02:43:22,506][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,506][openai._base_client][INFO] - Retrying request to /chat/completions in 0.376979 seconds
+[2025-07-28 02:43:22,517][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,518][openai._base_client][INFO] - Retrying request to /chat/completions in 0.460151 seconds
+[2025-07-28 02:43:22,525][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:22,525][openai._base_client][INFO] - Retrying request to /chat/completions in 0.409191 seconds
+[2025-07-28 02:43:23,442][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,715][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,817][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,824][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,825][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,827][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,828][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,829][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,830][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,831][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,831][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"
+[2025-07-28 02:43:23,832][httpx][INFO] - HTTP Request: POST http://35.220.164.252:3888/v1/chat/completions "HTTP/1.1 502 Bad Gateway"

@@ -1,0 +1,23 @@
+name: orin4_FoV90
+dataset_class: Tasks.orin_task.OrientationDataset
+data_writer_class: Tasks.orin_task.OrintationDataWriter
+lmm_message_class: Tasks.orin_task.Orintation4LMMMessage
+get_dataloader_fn: Tasks.orin_task.get_dataloader
+output_dir: orin4_FoV90
+instances:
+- root_dir: /home/Data/Mule_Transfer/LMMGeo
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom20.json
+  output: LMMGeo_zoom20.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer/LMMGeo
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom21.json
+  output: LMMGeo_zoom21.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer/LMMGeo
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom22.json
+  output: LMMGeo_zoom22.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer/VIGOR_Chicago
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/VIGOR_Chicago.json
+  output: VIGOR_Chicago.json
+  sample_size: 0

@@ -1,0 +1,128 @@
+output_base: /home/LMMBench/output_Real
+batch_size: 1
+pipelines:
+- model: ${models.0}
+  tasks:
+  - ${tasks.location}
+  - ${tasks.orin}
+  - ${tasks.orin_random}
+- model: ${models.1}
+  tasks:
+  - ${tasks.location}
+  - ${tasks.orin}
+  - ${tasks.orin_random}
+- model: ${models.2}
+  tasks:
+  - ${tasks.location}
+  - ${tasks.orin}
+  - ${tasks.orin_random}
+- model: ${models.3}
+  tasks:
+  - ${tasks.location}
+  - ${tasks.orin}
+  - ${tasks.orin_random}
+- model: ${models.4}
+  tasks:
+  - ${tasks.location}
+  - ${tasks.orin}
+  - ${tasks.orin_random}
+- model: ${models.5}
+  tasks:
+  - ${tasks.location}
+  - ${tasks.orin}
+  - ${tasks.orin_random}
+- model: ${models.6}
+  tasks:
+  - ${tasks.location}
+  - ${tasks.orin}
+  - ${tasks.orin_random}
+models:
+  '0':
+    name: llava_interleave_qwen_7b
+    class_path: model.LlavaInterleaveQwen
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/llava-interleave-qwen-7b-hf
+  '1':
+    name: qwen25vl_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/Qwen2.5-VL-7B-Instruct
+  '2':
+    name: mPLUG-owl3_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /mnt/weight/mPLUG-Owl3-7B-240728
+  '3':
+    name: MS-Phi3d5
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/Phi-3.5-vision-instruct
+  '4':
+    name: llava-one-vision_7b
+    class_path: model.LLaVAOneVision
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/llava-onevision-qwen2-7b-ov
+  '5':
+    name: InternVL3-8B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home/model/InternVL3-8B
+  '6':
+    name: deepseek-vl-7b-chat
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/deepseek-vl-7b-chat
+tasks:
+  location:
+    name: location
+    dataset_class: Tasks.location_task.InRangeDataset
+    data_writer_class: Tasks.location_task.InRnageDataWriter
+    lmm_message_class: Tasks.location_task.LocationLMMMessage
+    get_dataloader_fn: Tasks.location_task.get_dataloader
+    instances:
+    - root_dir: /mnt/dataset/TianYi/Custom/2425
+      json_path: /home/LMMBench/Dataset_Index/100Sample/LLMGeo_Location_13.json
+      output: LLMGeo_Location.json
+      sample_size: 100
+    - root_dir: /mnt/dataset/TianYi/Custom/VIGOR_Chicago
+      json_path: /home/LMMBench/Dataset_Index/100Sample/VIGOR_Location_13.json
+      output: VIGOR_Chicago_Location.json
+      batch_size: 2
+      sample_size: 100
+  orin:
+    name: orin
+    dataset_class: Tasks.orin_task.OrientationDataset
+    data_writer_class: Tasks.orin_task.OrintationDataWriter
+    lmm_message_class: Tasks.orin_task.OrintationLMMMessage
+    get_dataloader_fn: Tasks.orin_task.get_dataloader
+    instances:
+    - root_dir: /mnt/dataset/TianYi/Custom/2425
+      json_path: /home/LMMBench/Dataset_Index/100Sample/LLMGeo_Orin_100.json
+      output: LLMGeo.json
+      sample_size: 100
+    - root_dir: /mnt/dataset/TianYi/Custom/VIGOR_Chicago
+      json_path: /home/LMMBench/Dataset_Index/100Sample/VIGOR_Orin_100.json
+      output: VIGOR_Chicago.json
+      sample_size: 100
+  orin_random:
+    name: orin_random
+    dataset_class: Tasks.orin_task_random.OrientationRandomDataset
+    data_writer_class: Tasks.orin_task.OrintationDataWriter
+    lmm_message_class: Tasks.orin_task.OrintationLMMMessage
+    get_dataloader_fn: Tasks.orin_task.get_dataloader
+    instances:
+    - root_dir: /mnt/dataset/TianYi/Custom/2425
+      json_path: /home/LMMBench/Dataset_Index/100Sample/LLMGeo_Orin_13.json
+      output: LLMGeo_Random.json
+      sample_size: 100
+    - root_dir: /mnt/dataset/TianYi/Custom/VIGOR_Chicago
+      json_path: /home/LMMBench/Dataset_Index/100Sample/VIGOR_Orin_13.json
+      output: VIGOR_Chicago_Random.json
+      sample_size: 100

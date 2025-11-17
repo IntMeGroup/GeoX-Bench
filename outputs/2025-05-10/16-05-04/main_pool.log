@@ -1,0 +1,4 @@
+[2025-05-10 16:05:06,644][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-10 16:05:12,088][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-10 16:05:19,041][accelerate.big_modeling][WARNING] - Some parameters are on the meta device because they were offloaded to the cpu.
+[2025-05-10 16:05:19,042][accelerate.big_modeling][WARNING] - You shouldn't move a model that is dispatched using accelerate hooks.

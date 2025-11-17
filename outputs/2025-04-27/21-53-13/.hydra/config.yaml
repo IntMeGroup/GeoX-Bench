@@ -1,0 +1,25 @@
+output_base: /home/LMMBench/output
+batch_size: 1
+pipelines:
+- model: ${models.0}
+  tasks:
+  - ${tasks.vision}
+models:
+  '0':
+    name: llava_interleave_qwen_7b
+    class_path: model.LlavaInterleaveQwen
+    model_size: 7B
+    test_mode: false
+    model_path: /home/model/llava-interleave-qwen-7b-hf
+tasks:
+  vision:
+    name: vision_test
+    dataset_class: Tasks.vision_test.GADataset
+    data_writer_class: Tasks.vision_test.DataWriter
+    lmm_message_class: Tasks.vision_test.LMMMessage
+    get_dataloader_fn: Tasks.vision_test.get_dataloader
+    instances:
+    - root_dir: /home
+      json_path: /home/LMMBench/Dataset_Index/Vision_Test.json
+      output: VisionTest.json
+      sample_size: 0

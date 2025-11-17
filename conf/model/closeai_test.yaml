@@ -1,0 +1,8 @@
+# conf/model/closeai_test.yaml
+name: closeai_test
+class_path: model.CloseAI
+model_size: 7B
+test_mode: false
+model_path: 'gemini-2.0-flash'
+batch_size: 50
+gpu_occu: 1

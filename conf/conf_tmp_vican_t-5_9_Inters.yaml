@@ -1,0 +1,56 @@
+defaults:
+  - _self_
+
+  # ── models ───────────────────────────────────────────────────────────────
+  # - model@models.0: llava_interleave_qwen_7b
+  - model@models.1: InternVL2-2B
+  - model@models.2: InternVL2-4B
+  - model@models.3: InternVL2-8B
+  - model@models.4: InternVL3-2B
+
+
+  # ── tasks ────────────────────────────────────────────────────────────────
+  - task@tasks.location4_FoV130: location4_FoV130
+  - task@tasks.location4_FoV90: location4_FoV90
+  - task@tasks.location4_randomFoV130: location4_random_FoV130
+  - task@tasks.location4_random_FoV90: location4_random_FoV90
+  - task@tasks.orin4_FoV130: orin4_FoV130
+  - task@tasks.orin4_FoV90: orin4_FoV90
+  - task@tasks.orin4_randomFoV130: orin4_random_FoV130
+  - task@tasks.orin4_random_FoV90: orin4_random_FoV90
+  - task@tasks.location4_random9_FoV90: location4_random9_FoV90
+
+# ───────────────────────── global knobs ────────────────────────────────────
+output_base: /home2/ys_zheng/LMMBench/output/conf_tmp_vican_t-5_7_Inters
+
+# ───────────────────────── pipeline wiring ─────────────────────────────────
+pipelines:
+  - model: ${models.1}
+    tasks:
+      - ${tasks.location4_FoV90}
+      # - ${tasks.location4_random_FoV90}
+      - ${tasks.orin4_FoV90}
+      - ${tasks.orin4_random_FoV90}
+      - ${tasks.location4_random9_FoV90}
+
+  - model: ${models.2}
+    tasks:
+      - ${tasks.location4_FoV90}
+      # - ${tasks.location4_random_FoV90}
+      - ${tasks.orin4_FoV90}
+      - ${tasks.orin4_random_FoV90}
+      - ${tasks.location4_random9_FoV90}
+  - model: ${models.3}
+    tasks:
+      - ${tasks.location4_FoV90}
+      # - ${tasks.location4_random_FoV90}
+      - ${tasks.orin4_FoV90}
+      - ${tasks.orin4_random_FoV90}
+      - ${tasks.location4_random9_FoV90}
+  - model: ${models.4}
+    tasks:
+      - ${tasks.location4_FoV90}
+      # - ${tasks.location4_random_FoV90}
+      - ${tasks.orin4_FoV90}
+      - ${tasks.orin4_random_FoV90}
+      - ${tasks.location4_random9_FoV90}

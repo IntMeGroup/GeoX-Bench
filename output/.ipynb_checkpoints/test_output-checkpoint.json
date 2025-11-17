@@ -1,0 +1,702 @@
+[
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a road with vehicles moving away from the camera. The trees and buildings align with the aerial view, indicating that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/lg7XYLYF3exh2mUZD1peUA,41.857794,-87.676026,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/lg7XYLYF3exh2mUZD1peUA,41.857794,-87.676026,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a crossroad with buildings and roads. In the ground-level photo, we see a traffic light and a car, indicating the user is at a street intersection. The trees and the angle of the shadows suggest it's morning or early afternoon. The user appears to be facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/lg7XYLYF3exh2mUZD1peUA,41.857794,-87.676026,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/lg7XYLYF3exh2mUZD1peUA,41.857794,-87.676026,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the intersection from a top-down perspective, while the ground-level photo captures the same intersection from a street-level view. The alignment of the streets and the position of the vehicles in both images suggest that the user was facing East (E) when taking the ground-level photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/lg7XYLYF3exh2mUZD1peUA,41.857794,-87.676026,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/lg7XYLYF3exh2mUZD1peUA,41.857794,-87.676026,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. The ground-level photo captures a building with a sign that reads 'D'Nuella' and a person sitting on a bench. The perspective of the ground-level photo suggests the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/lg7XYLYF3exh2mUZD1peUA,41.857794,-87.676026,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/lg7XYLYF3exh2mUZD1peUA,41.857794,-87.676026,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a building with a parking lot and a road. In the ground-level photo, we see a van parked on the right side of the street, indicating the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/w9S2no7PkDCi0wBi0Ubuig,41.876108,-87.683113,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/w9S2no7PkDCi0wBi0Ubuig,41.876108,-87.683113,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a building and roads, while the ground-level photo captures a street scene with vehicles and a school sign. The alignment of the road and the shadows suggest the sun is coming from the left side of the frame. Given the aerial view's north orientation, the user appears to be facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/w9S2no7PkDCi0wBi0Ubuig,41.876108,-87.683113,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/w9S2no7PkDCi0wBi0Ubuig,41.876108,-87.683113,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a building and roads, while the ground-level photo captures a view of a road with trees and a fence. The alignment of the road and the perspective suggest that the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/w9S2no7PkDCi0wBi0Ubuig,41.876108,-87.683113,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/w9S2no7PkDCi0wBi0Ubuig,41.876108,-87.683113,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a building and roads, while the ground-level photo captures a street scene with a truck and trees. The alignment of the road and the position of the sun suggest the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/w9S2no7PkDCi0wBi0Ubuig,41.876108,-87.683113,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/w9S2no7PkDCi0wBi0Ubuig,41.876108,-87.683113,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the parking lot and building from a top-down perspective, while the ground-level photo captures the scene from a slightly angled view. The trees and vehicles in the ground-level photo appear to be aligned towards the bottom right corner of the image, indicating that the user was facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/D7CJPf6Zdy8ebDzLXhobSg,41.862661,-87.668452,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/D7CJPf6Zdy8ebDzLXhobSg,41.862661,-87.668452,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a parking lot with trees and buildings. In the ground-level photo, we see a sidewalk leading towards a building with cars parked along both sides. The trees in the aerial image align with the trees visible in the ground-level photo, indicating that the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/D7CJPf6Zdy8ebDzLXhobSg,41.862661,-87.668452,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/D7CJPf6Zdy8ebDzLXhobSg,41.862661,-87.668452,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a parking lot with trees and a building. In the ground-level photo, we see the Costco Wholesale sign and part of the building. The trees in the aerial image align with the left side of the ground-level photo, indicating the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/D7CJPf6Zdy8ebDzLXhobSg,41.862661,-87.668452,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/D7CJPf6Zdy8ebDzLXhobSg,41.862661,-87.668452,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the parking lot and building from a top-down perspective, with the top of the image corresponding to North. In the ground-level photo, the truck and vehicles are visible, and the shadows suggest the sun is coming from the left side of the frame. Given the alignment of the parking lot lines and the general layout, the user appears to be facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/D7CJPf6Zdy8ebDzLXhobSg,41.862661,-87.668452,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/D7CJPf6Zdy8ebDzLXhobSg,41.862661,-87.668452,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a highway running vertically, with the user's ground-level photo capturing a street view looking straight ahead. The alignment of the road in both images suggests the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/ImeP_p1hVy1lrjkiub1ysg,41.865105,-87.643977,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/ImeP_p1hVy1lrjkiub1ysg,41.865105,-87.643977,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a highway running vertically, with the user's photo capturing a view of a building and a fence. The building appears to be aligned with the bottom edge of the aerial image, indicating that the user was facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/ImeP_p1hVy1lrjkiub1ysg,41.865105,-87.643977,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/ImeP_p1hVy1lrjkiub1ysg,41.865105,-87.643977,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a highway running vertically, with the user's ground-level photo capturing a street scene directly below the highway. The alignment of the road in the ground-level photo suggests the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/ImeP_p1hVy1lrjkiub1ysg,41.865105,-87.643977,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/ImeP_p1hVy1lrjkiub1ysg,41.865105,-87.643977,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a highway with traffic moving towards the bottom left corner of the image. The ground-level photo captures a view of a fence and some grass, indicating that the user is facing the bottom left corner of the aerial image.\",\n  \"direction\": \"SW\"\n}\n```",
+        "prediction": "SW",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/ImeP_p1hVy1lrjkiub1ysg,41.865105,-87.643977,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/ImeP_p1hVy1lrjkiub1ysg,41.865105,-87.643977,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the top as North, and the ground-level photo captures a building with its main entrance facing towards the bottom left corner of the image. This indicates that the user was facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/gm2ID8bXTtF7DlBpv_jYag,41.883038,-87.683237,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/gm2ID8bXTtF7DlBpv_jYag,41.883038,-87.683237,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a northward orientation, with streets running east-west. In the ground-level photo, the trees and shadows suggest the sun is shining from the left side, indicating a westward direction. Therefore, the user was likely facing south.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/gm2ID8bXTtF7DlBpv_jYag,41.883038,-87.683237,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/gm2ID8bXTtF7DlBpv_jYag,41.883038,-87.683237,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a typical urban street layout with buildings and parking lots. The ground-level photo captures a view of a residential area with houses and trees. The alignment of the trees and shadows suggests that the sun is coming from the left side of the frame, indicating a direction towards the West.\",\n  \"direction\": \"W\"\n}\n```",
+        "prediction": "W",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/gm2ID8bXTtF7DlBpv_jYag,41.883038,-87.683237,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/gm2ID8bXTtF7DlBpv_jYag,41.883038,-87.683237,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the top as North, and the ground-level photo shows the street extending towards the bottom right corner of the image. Therefore, the user was facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/gm2ID8bXTtF7DlBpv_jYag,41.883038,-87.683237,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/gm2ID8bXTtF7DlBpv_jYag,41.883038,-87.683237,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the streets and buildings, with the top pointing north. In the ground-level photo, the trees and buildings align with the streets seen in the aerial view, indicating that the user is facing east.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/knJNKsA_I01KLb1WSAqP-A,41.859116,-87.660141,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/knJNKsA_I01KLb1WSAqP-A,41.859116,-87.660141,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a tree and parked cars along the right side of the road. The alignment of the trees and the perspective suggest that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/knJNKsA_I01KLb1WSAqP-A,41.859116,-87.660141,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/knJNKsA_I01KLb1WSAqP-A,41.859116,-87.660141,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the streets and buildings from a top-down perspective, while the ground-level photo captures the street scene directly in front of the user. The alignment of the road and the positioning of the vehicles suggest that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/knJNKsA_I01KLb1WSAqP-A,41.859116,-87.660141,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/knJNKsA_I01KLb1WSAqP-A,41.859116,-87.660141,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a car parked on the right side of the street, indicating that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/knJNKsA_I01KLb1WSAqP-A,41.859116,-87.660141,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/knJNKsA_I01KLb1WSAqP-A,41.859116,-87.660141,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a parking lot and buildings, with the top of the image pointing north. In the ground-level photo, the user appears to be standing near a fence with trash bins, looking towards a building across the street. The alignment of the buildings and streets in both images suggests that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/efVajvA1gxCVcPBsab_FgQ,41.859156,-87.659418,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/efVajvA1gxCVcPBsab_FgQ,41.859156,-87.659418,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the streets and buildings oriented towards the top being North. In the ground-level photo, the red building is visible, and the user appears to be facing towards the left side of the image, which would correspond to West.\",\n  \"direction\": \"W\"\n}\n```",
+        "prediction": "W",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/efVajvA1gxCVcPBsab_FgQ,41.859156,-87.659418,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/efVajvA1gxCVcPBsab_FgQ,41.859156,-87.659418,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street layout with buildings and roads. In the ground-level photo, we see a sidewalk, a gate, and some buildings. The alignment of the sidewalk and the gate suggests that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/efVajvA1gxCVcPBsab_FgQ,41.859156,-87.659418,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/efVajvA1gxCVcPBsab_FgQ,41.859156,-87.659418,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a parking lot and surrounding buildings, with the top of the image pointing north. The ground-level photo captures a view of the same parking lot, with the fence and trash bin in the foreground. The alignment of the fence and the perspective of the photo suggest that the user was facing east.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/efVajvA1gxCVcPBsab_FgQ,41.859156,-87.659418,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/efVajvA1gxCVcPBsab_FgQ,41.859156,-87.659418,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a building complex with a parking lot and surrounding streets. The ground-level photo captures a street scene with parked cars and buildings. The alignment of the shadows suggests the sun is coming from the left side of the frame, indicating the user was likely facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/-M0mmq3oPTa5JFZ1BYHa7Q,41.854683,-87.633070,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/-M0mmq3oPTa5JFZ1BYHa7Q,41.854683,-87.633070,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street layout with buildings and trees. In the ground-level photo, the trees and buildings align with the street seen in the aerial view. The sun appears to be shining from the left side, indicating the time of day and the direction the user was facing.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/-M0mmq3oPTa5JFZ1BYHa7Q,41.854683,-87.633070,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/-M0mmq3oPTa5JFZ1BYHa7Q,41.854683,-87.633070,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a building with a green roof, and the ground-level photo captures a similar building with a green roof. The aerial image indicates that the user's photo was taken from the south side of the building, as the parking lot is visible on the right side of the aerial image.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/-M0mmq3oPTa5JFZ1BYHa7Q,41.854683,-87.633070,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/-M0mmq3oPTa5JFZ1BYHa7Q,41.854683,-87.633070,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street layout with buildings on both sides. In the ground-level photo, we see a street with parked cars on one side and buildings on the other. The alignment of the street and the buildings suggests that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/-M0mmq3oPTa5JFZ1BYHa7Q,41.854683,-87.633070,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/-M0mmq3oPTa5JFZ1BYHa7Q,41.854683,-87.633070,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a parking lot with buildings on either side. In the ground-level photo, we see a brick wall and a building across the street. The alignment of the parking lot lines and the position of the buildings suggest that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/kVS0MmC7N79jKku03R1aAQ,41.876834,-87.666171,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/kVS0MmC7N79jKku03R1aAQ,41.876834,-87.666171,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a parking lot with buildings around it. In the ground-level photo, we see a van parked in the same parking lot. The van appears to be facing towards the bottom left corner of the image, indicating that the person took the photo from the bottom right corner of the aerial image.\",\n  \"direction\": \"SE\"\n}\n```",
+        "prediction": "SE",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/kVS0MmC7N79jKku03R1aAQ,41.876834,-87.666171,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/kVS0MmC7N79jKku03R1aAQ,41.876834,-87.666171,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a parking lot and buildings, with the user's photo capturing a building directly in front of them. The top of the aerial image is north, indicating that the user is facing south.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/kVS0MmC7N79jKku03R1aAQ,41.876834,-87.666171,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/kVS0MmC7N79jKku03R1aAQ,41.876834,-87.666171,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the parking lot and surrounding buildings, with the top of the image pointing north. In the ground-level photo, the sun is shining from the left side, indicating that the user is facing east.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/kVS0MmC7N79jKku03R1aAQ,41.876834,-87.666171,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/kVS0MmC7N79jKku03R1aAQ,41.876834,-87.666171,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a crossroad with buildings and streets. In the ground-level photo, we see a street with a Hard Rock Cafe sign, indicating a specific location. The alignment of the street and the sign suggests the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/N8uGnInuiKsPUkp3tLiNag,41.892937,-87.631116,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/N8uGnInuiKsPUkp3tLiNag,41.892937,-87.631116,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings and parking lots. In the ground-level photo, we see a sidewalk, parked cars, and a building with a sign. The shadows cast by the pole and trees suggest the sun is low in the sky, indicating either early morning or late afternoon. The alignment of the buildings and streets in both images suggests the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/N8uGnInuiKsPUkp3tLiNag,41.892937,-87.631116,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/N8uGnInuiKsPUkp3tLiNag,41.892937,-87.631116,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a street with vehicles moving away from the camera, indicating the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/N8uGnInuiKsPUkp3tLiNag,41.892937,-87.631116,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/N8uGnInuiKsPUkp3tLiNag,41.892937,-87.631116,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings and vehicles. The ground-level photo captures a bus with 'BIGBUS CHICAGO' written on it, indicating the user is likely facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/N8uGnInuiKsPUkp3tLiNag,41.892937,-87.631116,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/N8uGnInuiKsPUkp3tLiNag,41.892937,-87.631116,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a railway line running horizontally across the bottom of the image, with buildings on either side. The ground-level photo shows a street with trees lining both sides, and the perspective suggests the user is facing east.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/ArH6P2zSW0RudkIfIxP-FA,41.861216,-87.654142,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/ArH6P2zSW0RudkIfIxP-FA,41.861216,-87.654142,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a building with a parking lot and train tracks below. In the ground-level photo, we see a building with a sidewalk and trees. The alignment of the buildings and the perspective suggest that the user was facing East (E) when taking the ground-level photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/ArH6P2zSW0RudkIfIxP-FA,41.861216,-87.654142,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/ArH6P2zSW0RudkIfIxP-FA,41.861216,-87.654142,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a railway line running horizontally across the bottom of the image, with buildings and trees above. The ground-level photo shows a fence and some greenery, indicating the user is facing towards the railway line. Given the alignment of the railway tracks in the aerial image, the user appears to be facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/ArH6P2zSW0RudkIfIxP-FA,41.861216,-87.654142,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/ArH6P2zSW0RudkIfIxP-FA,41.861216,-87.654142,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a building with a parking lot and some trees. In the ground-level photo, we see a street with a building on the right side. The alignment of the street and the building suggests that the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/ArH6P2zSW0RudkIfIxP-FA,41.861216,-87.654142,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/ArH6P2zSW0RudkIfIxP-FA,41.861216,-87.654142,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a tennis court and surrounding buildings. In the ground-level photo, we see a street with trees and a playground. The trees and playground appear to be aligned with the left side of the aerial image, indicating the user was facing West.\",\n  \"direction\": \"W\"\n}\n```",
+        "prediction": "W",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/7EfSTApRUdAKCLwhJQjzTw,41.870148,-87.655303,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/7EfSTApRUdAKCLwhJQjzTw,41.870148,-87.655303,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a tennis court with houses on the left and buildings on the right. In the ground-level photo, the tennis court is visible with trees on the left side and a car parked in front of the court. The shadow of the car suggests the sun is coming from the left, indicating the user was likely facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/7EfSTApRUdAKCLwhJQjzTw,41.870148,-87.655303,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/7EfSTApRUdAKCLwhJQjzTw,41.870148,-87.655303,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a tennis court and surrounding buildings, with the top of the image pointing north. In the ground-level photo, the trees and buildings align with the orientation of the aerial image, indicating that the user was facing south.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/7EfSTApRUdAKCLwhJQjzTw,41.870148,-87.655303,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/7EfSTApRUdAKCLwhJQjzTw,41.870148,-87.655303,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a tennis court and residential buildings. In the ground-level photo, we see a street with houses and trees. The alignment of the shadows suggests the sun is coming from the left side of the frame, indicating it's morning. The user appears to be facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/7EfSTApRUdAKCLwhJQjzTw,41.870148,-87.655303,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/7EfSTApRUdAKCLwhJQjzTw,41.870148,-87.655303,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street running horizontally across the center, with buildings on either side. In the ground-level photo, we see a street with trees lining both sides, and the perspective suggests the user is facing east.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/AlkJIbGABGOCOSjk275_gg,41.869518,-87.628598,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/AlkJIbGABGOCOSjk275_gg,41.869518,-87.628598,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the top as North, and the ground-level photo captures a building and trees directly ahead, indicating the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/AlkJIbGABGOCOSjk275_gg,41.869518,-87.628598,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/AlkJIbGABGOCOSjk275_gg,41.869518,-87.628598,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street running horizontally across the center, with buildings on either side. The ground-level photo shows a street with trees lining both sides, and the sun appears to be shining from the left side of the frame. This suggests that the user was facing East (E) when taking the ground-level photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/AlkJIbGABGOCOSjk275_gg,41.869518,-87.628598,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/AlkJIbGABGOCOSjk275_gg,41.869518,-87.628598,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the top as North, and the ground-level photo captures a street scene with trees and buildings. The shadows suggest the sun is coming from the left side of the frame, indicating it's likely morning or late afternoon. The user appears to be facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/AlkJIbGABGOCOSjk275_gg,41.869518,-87.628598,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/AlkJIbGABGOCOSjk275_gg,41.869518,-87.628598,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a northward orientation with streets running east-west and buildings aligned accordingly. In the ground-level photo, the user appears to be standing under a bridge, looking towards the street with cars moving away from them. This suggests the user is facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/YIZmN2N7UYbJnBZU8-suoA,41.876889,-87.629723,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/YIZmN2N7UYbJnBZU8-suoA,41.876889,-87.629723,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a train station with tracks running parallel to the street. In the ground-level photo, we see the underside of an elevated train structure, indicating that the user is facing towards the east side of the station.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/YIZmN2N7UYbJnBZU8-suoA,41.876889,-87.629723,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/YIZmN2N7UYbJnBZU8-suoA,41.876889,-87.629723,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a northward orientation with streets running east-west and buildings aligned accordingly. In the ground-level photo, the user appears to be standing under an overpass, looking straight ahead towards the street. The shadows suggest the sun is high, indicating midday. Given the alignment of the buildings and streets in both images, the user is likely facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/YIZmN2N7UYbJnBZU8-suoA,41.876889,-87.629723,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/YIZmN2N7UYbJnBZU8-suoA,41.876889,-87.629723,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a northward orientation with the top of the image pointing towards the north. In the ground-level photo, the user appears to be standing under an elevated structure, looking straight ahead. The shadows cast by the structure suggest the sun is coming from the left side of the frame, indicating it's likely morning or late afternoon. Given the alignment of the structures and the shadows, the user is most likely facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/YIZmN2N7UYbJnBZU8-suoA,41.876889,-87.629723,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/YIZmN2N7UYbJnBZU8-suoA,41.876889,-87.629723,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a northward orientation with streets running east-west. In the ground-level photo, the trees and buildings align with the street layout seen in the aerial view, indicating the user was facing south.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/Jchw_6IvL78ApIUF3UK6FQ,41.893985,-87.663972,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/Jchw_6IvL78ApIUF3UK6FQ,41.893985,-87.663972,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street running vertically, and the ground-level photo captures a view of parked cars and a tree. The alignment of the trees and the perspective suggest that the user was facing East (E) when taking the ground-level photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/Jchw_6IvL78ApIUF3UK6FQ,41.893985,-87.663972,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/Jchw_6IvL78ApIUF3UK6FQ,41.893985,-87.663972,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a northward orientation with streets running east-west. In the ground-level photo, the trees and buildings align with the street's direction, indicating the user was facing south.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/Jchw_6IvL78ApIUF3UK6FQ,41.893985,-87.663972,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/Jchw_6IvL78ApIUF3UK6FQ,41.893985,-87.663972,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street running horizontally, and the ground-level photo captures a view of a building with a garage and a parked car. The trees and buildings align with the horizontal street pattern seen in the aerial image.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/Jchw_6IvL78ApIUF3UK6FQ,41.893985,-87.663972,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/Jchw_6IvL78ApIUF3UK6FQ,41.893985,-87.663972,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. The ground-level photo captures a building facade with a tree and a traffic light visible. The shadow cast by the tree suggests the sun is coming from the left side of the frame, indicating it's likely morning or late afternoon. Given the orientation of the buildings and streets in the aerial image, the user appears to be facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/FSs5co_wcwqd99G36wWeqw,41.857936,-87.622092,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/FSs5co_wcwqd99G36wWeqw,41.857936,-87.622092,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, the person is riding a bicycle towards the right side of the frame, indicating they are facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/FSs5co_wcwqd99G36wWeqw,41.857936,-87.622092,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/FSs5co_wcwqd99G36wWeqw,41.857936,-87.622092,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a building with a red roof and trees on the right side. The perspective suggests the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/FSs5co_wcwqd99G36wWeqw,41.857936,-87.622092,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/FSs5co_wcwqd99G36wWeqw,41.857936,-87.622092,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a street with traffic lights and buildings on the right side. The alignment of the street and the position of the traffic lights suggest that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/FSs5co_wcwqd99G36wWeqw,41.857936,-87.622092,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/FSs5co_wcwqd99G36wWeqw,41.857936,-87.622092,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on either side. In the ground-level photo, we see a building on the right and a street with traffic lights and a pedestrian crossing. The alignment of the buildings and streets suggests that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/mdshuDzI7cZFU6soVjZ8OQ,41.893988,-87.633949,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/mdshuDzI7cZFU6soVjZ8OQ,41.893988,-87.633949,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a northward orientation with streets running east-west. In the ground-level photo, the street appears to run east-west, and the user is facing towards the buildings on the right side of the road.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/mdshuDzI7cZFU6soVjZ8OQ,41.893988,-87.633949,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/mdshuDzI7cZFU6soVjZ8OQ,41.893988,-87.633949,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows streets running north-south and east-west. In the ground-level photo, the street appears to run horizontally, indicating the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/mdshuDzI7cZFU6soVjZ8OQ,41.893988,-87.633949,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/mdshuDzI7cZFU6soVjZ8OQ,41.893988,-87.633949,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows streets running north-south and east-west, with the user's photo capturing a street intersection. The user appears to be facing south.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/mdshuDzI7cZFU6soVjZ8OQ,41.893988,-87.633949,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/mdshuDzI7cZFU6soVjZ8OQ,41.893988,-87.633949,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a street with vehicles moving in the same direction as the roads in the aerial image. The alignment of the streets and the perspective suggest that the user was facing East (E) when taking the ground-level photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/BguVPphNvkXWNYeV_1IkLg,41.858809,-87.660387,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/BguVPphNvkXWNYeV_1IkLg,41.858809,-87.660387,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a building with a sign 'ATLANTICO' and cars parked along the street. The shadows indicate the sun is coming from the left side of the frame, suggesting the photo was taken in the morning or late afternoon. The alignment of the streets and the perspective of the photo suggest the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/BguVPphNvkXWNYeV_1IkLg,41.858809,-87.660387,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/BguVPphNvkXWNYeV_1IkLg,41.858809,-87.660387,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a straight road with buildings on one side and a clear sky above. The alignment of the road and the perspective suggest that the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/BguVPphNvkXWNYeV_1IkLg,41.858809,-87.660387,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/BguVPphNvkXWNYeV_1IkLg,41.858809,-87.660387,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a red car parked on the right side of the street, indicating the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/BguVPphNvkXWNYeV_1IkLg,41.858809,-87.660387,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/BguVPphNvkXWNYeV_1IkLg,41.858809,-87.660387,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, we see a street with parked cars on both sides and a building in the background. The alignment of the street and the perspective suggest that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/kd0koIin8cxTM5y6WcOW1Q,41.856281,-87.668609,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/kd0koIin8cxTM5y6WcOW1Q,41.856281,-87.668609,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings and trees. In the ground-level photo, the tree is on the left side of the frame, indicating that the user was facing East (E) when taking the photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/kd0koIin8cxTM5y6WcOW1Q,41.856281,-87.668609,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/kd0koIin8cxTM5y6WcOW1Q,41.856281,-87.668609,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. In the ground-level photo, the user is facing a street with parked cars on both sides and a building with a chimney visible in the background. The trees and the angle of the shadows suggest it's daytime. The user appears to be facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/kd0koIin8cxTM5y6WcOW1Q,41.856281,-87.668609,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/kd0koIin8cxTM5y6WcOW1Q,41.856281,-87.668609,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. The ground-level photo captures a building with a parking lot in front. The alignment of the buildings and the parking lot suggests that the user was facing East (E) when taking the photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/kd0koIin8cxTM5y6WcOW1Q,41.856281,-87.668609,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/kd0koIin8cxTM5y6WcOW1Q,41.856281,-87.668609,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a highway running horizontally across the image, with the user's photo capturing a view of the road and surrounding buildings. The user appears to be facing East (E) as the highway runs from left to right in the aerial image.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/40m8KD6YWDDHVoM6EQqbDQ,41.875319,-87.653270,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/40m8KD6YWDDHVoM6EQqbDQ,41.875319,-87.653270,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a highway with traffic moving towards the bottom right corner. In the ground-level photo, the vehicles are also moving in the same direction, indicating that the user is facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/40m8KD6YWDDHVoM6EQqbDQ,41.875319,-87.653270,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/40m8KD6YWDDHVoM6EQqbDQ,41.875319,-87.653270,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a highway running horizontally across the image, with the user's photo capturing a view of a building and trees to the right side of the highway. This suggests the user was facing East (E) when taking the ground-level photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/40m8KD6YWDDHVoM6EQqbDQ,41.875319,-87.653270,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/40m8KD6YWDDHVoM6EQqbDQ,41.875319,-87.653270,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a highway with traffic moving towards the bottom right corner of the image. In the ground-level photo, we see the same highway with vehicles moving in the same direction. The trees and buildings on the left side of the ground-level photo align with the left side of the aerial image, indicating that the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/40m8KD6YWDDHVoM6EQqbDQ,41.875319,-87.653270,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/40m8KD6YWDDHVoM6EQqbDQ,41.875319,-87.653270,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a park with a path leading towards the city skyline. In the ground-level photo, the user is facing the skyline, which is located in the NE direction relative to the aerial image.\",\n  \"direction\": \"NE\"\n}\n```",
+        "prediction": "NE",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/aYk9Zr6DqF_QAZ3z-Q2G2A,41.875090,-87.621154,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/aYk9Zr6DqF_QAZ3z-Q2G2A,41.875090,-87.621154,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a park with a circular path and a road running parallel to it. The ground-level photo captures a view of trees and grass, suggesting the user is facing towards the south side of the park where the road is visible.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/aYk9Zr6DqF_QAZ3z-Q2G2A,41.875090,-87.621154,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/aYk9Zr6DqF_QAZ3z-Q2G2A,41.875090,-87.621154,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a park with a path leading towards the city skyline. In the ground-level photo, we see a paved path extending into the distance with trees on both sides. The alignment of the path in the ground-level photo suggests that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/aYk9Zr6DqF_QAZ3z-Q2G2A,41.875090,-87.621154,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/aYk9Zr6DqF_QAZ3z-Q2G2A,41.875090,-87.621154,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a park with a pond and pathways. In the ground-level photo, we see a grassy area with trees and buildings in the background. The alignment of the trees and the perspective suggest that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/aYk9Zr6DqF_QAZ3z-Q2G2A,41.875090,-87.621154,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/aYk9Zr6DqF_QAZ3z-Q2G2A,41.875090,-87.621154,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a typical suburban neighborhood with houses aligned in rows. The ground-level photo captures a street view with houses on both sides, indicating that the user is facing East (E).\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/-Dy24vTL8taG2Tj1OH4mdw,41.893914,-87.688753,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/-Dy24vTL8taG2Tj1OH4mdw,41.893914,-87.688753,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a typical suburban street layout with houses aligned in rows. The ground-level photo captures a street scene with cars parked along both sides. The trees and buildings appear to be oriented in a way that suggests the user is facing East (E) when taking the photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/-Dy24vTL8taG2Tj1OH4mdw,41.893914,-87.688753,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/-Dy24vTL8taG2Tj1OH4mdw,41.893914,-87.688753,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a typical suburban neighborhood with houses aligned in rows. The ground-level photo captures a street view with houses on both sides and a car parked in the foreground. The alignment of the houses and the street in the ground-level photo suggests that the user was facing East (E) when taking the photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/-Dy24vTL8taG2Tj1OH4mdw,41.893914,-87.688753,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/-Dy24vTL8taG2Tj1OH4mdw,41.893914,-87.688753,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a typical suburban street layout with houses aligned in rows. The ground-level photo captures a street scene with cars parked along both sides. The alignment of the trees and the perspective of the photo suggest that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/-Dy24vTL8taG2Tj1OH4mdw,41.893914,-87.688753,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/-Dy24vTL8taG2Tj1OH4mdw,41.893914,-87.688753,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street running vertically, and the ground-level photo aligns with this street. The trees and buildings on both sides of the street suggest the photo was taken facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/JF0iIj0KhSV570znFXOgBA,41.864932,-87.625813,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/JF0iIj0KhSV570znFXOgBA,41.864932,-87.625813,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street running horizontally across the center, with buildings on either side. The ground-level photo captures a building directly ahead, indicating the user was facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/JF0iIj0KhSV570znFXOgBA,41.864932,-87.625813,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/JF0iIj0KhSV570znFXOgBA,41.864932,-87.625813,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street running vertically, and the ground-level photo captures a similar street view. The alignment of the road and the buildings suggests that the user was facing East (E) when taking the photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/JF0iIj0KhSV570znFXOgBA,41.864932,-87.625813,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/JF0iIj0KhSV570znFXOgBA,41.864932,-87.625813,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street running vertically, and the ground-level photo captures a view of a building and a parked car along this street. The alignment of the buildings and the street in both images suggests that the user was facing East (E) when taking the ground-level photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/JF0iIj0KhSV570znFXOgBA,41.864932,-87.625813,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/JF0iIj0KhSV570znFXOgBA,41.864932,-87.625813,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the bridge extending towards the bottom right corner, indicating that the user's photo was taken facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/rMPeXnB0xm78GHmv8E1kvQ,41.852524,-87.640697,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/rMPeXnB0xm78GHmv8E1kvQ,41.852524,-87.640697,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a bridge crossing over a river, with buildings on either side. In the ground-level photo, we see the same bridge and river, but from a different angle. The river appears to be flowing from the bottom left towards the top right in both images. The user's photo captures the river from the left bank, indicating they were facing West.\",\n  \"direction\": \"W\"\n}\n```",
+        "prediction": "W",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/rMPeXnB0xm78GHmv8E1kvQ,41.852524,-87.640697,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/rMPeXnB0xm78GHmv8E1kvQ,41.852524,-87.640697,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a bridge crossing over a river, with buildings on either side. In the ground-level photo, we see the same river with a building on the left side and some vegetation on the right. The sun appears to be in the upper left corner of the photo, indicating that the user was facing towards the northeast.\",\n  \"direction\": \"NE\"\n}\n```",
+        "prediction": "NE",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/rMPeXnB0xm78GHmv8E1kvQ,41.852524,-87.640697,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/rMPeXnB0xm78GHmv8E1kvQ,41.852524,-87.640697,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a bridge crossing over a river, with buildings on either side. In the ground-level photo, we see the river and part of a dock with a ship. The ship appears to be positioned towards the bottom right of the frame, indicating the user was facing South.\",\n  \"direction\": \"S\"\n}\n```",
+        "prediction": "S",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/rMPeXnB0xm78GHmv8E1kvQ,41.852524,-87.640697,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/rMPeXnB0xm78GHmv8E1kvQ,41.852524,-87.640697,W.jpg",
+        "orientation": "W"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street with buildings on both sides, and the ground-level photo captures a similar street scene with vehicles and buildings. The alignment of the street and the perspective suggest that the user was facing East (E) when taking the ground-level photo.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/IUaXVCEY-DZnrPzQEHw3hQ,41.883544,-87.641260,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/IUaXVCEY-DZnrPzQEHw3hQ,41.883544,-87.641260,N.jpg",
+        "orientation": "N"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. The ground-level photo captures a building facade with bicycles parked in front. The alignment of the shadows suggests the sun is coming from the left side of the frame, indicating the user was likely facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/IUaXVCEY-DZnrPzQEHw3hQ,41.883544,-87.641260,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/IUaXVCEY-DZnrPzQEHw3hQ,41.883544,-87.641260,E.jpg",
+        "orientation": "E"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows the user's photo is taken from the center of the aerial view, where the road appears straight ahead. In the ground-level photo, the user is facing the street directly in front of them, which aligns with the straight road seen in the aerial image.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/IUaXVCEY-DZnrPzQEHw3hQ,41.883544,-87.641260,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/IUaXVCEY-DZnrPzQEHw3hQ,41.883544,-87.641260,S.jpg",
+        "orientation": "S"
+    },
+    {
+        "message": "```json\n{\n  \"explanation\": \"The aerial image shows a street intersection with buildings on both sides. The ground-level photo captures a person walking on the sidewalk, with trees and a building visible. The alignment of the buildings and the street in the aerial image suggests that the user is facing East.\",\n  \"direction\": \"E\"\n}\n```",
+        "prediction": "E",
+        "sat_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/map/IUaXVCEY-DZnrPzQEHw3hQ,41.883544,-87.641260,.png",
+        "fullview_path": "/home/frank/LightCode/FullViewBench/DataVault/Sample100/image/IUaXVCEY-DZnrPzQEHw3hQ,41.883544,-87.641260,W.jpg",
+        "orientation": "W"
+    }
+]

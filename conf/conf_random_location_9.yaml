@@ -1,0 +1,62 @@
+defaults:
+  - _self_
+
+  # ── models ───────────────────────────────────────────────────────────────
+  - model@models.1: qwen25vl_7b
+  - model@models.2: mPLUG-owl3_7b
+  - model@models.3: MS-Phi3d5
+  - model@models.4: InternVL3-8B
+  - model@models.5: deepseek-vl-7b-chat
+  - model@models.6: qwen_sft1200
+  - model@models.7: llava-one-vision_7b
+  - model@models.8: llava_interleave_qwen_7b
+  - model@models.9: qwen_sftNOVIGOR
+  - model@models.10: qwen_sftBoth
+
+  # ── tasks ────────────────────────────────────────────────────────────────
+  - task@tasks.location9: location4_random9_FoV90
+# ───────────────────────── global knobs ────────────────────────────────────
+output_base: /home2/ys_zheng/LMMBench/output/random9
+
+# ───────────────────────── pipeline wiring ─────────────────────────────────
+pipelines:
+  - mode: 1
+    model: ${models.1}
+    tasks:
+      - ${tasks.location9}
+  - mode: 2
+    model: ${models.2}
+    tasks:
+      - ${tasks.location9}
+  - mode: 3
+    model: ${models.3}
+    tasks:
+      - ${tasks.location9}
+  - mode: 4
+    model: ${models.4}
+    tasks:
+      - ${tasks.location9}
+  - mode: 5
+    model: ${models.5}
+    tasks:
+      - ${tasks.location9}
+  - mode: 6
+    model: ${models.6}
+    tasks:
+      - ${tasks.location9}
+  - mode: 7
+    model: ${models.7}
+    tasks:
+      - ${tasks.location9}
+  - mode: 8
+    model: ${models.8}
+    tasks:
+      - ${tasks.location9}
+  - mode: 9
+    model: ${models.9}
+    tasks:
+      - ${tasks.location9}
+  - mode: 10
+    model: ${models.10}
+    tasks:
+      - ${tasks.location9}

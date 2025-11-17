@@ -1,0 +1,208 @@
+[2025-05-11 08:39:11,212][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:39:11,212][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:39:11,212][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:39:11,212][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:39:15,154][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:39:15,221][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:39:15,241][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:39:15,309][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:39:15,584][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:39:15,636][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:39:15,673][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:39:15,733][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:44:14,228][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:44:16,193][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:44:18,023][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:44:18,090][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:44:19,315][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:44:20,155][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:44:20,223][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:44:23,183][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:44:23,266][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:44:24,288][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:44:28,637][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:44:28,705][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:49:01,279][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:49:06,036][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:49:06,103][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:49:06,284][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:49:10,277][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:49:10,345][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:49:12,301][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:49:15,341][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 08:49:17,332][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:49:17,399][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:49:20,169][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 08:49:20,237][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 09:31:11,571][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 09:31:16,242][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 09:31:16,310][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 09:31:26,532][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 09:31:31,033][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 09:31:31,102][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 09:31:33,574][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 09:31:38,411][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 09:31:38,478][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 09:32:01,582][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 09:32:06,733][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 09:32:06,800][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-11 10:12:54,822][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:12:59,267][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:08,822][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:13,426][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:22,847][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:24,900][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:28,055][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:29,975][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:35,852][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:38,871][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:39,936][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:41,446][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:44,045][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:46,110][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:49,906][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:49,906][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:52,865][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:53,943][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:13:55,166][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:56,216][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:57,732][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:13:59,211][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:14:04,952][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:14:04,970][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:14:05,986][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:14:06,998][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:14:09,414][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:14:09,794][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:14:10,655][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:14:13,353][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:14:17,975][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:14:17,975][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:14:19,024][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:14:21,960][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:14:22,647][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-11 10:14:29,227][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:14:29,228][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:14:30,639][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:14:35,019][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:14:42,925][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:17:00,000][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:17:04,036][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:17:07,298][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:17:11,355][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:18:07,119][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:18:09,048][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:18:14,255][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:18:16,952][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:18:22,013][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:18:29,145][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:19:40,145][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:19:45,116][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:19:47,793][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:19:53,356][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:20:47,127][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:20:56,583][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:32:20,215][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:32:28,305][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:33:40,267][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:33:48,394][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:36:28,250][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:36:35,616][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:37:03,258][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:37:09,988][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:46:02,344][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:46:15,440][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:47:17,380][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:47:27,734][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:48:41,459][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:48:51,264][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:48:55,387][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:49:05,517][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:49:56,403][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:50:05,325][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:50:12,420][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:50:16,410][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:50:20,975][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:50:25,193][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:52:33,506][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:52:42,551][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:52:46,490][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:52:47,489][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:52:51,461][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 10:52:57,089][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:52:57,092][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 10:53:00,354][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:05:09,552][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:05:15,677][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:05:19,506][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:05:24,845][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:08:05,639][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:08:15,146][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:16:17,666][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:16:27,799][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:17:43,698][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:17:54,011][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:20:13,754][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:20:22,443][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:20:32,709][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:20:40,059][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:22:18,763][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:22:26,162][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:22:35,861][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:22:43,972][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:25:11,835][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:25:18,872][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:25:21,350][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:25:27,484][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:27:14,878][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:27:21,806][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:27:24,341][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:27:28,700][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:27:32,804][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:27:40,689][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:28:49,876][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:28:56,778][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:29:15,845][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:29:22,665][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:38:14,982][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:38:22,415][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:38:29,965][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:38:37,579][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:43:27,931][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:43:35,481][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:48:26,092][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:48:33,966][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:49:13,134][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:49:21,378][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:54:16,058][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:54:29,862][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:56:49,769][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:57:00,781][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:58:37,166][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:58:47,129][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:58:51,173][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:58:54,189][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:59:02,271][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:59:04,085][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 11:59:26,267][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 11:59:36,509][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:00:07,219][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:00:16,376][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:01:25,253][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:01:34,110][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:01:38,340][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:01:49,059][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:01:54,378][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:02:09,014][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:02:42,311][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:02:51,899][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:14:52,393][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:15:02,375][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:15:29,386][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:15:39,959][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:17:57,403][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:18:06,571][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:20:31,434][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:20:41,852][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-11 12:28:20,503][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-11 12:28:30,395][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176

@@ -1,0 +1,80 @@
+output_base: /home/LMMBench/output/Location9Gauss8CorrectAAAI
+pipelines:
+- model: ${models.15}
+  tasks:
+  - ${tasks.location8}
+models:
+  '6':
+    name: InternVL3-8B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home/InternVL3-8B
+    batch_size: 8
+  '13':
+    name: qwen25vl_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /mnt/weight/Qwen2-VL-7B-Instruct
+    batch_size: 8
+  '15':
+    name: qwen2vl_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Qwen2-VL-7B-Instruct
+    batch_size: 8
+tasks:
+  location8:
+    name: location4_random9_FoV90
+    dataset_class: Tasks.location_8_gauss.InRangeDataset
+    data_writer_class: Tasks.location_8_gauss.InRnageDataWriter
+    lmm_message_class: Tasks.location_8_gauss.LocationLMMMessage
+    get_dataloader_fn: Tasks.location_8_gauss.get_dataloader
+    output_dir: location4_random9_FoV90
+    instances:
+    - root_dir: /home/Data/Mule_Transfer/CVGloable
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVGloable.json
+      output: CVGloable.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/CVUSA
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom18.json
+      output: CVUSA_zoom18.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/CVUSA
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom19.json
+      output: CVUSA_zoom19.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/CVUSA
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom20.json
+      output: CVUSA_zoom20.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/LMMGeo
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom20.json
+      output: LMMGeo_zoom20.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/LMMGeo
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom21.json
+      output: LMMGeo_zoom21.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/LMMGeo
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom22.json
+      output: LMMGeo_zoom22.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/OmniCity
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_view1.json
+      output: OmniCity_View1.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/OmniCity
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_view2.json
+      output: OmniCity_View2.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/OmniCity
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_view3.json
+      output: OmniCity_View3.json
+      sample_size: 0
+    - root_dir: /home/Data/Mule_Transfer/VIGOR_Chicago
+      json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/VIGOR_Chicago.json
+      output: VIGOR_Chicago.json
+      sample_size: 0

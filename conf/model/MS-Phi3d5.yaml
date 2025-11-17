@@ -1,0 +1,7 @@
+# conf/model/MS-Phi3d5.yaml
+name: MS-Phi3d5
+class_path: model.InferenceModel
+model_size: 7B
+test_mode: false
+model_path: '/home2/ys_zheng/HugginfaceDownloader/Phi-3.5-vision-instruct'
+batch_size: 8

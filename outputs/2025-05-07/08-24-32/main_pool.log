@@ -1,0 +1,44 @@
+[2025-05-07 08:24:33,628][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:24:33,628][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:24:33,628][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:24:33,635][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:24:33,681][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:24:40,853][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:24:40,971][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-07 08:24:41,115][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-07 08:24:41,147][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-07 08:24:42,188][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-07 08:24:47,657][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:24:54,575][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-07 08:40:43,729][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:40:50,449][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-07 08:42:21,820][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:42:29,173][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-07 08:42:51,806][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:42:58,396][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-07 08:58:00,896][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:58:07,822][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-07 08:58:24,891][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:58:28,076][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 08:58:28,152][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 08:59:20,893][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 08:59:23,884][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 08:59:23,954][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:01:03,936][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 09:01:03,952][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 09:01:06,773][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:01:06,842][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:01:06,919][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:01:06,989][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:20:21,074][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 09:20:23,987][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:20:24,056][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:52:37,255][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 09:52:40,140][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:52:40,210][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:53:30,250][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 09:53:34,288][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:53:34,357][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:54:22,231][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-07 09:54:25,353][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-07 09:54:25,422][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config

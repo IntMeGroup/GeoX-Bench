@@ -1,0 +1,7 @@
+# conf/model/qwen25vl_7b.yaml
+name: Mantis-8B-Idefics2
+class_path: model.MantisInterleave
+model_size: 8B
+test_mode: false
+model_path: '/home2/ys_zheng/HugginfaceDownloader/Mantis-8B-Idefics2'
+batch_size: 1

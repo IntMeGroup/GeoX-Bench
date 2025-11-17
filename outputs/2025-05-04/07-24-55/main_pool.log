@@ -1,0 +1,12 @@
+[2025-05-04 07:24:56,439][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-04 07:24:56,440][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-04 07:24:56,440][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-04 07:24:56,456][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-04 07:25:00,455][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-04 07:25:00,775][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-04 07:25:01,050][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-04 07:25:01,431][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-05-04 07:25:07,488][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-04 07:25:07,529][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-04 07:25:07,530][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-04 07:25:07,554][datasets][INFO] - PyTorch version 2.7.0 available.

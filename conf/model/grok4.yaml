@@ -1,0 +1,8 @@
+# conf/model/gpt4o.yaml
+name: grok_4
+class_path: model.CloseAI
+model_size: 7B
+test_mode: false
+model_path: 'grok-4'
+batch_size: 50
+gpu_occu: 1

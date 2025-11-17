@@ -1,0 +1,2 @@
+[2025-05-05 07:13:51,648][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-05 07:14:05,194][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176

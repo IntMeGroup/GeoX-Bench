@@ -1,0 +1,64 @@
+[2025-05-06 10:08:42,588][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:08:42,594][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:08:42,594][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:08:42,596][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:08:42,599][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:08:42,608][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:08:42,614][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:08:51,764][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:08:51,787][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:08:51,987][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:08:52,098][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:08:52,349][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:08:52,478][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:08:52,617][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:11:02,600][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:11:06,637][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:11:07,704][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:11:09,101][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:11:10,635][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:11:10,639][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:11:13,237][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:11:14,919][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:11:18,987][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:11:18,989][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:11:26,721][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:11:26,727][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:11:33,944][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:11:34,118][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:14:40,669][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:14:47,750][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:28:02,790][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:28:09,335][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:28:45,855][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:28:52,828][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:29:08,792][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:29:14,886][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:29:15,945][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:29:22,475][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:29:49,805][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:29:52,885][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:29:56,298][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:30:00,385][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:30:52,859][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:31:00,161][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:31:06,866][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:31:13,737][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:31:49,876][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:31:57,236][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:32:01,927][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:32:09,320][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:32:21,969][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:32:24,927][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:32:28,550][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:32:32,269][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:33:19,940][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:33:26,794][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:33:30,955][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:33:37,643][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:35:25,977][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:35:33,431][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:48:18,071][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:48:24,686][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-05-06 10:49:17,117][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-06 10:49:24,426][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176

@@ -1,0 +1,7 @@
+# conf/model/InternVL3-8B.yaml
+name: InternVL2-8B
+class_path: model.InferenceModel
+model_size: 8B
+test_mode: false
+model_path: '/home2/ys_zheng/HugginfaceDownloader/InternVL2-8B'
+batch_size: 8

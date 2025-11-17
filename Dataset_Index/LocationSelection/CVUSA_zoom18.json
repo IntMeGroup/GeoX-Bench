@@ -1,0 +1,6002 @@
+[
+    {
+        "image_id": "0037557",
+        "original_id": "37557",
+        "source": "CVUSA",
+        "real distance": [
+            -3.456886625950009e-09,
+            -0.4452779667947109
+        ],
+        "pixel distance": [
+            -2.9802322387695312e-08,
+            4.094726502895355
+        ],
+        "GroundImage": {
+            "file_path": "views/0037557E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "43.24721900000003,-122.23635099999996",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0035230.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "43.765844,-91.289974"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0040066.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.155455,-80.3875"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0039554.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "43.134943,-89.128202"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0037557.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.247215,-122.236351"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0037557",
+        "original_id": "37557",
+        "source": "CVUSA",
+        "real distance": [
+            -3.456886625950009e-09,
+            -0.4452779667947109
+        ],
+        "pixel distance": [
+            -2.9802322387695312e-08,
+            4.094726502895355
+        ],
+        "GroundImage": {
+            "file_path": "views/0037557N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "43.24721900000003,-122.23635099999996",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0037557.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.247215,-122.236351"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0029277.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "40.310321,-86.638994"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0040066.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.155455,-80.3875"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0006988.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "39.043869,-89.804016"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0037557",
+        "original_id": "37557",
+        "source": "CVUSA",
+        "real distance": [
+            -3.456886625950009e-09,
+            -0.4452779667947109
+        ],
+        "pixel distance": [
+            -2.9802322387695312e-08,
+            4.094726502895355
+        ],
+        "GroundImage": {
+            "file_path": "views/0037557S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "43.24721900000003,-122.23635099999996",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0037557.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.247215,-122.236351"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0015538.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "29.523524,-95.366817"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0040066.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.155455,-80.3875"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043716.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "40.459856,-91.110103"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0037557",
+        "original_id": "37557",
+        "source": "CVUSA",
+        "real distance": [
+            -3.456886625950009e-09,
+            -0.4452779667947109
+        ],
+        "pixel distance": [
+            -2.9802322387695312e-08,
+            4.094726502895355
+        ],
+        "GroundImage": {
+            "file_path": "views/0037557W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "43.24721900000003,-122.23635099999996",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0037557.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.247215,-122.236351"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0018506.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "40.770679,-88.705356"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0040066.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.155455,-80.3875"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0042557.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.387692,-92.706599"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0029640",
+        "original_id": "29640",
+        "source": "CVUSA",
+        "real distance": [
+            0.08001342838749959,
+            0.22260095580981343
+        ],
+        "pixel distance": [
+            0.7458350956439972,
+            -2.074946790933609
+        ],
+        "GroundImage": {
+            "file_path": "views/0029640E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.06111900034159,-72.04882000024281",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0036680.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "48.985895,-116.484668"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0029640.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.061121,-72.048819"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004597.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.183704,-106.326803"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0029640",
+        "original_id": "29640",
+        "source": "CVUSA",
+        "real distance": [
+            0.08001342838749959,
+            0.22260095580981343
+        ],
+        "pixel distance": [
+            0.7458350956439972,
+            -2.074946790933609
+        ],
+        "GroundImage": {
+            "file_path": "views/0029640N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.06111900034159,-72.04882000024281",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0029640.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.061121,-72.048819"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0027966.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "38.115613,-105.158973"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0026445.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "45.373646,-122.024981"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0029640",
+        "original_id": "29640",
+        "source": "CVUSA",
+        "real distance": [
+            0.08001342838749959,
+            0.22260095580981343
+        ],
+        "pixel distance": [
+            0.7458350956439972,
+            -2.074946790933609
+        ],
+        "GroundImage": {
+            "file_path": "views/0029640S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.06111900034159,-72.04882000024281",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0029640.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.061121,-72.048819"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0022622.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "39.771876,-104.922317"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0040229.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "38.085328,-111.337159"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0029640",
+        "original_id": "29640",
+        "source": "CVUSA",
+        "real distance": [
+            0.08001342838749959,
+            0.22260095580981343
+        ],
+        "pixel distance": [
+            0.7458350956439972,
+            -2.074946790933609
+        ],
+        "GroundImage": {
+            "file_path": "views/0029640W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.06111900034159,-72.04882000024281",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0037353.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "30.708625,-101.193201"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0029640.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.061121,-72.048819"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0034144.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "48.062184,-118.975037"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0039420",
+        "original_id": "39420",
+        "source": "CVUSA",
+        "real distance": [
+            0.2591221417450144,
+            0.1112985613784052
+        ],
+        "pixel distance": [
+            2.2366703525185585,
+            -0.960698276758194
+        ],
+        "GroundImage": {
+            "file_path": "views/0039420E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.10308100018801,-108.1358029996087",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0039420.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.103082,-108.1358"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0036587.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "44.951634,-74.837606"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0012412.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "40.833687,-85.166229"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0039420",
+        "original_id": "39420",
+        "source": "CVUSA",
+        "real distance": [
+            0.2591221417450144,
+            0.1112985613784052
+        ],
+        "pixel distance": [
+            2.2366703525185585,
+            -0.960698276758194
+        ],
+        "GroundImage": {
+            "file_path": "views/0039420N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.10308100018801,-108.1358029996087",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0039420.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.103082,-108.1358"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0027348.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "30.998606,-81.780125"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0019531.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "37.02887,-83.084809"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0039420",
+        "original_id": "39420",
+        "source": "CVUSA",
+        "real distance": [
+            0.2591221417450144,
+            0.1112985613784052
+        ],
+        "pixel distance": [
+            2.2366703525185585,
+            -0.960698276758194
+        ],
+        "GroundImage": {
+            "file_path": "views/0039420S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.10308100018801,-108.1358029996087",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0029094.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "36.269286,-79.851498"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0020652.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "36.302265,-76.223227"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0039420.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.103082,-108.1358"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0039420",
+        "original_id": "39420",
+        "source": "CVUSA",
+        "real distance": [
+            0.2591221417450144,
+            0.1112985613784052
+        ],
+        "pixel distance": [
+            2.2366703525185585,
+            -0.960698276758194
+        ],
+        "GroundImage": {
+            "file_path": "views/0039420W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.10308100018801,-108.1358029996087",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0039420.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.103082,-108.1358"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0003356.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "34.764467,-76.51764"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0030774.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "35.281462,-82.7166"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0017567",
+        "original_id": "17567",
+        "source": "CVUSA",
+        "real distance": [
+            -0.544848974479541,
+            0.22268318452569164
+        ],
+        "pixel distance": [
+            -4.4741604924201965,
+            -1.8286173790693283
+        ],
+        "GroundImage": {
+            "file_path": "views/0017567E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.34331099960292,-106.2084199996832",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0017567.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.343313,-106.208426"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0009495.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.318889,-79.231527"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0029640.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "44.061121,-72.048819"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0017567",
+        "original_id": "17567",
+        "source": "CVUSA",
+        "real distance": [
+            -0.544848974479541,
+            0.22268318452569164
+        ],
+        "pixel distance": [
+            -4.4741604924201965,
+            -1.8286173790693283
+        ],
+        "GroundImage": {
+            "file_path": "views/0017567N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.34331099960292,-106.2084199996832",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0031681.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "38.775653,-78.20916"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0029192.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "44.269184,-71.531982"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0017567.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.343313,-106.208426"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0017567",
+        "original_id": "17567",
+        "source": "CVUSA",
+        "real distance": [
+            -0.544848974479541,
+            0.22268318452569164
+        ],
+        "pixel distance": [
+            -4.4741604924201965,
+            -1.8286173790693283
+        ],
+        "GroundImage": {
+            "file_path": "views/0017567S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.34331099960292,-106.2084199996832",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0024150.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "36.250788,-80.743681"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0010151.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "30.438355,-81.558121"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0017567.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.343313,-106.208426"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0017567",
+        "original_id": "17567",
+        "source": "CVUSA",
+        "real distance": [
+            -0.544848974479541,
+            0.22268318452569164
+        ],
+        "pixel distance": [
+            -4.4741604924201965,
+            -1.8286173790693283
+        ],
+        "GroundImage": {
+            "file_path": "views/0017567W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.34331099960292,-106.2084199996832",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0019141.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "43.452737,-75.526551"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0017567.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.343313,-106.208426"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0037760.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "43.016649,-73.957979"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0014603",
+        "original_id": "14603",
+        "source": "CVUSA",
+        "real distance": [
+            0.4524764849587037,
+            0.5566182725406954
+        ],
+        "pixel distance": [
+            3.7283727824687958,
+            -4.586493417620659
+        ],
+        "GroundImage": {
+            "file_path": "views/0014603E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.61869799981298,-105.91017200013755",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0041122.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.019742,-76.128066"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0026060.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "37.258604,-76.544546"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0014603.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.618703,-105.910167"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0014603",
+        "original_id": "14603",
+        "source": "CVUSA",
+        "real distance": [
+            0.4524764849587037,
+            0.5566182725406954
+        ],
+        "pixel distance": [
+            3.7283727824687958,
+            -4.586493417620659
+        ],
+        "GroundImage": {
+            "file_path": "views/0014603N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.61869799981298,-105.91017200013755",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0014603.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.618703,-105.910167"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0027975.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "38.330589,-80.212062"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0013849.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "36.443623,-81.084832"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0014603",
+        "original_id": "14603",
+        "source": "CVUSA",
+        "real distance": [
+            0.4524764849587037,
+            0.5566182725406954
+        ],
+        "pixel distance": [
+            3.7283727824687958,
+            -4.586493417620659
+        ],
+        "GroundImage": {
+            "file_path": "views/0014603S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.61869799981298,-105.91017200013755",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0000993.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "44.29732,-70.117958"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0014603.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.618703,-105.910167"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0035311.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "35.266824,-80.747642"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0014603",
+        "original_id": "14603",
+        "source": "CVUSA",
+        "real distance": [
+            0.4524764849587037,
+            0.5566182725406954
+        ],
+        "pixel distance": [
+            3.7283727824687958,
+            -4.586493417620659
+        ],
+        "GroundImage": {
+            "file_path": "views/0014603W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.61869799981298,-105.91017200013755",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0016145.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "26.280015,-80.272924"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0014603.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.618703,-105.910167"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0025713.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "36.393161,-80.194272"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0019403",
+        "original_id": "19403",
+        "source": "CVUSA",
+        "real distance": [
+            -3.12823868771714e-05,
+            0.22262609766345676
+        ],
+        "pixel distance": [
+            -0.0002924501895904541,
+            -2.0812637358903885
+        ],
+        "GroundImage": {
+            "file_path": "views/0019403E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.233879000115735,-91.8400499996078",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0005710.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "47.95781,-118.990045"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0019403.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.233881,-91.84005"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010319.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "33.924095,-116.905195"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0019403",
+        "original_id": "19403",
+        "source": "CVUSA",
+        "real distance": [
+            -3.12823868771714e-05,
+            0.22262609766345676
+        ],
+        "pixel distance": [
+            -0.0002924501895904541,
+            -2.0812637358903885
+        ],
+        "GroundImage": {
+            "file_path": "views/0019403N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.233879000115735,-91.8400499996078",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0032489.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "42.965108,-120.781569"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0034137.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "37.324542,-122.024651"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0019403.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.233881,-91.84005"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0019403",
+        "original_id": "19403",
+        "source": "CVUSA",
+        "real distance": [
+            -3.12823868771714e-05,
+            0.22262609766345676
+        ],
+        "pixel distance": [
+            -0.0002924501895904541,
+            -2.0812637358903885
+        ],
+        "GroundImage": {
+            "file_path": "views/0019403S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.233879000115735,-91.8400499996078",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0019403.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.233881,-91.84005"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0020998.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "36.049004,-121.589486"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0021326.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "41.868561,-121.981316"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0019403",
+        "original_id": "19403",
+        "source": "CVUSA",
+        "real distance": [
+            -3.12823868771714e-05,
+            0.22262609766345676
+        ],
+        "pixel distance": [
+            -0.0002924501895904541,
+            -2.0812637358903885
+        ],
+        "GroundImage": {
+            "file_path": "views/0019403W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.233879000115735,-91.8400499996078",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0017250.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "39.023257,-121.555132"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0005710.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "47.95781,-118.990045"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0019403.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.233881,-91.84005"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0011618",
+        "original_id": "11618",
+        "source": "CVUSA",
+        "real distance": [
+            -0.5462946356726129,
+            0.44527796283984805
+        ],
+        "pixel distance": [
+            -4.4739242643117905,
+            -3.646640032529831
+        ],
+        "GroundImage": {
+            "file_path": "views/0011618E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.124073,-90.725125",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0012507.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "43.911589,-121.780994"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0015262.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.150787,-119.297367"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0011618.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.124077,-90.725131"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0011618",
+        "original_id": "11618",
+        "source": "CVUSA",
+        "real distance": [
+            -0.5462946356726129,
+            0.44527796283984805
+        ],
+        "pixel distance": [
+            -4.4739242643117905,
+            -3.646640032529831
+        ],
+        "GroundImage": {
+            "file_path": "views/0011618N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.124073,-90.725125",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0002628.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "36.116357,-119.259451"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0020817.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.675986,-121.772832"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0011618.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.124077,-90.725131"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0011618",
+        "original_id": "11618",
+        "source": "CVUSA",
+        "real distance": [
+            -0.5462946356726129,
+            0.44527796283984805
+        ],
+        "pixel distance": [
+            -4.4739242643117905,
+            -3.646640032529831
+        ],
+        "GroundImage": {
+            "file_path": "views/0011618S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.124073,-90.725125",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0036680.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "48.985895,-116.484668"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0011618.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.124077,-90.725131"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0040441.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "41.882813,-123.427988"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0011618",
+        "original_id": "11618",
+        "source": "CVUSA",
+        "real distance": [
+            -0.5462946356726129,
+            0.44527796283984805
+        ],
+        "pixel distance": [
+            -4.4739242643117905,
+            -3.646640032529831
+        ],
+        "GroundImage": {
+            "file_path": "views/0011618W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.124073,-90.725125",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0011618.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.124077,-90.725131"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0009981.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.130547,-120.808034"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0002628.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "36.116357,-119.259451"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0030055",
+        "original_id": "30055",
+        "source": "CVUSA",
+        "real distance": [
+            0.4222520146929871,
+            -0.4452764615739381
+        ],
+        "pixel distance": [
+            3.7285605296492577,
+            3.9318705052137375
+        ],
+        "GroundImage": {
+            "file_path": "views/0030055E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "40.66154899998651,-109.48065200038934",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0042836.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "30.001832,-90.456211"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0030055.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "40.661545,-109.480647"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0040891.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "35.845691,-83.958664"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0030055",
+        "original_id": "30055",
+        "source": "CVUSA",
+        "real distance": [
+            0.4222520146929871,
+            -0.4452764615739381
+        ],
+        "pixel distance": [
+            3.7285605296492577,
+            3.9318705052137375
+        ],
+        "GroundImage": {
+            "file_path": "views/0030055N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "40.66154899998651,-109.48065200038934",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0010916.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "42.016016,-80.37338"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0030055.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "40.661545,-109.480647"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0001914.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "30.502814,-91.20457"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0030055",
+        "original_id": "30055",
+        "source": "CVUSA",
+        "real distance": [
+            0.4222520146929871,
+            -0.4452764615739381
+        ],
+        "pixel distance": [
+            3.7285605296492577,
+            3.9318705052137375
+        ],
+        "GroundImage": {
+            "file_path": "views/0030055S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "40.66154899998651,-109.48065200038934",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0020715.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "35.425824,-80.618344"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0007150.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "32.320981,-80.920806"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0030055.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "40.661545,-109.480647"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0030055",
+        "original_id": "30055",
+        "source": "CVUSA",
+        "real distance": [
+            0.4222520146929871,
+            -0.4452764615739381
+        ],
+        "pixel distance": [
+            3.7285605296492577,
+            3.9318705052137375
+        ],
+        "GroundImage": {
+            "file_path": "views/0030055W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "40.66154899998651,-109.48065200038934",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0016856.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "39.128649,-77.554948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0006843.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "38.52624,-87.974369"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0030055.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "40.661545,-109.480647"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0002509",
+        "original_id": "2509",
+        "source": "CVUSA",
+        "real distance": [
+            -0.24325555127465595,
+            -0.22266324410757207
+        ],
+        "pixel distance": [
+            -2.2371736019849777,
+            2.0477901995182037
+        ],
+        "GroundImage": {
+            "file_path": "views/0002509E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "43.25328100021795,-77.62178799971639",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0041393.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "45.195592,-122.179683"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0038848.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "45.601885,-118.707403"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0002509.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.253279,-77.621791"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0002509",
+        "original_id": "2509",
+        "source": "CVUSA",
+        "real distance": [
+            -0.24325555127465595,
+            -0.22266324410757207
+        ],
+        "pixel distance": [
+            -2.2371736019849777,
+            2.0477901995182037
+        ],
+        "GroundImage": {
+            "file_path": "views/0002509N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "43.25328100021795,-77.62178799971639",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0034347.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "46.352943,-116.161579"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0002509.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.253279,-77.621791"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0038441.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "32.903228,-108.237462"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0002509",
+        "original_id": "2509",
+        "source": "CVUSA",
+        "real distance": [
+            -0.24325555127465595,
+            -0.22266324410757207
+        ],
+        "pixel distance": [
+            -2.2371736019849777,
+            2.0477901995182037
+        ],
+        "GroundImage": {
+            "file_path": "views/0002509S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "43.25328100021795,-77.62178799971639",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0002509.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.253279,-77.621791"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0026571.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "37.846709,-121.236808"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0039280.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "37.660772,-112.83738"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0002509",
+        "original_id": "2509",
+        "source": "CVUSA",
+        "real distance": [
+            -0.24325555127465595,
+            -0.22266324410757207
+        ],
+        "pixel distance": [
+            -2.2371736019849777,
+            2.0477901995182037
+        ],
+        "GroundImage": {
+            "file_path": "views/0002509W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "43.25328100021795,-77.62178799971639",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0022348.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "44.739198,-119.103137"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0002509.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.253279,-77.621791"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0019984.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "33.651427,-112.178556"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0022057",
+        "original_id": "22057",
+        "source": "CVUSA",
+        "real distance": [
+            0.5188298291869428,
+            0.5565974486062316
+        ],
+        "pixel distance": [
+            4.473924234509468,
+            -4.799598395824432
+        ],
+        "GroundImage": {
+            "file_path": "views/0022057E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.03258100000005,-80.62380199999996",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0022057.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.032586,-80.623796"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0001845.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "34.718641,-114.478661"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0000630.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "34.539316,-117.120911"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0022057",
+        "original_id": "22057",
+        "source": "CVUSA",
+        "real distance": [
+            0.5188298291869428,
+            0.5565974486062316
+        ],
+        "pixel distance": [
+            4.473924234509468,
+            -4.799598395824432
+        ],
+        "GroundImage": {
+            "file_path": "views/0022057N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.03258100000005,-80.62380199999996",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0002099.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.779933,-112.833667"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0029963.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "48.265884,-124.335878"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0022057.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.032586,-80.623796"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0022057",
+        "original_id": "22057",
+        "source": "CVUSA",
+        "real distance": [
+            0.5188298291869428,
+            0.5565974486062316
+        ],
+        "pixel distance": [
+            4.473924234509468,
+            -4.799598395824432
+        ],
+        "GroundImage": {
+            "file_path": "views/0022057S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.03258100000005,-80.62380199999996",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0020572.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "34.12875,-117.53163"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0022057.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.032586,-80.623796"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0011011.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.272538,-120.320263"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0022057",
+        "original_id": "22057",
+        "source": "CVUSA",
+        "real distance": [
+            0.5188298291869428,
+            0.5565974486062316
+        ],
+        "pixel distance": [
+            4.473924234509468,
+            -4.799598395824432
+        ],
+        "GroundImage": {
+            "file_path": "views/0022057W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.03258100000005,-80.62380199999996",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0041736.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "33.344302,-111.869237"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0022057.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.032586,-80.623796"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010822.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "42.641762,-124.405778"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0000757",
+        "original_id": "757",
+        "source": "CVUSA",
+        "real distance": [
+            0.0,
+            0.11131949130319144
+        ],
+        "pixel distance": [
+            0.0,
+            -1.0980387926101685
+        ],
+        "GroundImage": {
+            "file_path": "views/0000757E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "47.228359,-88.454324",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0015638.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "38.227109,-122.57679"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0011222.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "34.571503,-112.426672"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0000757.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.22836,-88.454324"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0000757",
+        "original_id": "757",
+        "source": "CVUSA",
+        "real distance": [
+            0.0,
+            0.11131949130319144
+        ],
+        "pixel distance": [
+            0.0,
+            -1.0980387926101685
+        ],
+        "GroundImage": {
+            "file_path": "views/0000757N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "47.228359,-88.454324",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0000757.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.22836,-88.454324"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0042146.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.325376,-120.619087"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0034137.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "37.324542,-122.024651"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0000757",
+        "original_id": "757",
+        "source": "CVUSA",
+        "real distance": [
+            0.0,
+            0.11131949130319144
+        ],
+        "pixel distance": [
+            0.0,
+            -1.0980387926101685
+        ],
+        "GroundImage": {
+            "file_path": "views/0000757S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "47.228359,-88.454324",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0029816.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "26.27523,-80.236236"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0016933.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "37.596621,-120.308197"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0000757.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.22836,-88.454324"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0000757",
+        "original_id": "757",
+        "source": "CVUSA",
+        "real distance": [
+            0.0,
+            0.11131949130319144
+        ],
+        "pixel distance": [
+            0.0,
+            -1.0980387926101685
+        ],
+        "GroundImage": {
+            "file_path": "views/0000757W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "47.228359,-88.454324",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0013700.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "35.28913,-113.942026"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0000757.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.22836,-88.454324"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0003922.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "28.074424,-99.343812"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004370",
+        "original_id": "4370",
+        "source": "CVUSA",
+        "real distance": [
+            0.07904020317872275,
+            -0.3339657793320952
+        ],
+        "pixel distance": [
+            0.7458902299404144,
+            3.151583671569824
+        ],
+        "GroundImage": {
+            "file_path": "views/0004370E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.78091800006564,-117.30558000031675",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0029325.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "39.834385,-91.363086"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0002343.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "43.942258,-89.080546"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004370.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.780915,-117.305579"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0004370",
+        "original_id": "4370",
+        "source": "CVUSA",
+        "real distance": [
+            0.07904020317872275,
+            -0.3339657793320952
+        ],
+        "pixel distance": [
+            0.7458902299404144,
+            3.151583671569824
+        ],
+        "GroundImage": {
+            "file_path": "views/0004370N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.78091800006564,-117.30558000031675",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0004370.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.780915,-117.305579"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0008881.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "33.28356,-86.833405"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0017475.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "27.706284,-97.832477"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004370",
+        "original_id": "4370",
+        "source": "CVUSA",
+        "real distance": [
+            0.07904020317872275,
+            -0.3339657793320952
+        ],
+        "pixel distance": [
+            0.7458902299404144,
+            3.151583671569824
+        ],
+        "GroundImage": {
+            "file_path": "views/0004370S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.78091800006564,-117.30558000031675",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0027619.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.942846,-88.017553"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0018280.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "43.437027,-85.148994"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004370.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.780915,-117.305579"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004370",
+        "original_id": "4370",
+        "source": "CVUSA",
+        "real distance": [
+            0.07904020317872275,
+            -0.3339657793320952
+        ],
+        "pixel distance": [
+            0.7458902299404144,
+            3.151583671569824
+        ],
+        "GroundImage": {
+            "file_path": "views/0004370W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.78091800006564,-117.30558000031675",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0004370.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.780915,-117.305579"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0033483.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "36.257812,-86.698681"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0008065.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "30.131578,-95.436254"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0031702",
+        "original_id": "31702",
+        "source": "CVUSA",
+        "real distance": [
+            0.35078096876608905,
+            -0.22263725433134948
+        ],
+        "pixel distance": [
+            2.98288232088089,
+            1.8932062685489655
+        ],
+        "GroundImage": {
+            "file_path": "views/0031702E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "38.02802999998448,-89.98912800035691",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0031702.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.028028,-89.989124"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0014198.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "42.759503,-120.775922"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0024475.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "38.228849,-122.648851"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0031702",
+        "original_id": "31702",
+        "source": "CVUSA",
+        "real distance": [
+            0.35078096876608905,
+            -0.22263725433134948
+        ],
+        "pixel distance": [
+            2.98288232088089,
+            1.8932062685489655
+        ],
+        "GroundImage": {
+            "file_path": "views/0031702N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "38.02802999998448,-89.98912800035691",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0038386.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "38.673677,-121.629834"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0031702.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.028028,-89.989124"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0023441.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.556135,-122.807393"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0031702",
+        "original_id": "31702",
+        "source": "CVUSA",
+        "real distance": [
+            0.35078096876608905,
+            -0.22263725433134948
+        ],
+        "pixel distance": [
+            2.98288232088089,
+            1.8932062685489655
+        ],
+        "GroundImage": {
+            "file_path": "views/0031702S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "38.02802999998448,-89.98912800035691",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0006338.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.834882,-123.774204"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0031702.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.028028,-89.989124"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0038963.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.384906,-121.838205"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0031702",
+        "original_id": "31702",
+        "source": "CVUSA",
+        "real distance": [
+            0.35078096876608905,
+            -0.22263725433134948
+        ],
+        "pixel distance": [
+            2.98288232088089,
+            1.8932062685489655
+        ],
+        "GroundImage": {
+            "file_path": "views/0031702W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "38.02802999998448,-89.98912800035691",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0004847.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "33.7106,-118.025301"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0039928.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "47.105393,-122.64537"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0031702.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.028028,-89.989124"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0030492",
+        "original_id": "30492",
+        "source": "CVUSA",
+        "real distance": [
+            -1.3992998594087456e-06,
+            -0.11132807414638918
+        ],
+        "pixel distance": [
+            -1.1526048183441162e-05,
+            0.9172345101833344
+        ],
+        "GroundImage": {
+            "file_path": "views/0030492E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.609928000077105,-97.49601699998453",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0030492.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.609927,-97.496017"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0036068.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "46.533112,-122.614892"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0037102.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "45.776532,-123.947664"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0030492",
+        "original_id": "30492",
+        "source": "CVUSA",
+        "real distance": [
+            -1.3992998594087456e-06,
+            -0.11132807414638918
+        ],
+        "pixel distance": [
+            -1.1526048183441162e-05,
+            0.9172345101833344
+        ],
+        "GroundImage": {
+            "file_path": "views/0030492N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.609928000077105,-97.49601699998453",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0009193.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.247402,-122.226953"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0030492.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.609927,-97.496017"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0000779.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.571793,-123.280705"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0030492",
+        "original_id": "30492",
+        "source": "CVUSA",
+        "real distance": [
+            -1.3992998594087456e-06,
+            -0.11132807414638918
+        ],
+        "pixel distance": [
+            -1.1526048183441162e-05,
+            0.9172345101833344
+        ],
+        "GroundImage": {
+            "file_path": "views/0030492S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.609928000077105,-97.49601699998453",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0007307.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "42.204207,-123.345889"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0030492.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.609927,-97.496017"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0024551.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "44.021011,-72.070075"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0030492",
+        "original_id": "30492",
+        "source": "CVUSA",
+        "real distance": [
+            -1.3992998594087456e-06,
+            -0.11132807414638918
+        ],
+        "pixel distance": [
+            -1.1526048183441162e-05,
+            0.9172345101833344
+        ],
+        "GroundImage": {
+            "file_path": "views/0030492W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "35.609928000077105,-97.49601699998453",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0030492.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "35.609927,-97.496017"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0009480.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "44.999115,-71.420497"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0025410.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "47.762423,-121.076403"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0035634",
+        "original_id": "35634",
+        "source": "CVUSA",
+        "real distance": [
+            -0.07880909580207794,
+            0.11131948893027377
+        ],
+        "pixel distance": [
+            -0.7456540912389755,
+            -1.053251937031746
+        ],
+        "GroundImage": {
+            "file_path": "views/0035634E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.93130100000002,-109.66937999999993",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0035634.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.931302,-109.669381"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0022429.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "32.187579,-85.158982"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010724.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.323542,-84.301923"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0035634",
+        "original_id": "35634",
+        "source": "CVUSA",
+        "real distance": [
+            -0.07880909580207794,
+            0.11131948893027377
+        ],
+        "pixel distance": [
+            -0.7456540912389755,
+            -1.053251937031746
+        ],
+        "GroundImage": {
+            "file_path": "views/0035634N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.93130100000002,-109.66937999999993",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0035634.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.931302,-109.669381"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0033640.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "41.181661,-84.976729"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0005773.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "30.046666,-90.58142"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0035634",
+        "original_id": "35634",
+        "source": "CVUSA",
+        "real distance": [
+            -0.07880909580207794,
+            0.11131948893027377
+        ],
+        "pixel distance": [
+            -0.7456540912389755,
+            -1.053251937031746
+        ],
+        "GroundImage": {
+            "file_path": "views/0035634S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.93130100000002,-109.66937999999993",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0022508.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "40.18763,-82.036277"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0035634.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.931302,-109.669381"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0001174.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "43.028724,-83.66424"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0035634",
+        "original_id": "35634",
+        "source": "CVUSA",
+        "real distance": [
+            -0.07880909580207794,
+            0.11131948893027377
+        ],
+        "pixel distance": [
+            -0.7456540912389755,
+            -1.053251937031746
+        ],
+        "GroundImage": {
+            "file_path": "views/0035634W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.93130100000002,-109.66937999999993",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0035634.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.931302,-109.669381"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0021090.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "31.278409,-91.644396"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0006803.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "33.794533,-83.305208"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0013260",
+        "original_id": "13260",
+        "source": "CVUSA",
+        "real distance": [
+            -0.1880813867346114,
+            -1.5819451106334777e-09
+        ],
+        "pixel distance": [
+            -1.4913080632686615,
+            2.9802322387695312e-08
+        ],
+        "GroundImage": {
+            "file_path": "views/0013260E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "32.351421000000016,-86.32688100000001",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0013260.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "32.351421,-86.326883"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0019755.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "37.653771,-122.071014"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0031159.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "41.85808,-121.559226"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0013260",
+        "original_id": "13260",
+        "source": "CVUSA",
+        "real distance": [
+            -0.1880813867346114,
+            -1.5819451106334777e-09
+        ],
+        "pixel distance": [
+            -1.4913080632686615,
+            2.9802322387695312e-08
+        ],
+        "GroundImage": {
+            "file_path": "views/0013260N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "32.351421000000016,-86.32688100000001",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0035841.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.416901,-118.553782"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0043258.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "44.515922,-122.907057"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0013260.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "32.351421,-86.326883"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0013260",
+        "original_id": "13260",
+        "source": "CVUSA",
+        "real distance": [
+            -0.1880813867346114,
+            -1.5819451106334777e-09
+        ],
+        "pixel distance": [
+            -1.4913080632686615,
+            2.9802322387695312e-08
+        ],
+        "GroundImage": {
+            "file_path": "views/0013260S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "32.351421000000016,-86.32688100000001",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0008233.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "48.253089,-124.269129"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004847.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "33.7106,-118.025301"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0013260.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "32.351421,-86.326883"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0013260",
+        "original_id": "13260",
+        "source": "CVUSA",
+        "real distance": [
+            -0.1880813867346114,
+            -1.5819451106334777e-09
+        ],
+        "pixel distance": [
+            -1.4913080632686615,
+            2.9802322387695312e-08
+        ],
+        "GroundImage": {
+            "file_path": "views/0013260W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "32.351421000000016,-86.32688100000001",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0013260.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "32.351421,-86.326883"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0011212.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.997946,-119.953786"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0007634.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.336586,-120.723787"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0037849",
+        "original_id": "37849",
+        "source": "CVUSA",
+        "real distance": [
+            -3.5243139715104626e-05,
+            0.22263520333951356
+        ],
+        "pixel distance": [
+            -0.00028796494007110596,
+            -1.8191242069005966
+        ],
+        "GroundImage": {
+            "file_path": "views/0037849E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "34.93716000003394,-110.1324769996138",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0037849.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "34.937162,-110.132477"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0000287.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "38.12899,-76.377549"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0012212.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "39.031034,-76.085514"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0037849",
+        "original_id": "37849",
+        "source": "CVUSA",
+        "real distance": [
+            -3.5243139715104626e-05,
+            0.22263520333951356
+        ],
+        "pixel distance": [
+            -0.00028796494007110596,
+            -1.8191242069005966
+        ],
+        "GroundImage": {
+            "file_path": "views/0037849N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "34.93716000003394,-110.1324769996138",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0003447.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "35.347025,-76.802837"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0021041.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "35.474295,-84.442978"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0037849.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "34.937162,-110.132477"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0037849",
+        "original_id": "37849",
+        "source": "CVUSA",
+        "real distance": [
+            -3.5243139715104626e-05,
+            0.22263520333951356
+        ],
+        "pixel distance": [
+            -0.00028796494007110596,
+            -1.8191242069005966
+        ],
+        "GroundImage": {
+            "file_path": "views/0037849S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "34.93716000003394,-110.1324769996138",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0022850.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "32.580432,-83.941426"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0037849.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "34.937162,-110.132477"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0000582.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "40.314675,-75.87081"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0037849",
+        "original_id": "37849",
+        "source": "CVUSA",
+        "real distance": [
+            -3.5243139715104626e-05,
+            0.22263520333951356
+        ],
+        "pixel distance": [
+            -0.00028796494007110596,
+            -1.8191242069005966
+        ],
+        "GroundImage": {
+            "file_path": "views/0037849W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "34.93716000003394,-110.1324769996138",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0043676.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "64.569939,-149.10948"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0004799.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "28.302983,-81.589832"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0021866.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "35.369763,-82.804543"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0037849.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "34.937162,-110.132477"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0004298",
+        "original_id": "4298",
+        "source": "CVUSA",
+        "real distance": [
+            -0.49352276026587477,
+            -0.10351949499970546
+        ],
+        "pixel distance": [
+            -3.6817397475242615,
+            0.7722680121660233
+        ],
+        "GroundImage": {
+            "file_path": "views/0004298E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "26.118683929931446,-80.16934506240221",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0004298.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "26.118683,-80.16935"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0035614.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "42.839713,-120.792662"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0028495.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "45.823536,-119.869502"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004298",
+        "original_id": "4298",
+        "source": "CVUSA",
+        "real distance": [
+            -0.49352276026587477,
+            -0.10351949499970546
+        ],
+        "pixel distance": [
+            -3.6817397475242615,
+            0.7722680121660233
+        ],
+        "GroundImage": {
+            "file_path": "views/0004298N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "26.118683929931446,-80.16934506240221",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0004298.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "26.118683,-80.16935"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0034816.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "39.507703,-119.87821"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034142.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.337158,-122.719963"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004298",
+        "original_id": "4298",
+        "source": "CVUSA",
+        "real distance": [
+            -0.49352276026587477,
+            -0.10351949499970546
+        ],
+        "pixel distance": [
+            -3.6817397475242615,
+            0.7722680121660233
+        ],
+        "GroundImage": {
+            "file_path": "views/0004298S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "26.118683929931446,-80.16934506240221",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0029107.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "45.444441,-122.257633"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004298.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "26.118683,-80.16935"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0008607.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "40.792257,-111.920721"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004298",
+        "original_id": "4298",
+        "source": "CVUSA",
+        "real distance": [
+            -0.49352276026587477,
+            -0.10351949499970546
+        ],
+        "pixel distance": [
+            -3.6817397475242615,
+            0.7722680121660233
+        ],
+        "GroundImage": {
+            "file_path": "views/0004298W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "26.118683929931446,-80.16934506240221",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0023477.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "43.86045,-116.218437"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004298.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "26.118683,-80.16935"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0012111.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "33.944622,-117.953648"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004330",
+        "original_id": "4330",
+        "source": "CVUSA",
+        "real distance": [
+            -0.316862205611859,
+            -1.5904085169753668e-05
+        ],
+        "pixel distance": [
+            -2.9829506278038025,
+            0.00014972686767578125
+        ],
+        "GroundImage": {
+            "file_path": "views/0004330E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.64082000014287,-73.44670099955147",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004330.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.64082,-73.446705"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0025853.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.517707,-106.785114"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0003661.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "40.026838,-110.552749"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004330",
+        "original_id": "4330",
+        "source": "CVUSA",
+        "real distance": [
+            -0.316862205611859,
+            -1.5904085169753668e-05
+        ],
+        "pixel distance": [
+            -2.9829506278038025,
+            0.00014972686767578125
+        ],
+        "GroundImage": {
+            "file_path": "views/0004330N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.64082000014287,-73.44670099955147",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0016953.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.523866,-109.057552"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004330.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.64082,-73.446705"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0011222.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "34.571503,-112.426672"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004330",
+        "original_id": "4330",
+        "source": "CVUSA",
+        "real distance": [
+            -0.316862205611859,
+            -1.5904085169753668e-05
+        ],
+        "pixel distance": [
+            -2.9829506278038025,
+            0.00014972686767578125
+        ],
+        "GroundImage": {
+            "file_path": "views/0004330S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.64082000014287,-73.44670099955147",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0001113.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "33.244554,-104.40685"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004330.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.64082,-73.446705"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0023289.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.605552,-117.864878"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0004330",
+        "original_id": "4330",
+        "source": "CVUSA",
+        "real distance": [
+            -0.316862205611859,
+            -1.5904085169753668e-05
+        ],
+        "pixel distance": [
+            -2.9829506278038025,
+            0.00014972686767578125
+        ],
+        "GroundImage": {
+            "file_path": "views/0004330W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.64082000014287,-73.44670099955147",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0037539.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.854168,-104.818808"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0004330.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.64082,-73.446705"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0039536.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "36.203355,-115.99186"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0020814",
+        "original_id": "20814",
+        "source": "CVUSA",
+        "real distance": [
+            -0.1600939661941804,
+            -0.44527796521276575
+        ],
+        "pixel distance": [
+            -1.4913081377744675,
+            4.14785560965538
+        ],
+        "GroundImage": {
+            "file_path": "views/0020814E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.02190000000002,-71.43949099999992",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0041293.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.957832,-117.260604"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0031131.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "44.304799,-121.722826"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0020814.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.021896,-71.439493"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0020814",
+        "original_id": "20814",
+        "source": "CVUSA",
+        "real distance": [
+            -0.1600939661941804,
+            -0.44527796521276575
+        ],
+        "pixel distance": [
+            -1.4913081377744675,
+            4.14785560965538
+        ],
+        "GroundImage": {
+            "file_path": "views/0020814N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.02190000000002,-71.43949099999992",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0020814.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.021896,-71.439493"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0001620.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "37.714201,-108.034375"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0008415.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "33.039179,-108.220799"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0020814",
+        "original_id": "20814",
+        "source": "CVUSA",
+        "real distance": [
+            -0.1600939661941804,
+            -0.44527796521276575
+        ],
+        "pixel distance": [
+            -1.4913081377744675,
+            4.14785560965538
+        ],
+        "GroundImage": {
+            "file_path": "views/0020814S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.02190000000002,-71.43949099999992",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0032137.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "44.77431,-119.390525"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0020814.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.021896,-71.439493"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0023581.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "45.312985,-119.379236"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0020814",
+        "original_id": "20814",
+        "source": "CVUSA",
+        "real distance": [
+            -0.1600939661941804,
+            -0.44527796521276575
+        ],
+        "pixel distance": [
+            -1.4913081377744675,
+            4.14785560965538
+        ],
+        "GroundImage": {
+            "file_path": "views/0020814W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.02190000000002,-71.43949099999992",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0029525.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "35.390337,-109.010236"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0020814.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.021896,-71.439493"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0010897.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "34.296024,-100.650459"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0011778",
+        "original_id": "11778",
+        "source": "CVUSA",
+        "real distance": [
+            -0.23764313317942123,
+            0.2226643055927413
+        ],
+        "pixel distance": [
+            -2.2367314994335175,
+            -2.095748633146286
+        ],
+        "GroundImage": {
+            "file_path": "views/0011778E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.62918899977251,-73.44751700030929",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0033339.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "41.855995,-111.581106"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0022918.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "34.441219,-111.469086"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0011778.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.629191,-73.44752"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0011778",
+        "original_id": "11778",
+        "source": "CVUSA",
+        "real distance": [
+            -0.23764313317942123,
+            0.2226643055927413
+        ],
+        "pixel distance": [
+            -2.2367314994335175,
+            -2.095748633146286
+        ],
+        "GroundImage": {
+            "file_path": "views/0011778N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.62918899977251,-73.44751700030929",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0011778.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.629191,-73.44752"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0003661.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "40.026838,-110.552749"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0024325.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "44.869865,-121.871422"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0011778",
+        "original_id": "11778",
+        "source": "CVUSA",
+        "real distance": [
+            -0.23764313317942123,
+            0.2226643055927413
+        ],
+        "pixel distance": [
+            -2.2367314994335175,
+            -2.095748633146286
+        ],
+        "GroundImage": {
+            "file_path": "views/0011778S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.62918899977251,-73.44751700030929",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0018122.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.924445,-104.897864"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0011778.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.629191,-73.44752"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0020373.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "45.421591,-121.569372"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0011778",
+        "original_id": "11778",
+        "source": "CVUSA",
+        "real distance": [
+            -0.23764313317942123,
+            0.2226643055927413
+        ],
+        "pixel distance": [
+            -2.2367314994335175,
+            -2.095748633146286
+        ],
+        "GroundImage": {
+            "file_path": "views/0011778W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.62918899977251,-73.44751700030929",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0011778.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.629191,-73.44752"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034830.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "60.123568,-149.438429"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0037551.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.574954,-106.753267"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0001872.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "39.002984,-107.951188"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0034206",
+        "original_id": "34206",
+        "source": "CVUSA",
+        "real distance": [
+            -0.15787219051904938,
+            0.11127381738395721
+        ],
+        "pixel distance": [
+            -1.4910638704895973,
+            -1.0509537309408188
+        ],
+        "GroundImage": {
+            "file_path": "views/0034206E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.82923100041029,-117.12277200032753",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0027353.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "37.319322,-92.755647"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034206.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.829232,-117.122774"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0044175.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "41.321238,-88.873555"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0034206",
+        "original_id": "34206",
+        "source": "CVUSA",
+        "real distance": [
+            -0.15787219051904938,
+            0.11127381738395721
+        ],
+        "pixel distance": [
+            -1.4910638704895973,
+            -1.0509537309408188
+        ],
+        "GroundImage": {
+            "file_path": "views/0034206N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.82923100041029,-117.12277200032753",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0035748.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "37.954326,-93.920238"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0039654.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "43.29585,-83.554414"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034206.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.829232,-117.122774"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0034206",
+        "original_id": "34206",
+        "source": "CVUSA",
+        "real distance": [
+            -0.15787219051904938,
+            0.11127381738395721
+        ],
+        "pixel distance": [
+            -1.4910638704895973,
+            -1.0509537309408188
+        ],
+        "GroundImage": {
+            "file_path": "views/0034206S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.82923100041029,-117.12277200032753",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0034206.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.829232,-117.122774"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0035828.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "30.796404,-92.523972"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0013131.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "30.383986,-94.614297"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0034206",
+        "original_id": "34206",
+        "source": "CVUSA",
+        "real distance": [
+            -0.15787219051904938,
+            0.11127381738395721
+        ],
+        "pixel distance": [
+            -1.4910638704895973,
+            -1.0509537309408188
+        ],
+        "GroundImage": {
+            "file_path": "views/0034206W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "44.82923100041029,-117.12277200032753",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0015548.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "25.073001,-80.464682"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0008641.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "32.34923,-89.70658"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0034206.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.829232,-117.122774"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0015357.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "43.041872,-88.101611"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0035855",
+        "original_id": "35855",
+        "source": "CVUSA",
+        "real distance": [
+            0.3420788620165186,
+            0.22263898181541028
+        ],
+        "pixel distance": [
+            2.9826161712408066,
+            -1.9412091672420502
+        ],
+        "GroundImage": {
+            "file_path": "views/0035855E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.804192,-85.49667399999998",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0042895.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.175249,-122.146103"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0035855.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.804194,-85.49667"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0040460.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "45.22185,-123.875376"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0035855",
+        "original_id": "35855",
+        "source": "CVUSA",
+        "real distance": [
+            0.3420788620165186,
+            0.22263898181541028
+        ],
+        "pixel distance": [
+            2.9826161712408066,
+            -1.9412091672420502
+        ],
+        "GroundImage": {
+            "file_path": "views/0035855N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.804192,-85.49667399999998",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0042383.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "44.891247,-116.962695"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0019119.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "44.613276,-121.949754"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0035855.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.804194,-85.49667"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0035855",
+        "original_id": "35855",
+        "source": "CVUSA",
+        "real distance": [
+            0.3420788620165186,
+            0.22263898181541028
+        ],
+        "pixel distance": [
+            2.9826161712408066,
+            -1.9412091672420502
+        ],
+        "GroundImage": {
+            "file_path": "views/0035855S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.804192,-85.49667399999998",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0035855.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.804194,-85.49667"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0016214.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "36.010152,-121.523973"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0022840.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "35.934113,-119.774651"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0035855",
+        "original_id": "35855",
+        "source": "CVUSA",
+        "real distance": [
+            0.3420788620165186,
+            0.22263898181541028
+        ],
+        "pixel distance": [
+            2.9826161712408066,
+            -1.9412091672420502
+        ],
+        "GroundImage": {
+            "file_path": "views/0035855W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "39.804192,-85.49667399999998",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0022999.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "36.345722,-117.500395"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0034743.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "33.738856,-112.325082"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0035855.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "39.804194,-85.49667"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0042964",
+        "original_id": "42964",
+        "source": "CVUSA",
+        "real distance": [
+            0.2627003926746656,
+            0.5565974470242865
+        ],
+        "pixel distance": [
+            2.2369621098041534,
+            -4.739571884274483
+        ],
+        "GroundImage": {
+            "file_path": "views/0042964E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "38.128689000000065,-81.10896299999996",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0042964.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.128694,-81.10896"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0041393.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "45.195592,-122.179683"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0007960.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "42.529787,-122.089626"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0042964",
+        "original_id": "42964",
+        "source": "CVUSA",
+        "real distance": [
+            0.2627003926746656,
+            0.5565974470242865
+        ],
+        "pixel distance": [
+            2.2369621098041534,
+            -4.739571884274483
+        ],
+        "GroundImage": {
+            "file_path": "views/0042964N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "38.128689000000065,-81.10896299999996",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0014845.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "42.904383,-122.1393"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0042964.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.128694,-81.10896"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0038010.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "32.321494,-110.936273"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0042964",
+        "original_id": "42964",
+        "source": "CVUSA",
+        "real distance": [
+            0.2627003926746656,
+            0.5565974470242865
+        ],
+        "pixel distance": [
+            2.2369621098041534,
+            -4.739571884274483
+        ],
+        "GroundImage": {
+            "file_path": "views/0042964S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "38.128689000000065,-81.10896299999996",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0044189.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "48.199445,-124.233723"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0009137.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "33.895389,-117.535557"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0042964.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.128694,-81.10896"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0042964",
+        "original_id": "42964",
+        "source": "CVUSA",
+        "real distance": [
+            0.2627003926746656,
+            0.5565974470242865
+        ],
+        "pixel distance": [
+            2.2369621098041534,
+            -4.739571884274483
+        ],
+        "GroundImage": {
+            "file_path": "views/0042964W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "38.128689000000065,-81.10896299999996",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "20/0030951.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "37.875407,-122.01502"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0042964.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "38.128694,-81.10896"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0001756.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "33.385705,-111.820488"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0012019",
+        "original_id": "12019",
+        "source": "CVUSA",
+        "real distance": [
+            0.26365616441633133,
+            0.11131948339346588
+        ],
+        "pixel distance": [
+            2.2369620949029922,
+            -0.9444780796766281
+        ],
+        "GroundImage": {
+            "file_path": "views/0012019E.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "37.86232000000007,-79.14820899999995",
+            "orientation": "E",
+            "degree": 90.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0012019.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "37.862321,-79.148206"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0026350.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "45.321025,-121.709624"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0042238.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "37.758744,-119.770045"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0012019",
+        "original_id": "12019",
+        "source": "CVUSA",
+        "real distance": [
+            0.26365616441633133,
+            0.11131948339346588
+        ],
+        "pixel distance": [
+            2.2369620949029922,
+            -0.9444780796766281
+        ],
+        "GroundImage": {
+            "file_path": "views/0012019N.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "37.86232000000007,-79.14820899999995",
+            "orientation": "N",
+            "degree": 0.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "19/0040793.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "34.039307,-117.63723"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "19/0009254.jpg",
+                    "zoom_level": 19,
+                    "centered": false,
+                    "real_location": "45.797494,-123.966626"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0012019.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "37.862321,-79.148206"
+                },
+                "is_original": true
+            }
+        ]
+    },
+    {
+        "image_id": "0012019",
+        "original_id": "12019",
+        "source": "CVUSA",
+        "real distance": [
+            0.26365616441633133,
+            0.11131948339346588
+        ],
+        "pixel distance": [
+            2.2369620949029922,
+            -0.9444780796766281
+        ],
+        "GroundImage": {
+            "file_path": "views/0012019S.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "37.86232000000007,-79.14820899999995",
+            "orientation": "S",
+            "degree": 180.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0012019.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "37.862321,-79.148206"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0017692.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "46.336509,-115.330998"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0022869.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "46.388295,-115.226744"
+                },
+                "is_original": false
+            }
+        ]
+    },
+    {
+        "image_id": "0012019",
+        "original_id": "12019",
+        "source": "CVUSA",
+        "real distance": [
+            0.26365616441633133,
+            0.11131948339346588
+        ],
+        "pixel distance": [
+            2.2369620949029922,
+            -0.9444780796766281
+        ],
+        "GroundImage": {
+            "file_path": "views/0012019W.jpg",
+            "fov": 90,
+            "capture_time": null,
+            "real_location": "37.86232000000007,-79.14820899999995",
+            "orientation": "W",
+            "degree": 270.0,
+            "in_range": false
+        },
+        "AerialCandidates": [
+            {
+                "AerialImage": {
+                    "file_path": "18/0035186.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "47.4149,-111.321491"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "20/0004805.jpg",
+                    "zoom_level": 20,
+                    "centered": false,
+                    "real_location": "39.154457,-119.929604"
+                },
+                "is_original": false
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0012019.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "37.862321,-79.148206"
+                },
+                "is_original": true
+            },
+            {
+                "AerialImage": {
+                    "file_path": "18/0010834.jpg",
+                    "zoom_level": 18,
+                    "centered": false,
+                    "real_location": "62.585974,-150.23491"
+                },
+                "is_original": false
+            }
+        ]
+    }
+]

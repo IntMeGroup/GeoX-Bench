@@ -1,0 +1,19 @@
+name: location4_FoV90
+dataset_class: Tasks.location_task.InRangeDataset
+data_writer_class: Tasks.location_task.InRnageDataWriter
+lmm_message_class: Tasks.location_task.LocationLMMMessage
+get_dataloader_fn: Tasks.location_task.get_dataloader
+output_dir: location4_FoV90
+instances:
+- root_dir: /home/Data/Mule_Transfer/VIGOR_Chicago
+  json_path: /home/LMMBench/Dataset_Index/Location4_50_in_range/VIGOR_Chicago.json
+  output: VIGOR_Chicago.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer/OmniCity
+  json_path: /home/LMMBench/Dataset_Index/Location4_50_in_range/OmniCity_view2.json
+  output: OmniCity_View2.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer/OmniCity
+  json_path: /home/LMMBench/Dataset_Index/Location4_50_in_range/OmniCity_view3.json
+  output: OmniCity_View3.json
+  sample_size: 0

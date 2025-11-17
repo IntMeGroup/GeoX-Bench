@@ -1,0 +1,93 @@
+output_base: /home2/ys_zheng/LMMBench/output/Orin4RandomLiu3
+pipelines:
+- model: ${models.3}
+  tasks:
+  - ${tasks.orin4}
+- model: ${models.5}
+  tasks:
+  - ${tasks.orin4}
+- model: ${models.6}
+  tasks:
+  - ${tasks.orin4}
+models:
+  '2':
+    name: mPLUG-owl3_7b
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/mPLUG-Owl3-7B-240728
+    batch_size: 8
+  '3':
+    name: MS-Phi3d5
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/Phi-3.5-vision-instruct
+    batch_size: 8
+  '5':
+    name: InternVL3-8B
+    class_path: model.InferenceModel
+    model_size: 8B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/InternVL3-8B
+    batch_size: 8
+  '6':
+    name: deepseek-vl-7b-chat
+    class_path: model.InferenceModel
+    model_size: 7B
+    test_mode: false
+    model_path: /home2/ys_zheng/HugginfaceDownloader/deepseek-vl-7b-chat
+    batch_size: 2
+tasks:
+  orin4:
+    name: orin4_random
+    dataset_class: Tasks.orin_task_random.OrientationRandomDataset
+    data_writer_class: Tasks.orin_task_random.OrintationDataWriter
+    lmm_message_class: Tasks.orin_task_random.Orintation4LMMMessage
+    get_dataloader_fn: Tasks.orin_task_random.get_dataloader
+    output_dir: orin4_random
+    instances:
+    - root_dir: /home2/ys_zheng/Mule_Transfer/CVGloable
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/CVGloable.json
+      output: CVGloable.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/CVUSA
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom18.json
+      output: CVUSA_zoom18.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/CVUSA
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom19.json
+      output: CVUSA_zoom19.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/CVUSA
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom20.json
+      output: CVUSA_zoom20.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom20.json
+      output: LMMGeo_zoom20.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom21.json
+      output: LMMGeo_zoom21.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/LMMGeo
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/LMMGeo_zoom22.json
+      output: LMMGeo_zoom22.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/OmniCity
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_view1.json
+      output: OmniCity_View1.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/OmniCity
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_view2.json
+      output: OmniCity_View2.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/OmniCity
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_view3.json
+      output: OmniCity_View3.json
+      sample_size: 0
+    - root_dir: /home2/ys_zheng/Mule_Transfer/VIGOR_Chicago
+      json_path: /home2/ys_zheng/LMMBench/Dataset_Index/Orin4_SameLocation/VIGOR_Chicago.json
+      output: VIGOR_Chicago.json
+      sample_size: 0

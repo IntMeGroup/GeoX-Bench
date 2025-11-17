@@ -1,0 +1,66 @@
+[2025-05-15 15:45:54,152][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:45:54,164][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:45:54,170][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:45:54,172][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:45:54,179][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:48:59,358][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:49:02,229][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:50:14,401][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:50:17,284][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:50:17,297][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:51:45,422][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:51:52,308][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:53:02,325][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:53:03,474][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:53:07,597][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 15:54:47,494][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:16:17,544][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:17:09,597][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:20:05,590][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:20:52,661][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:20:57,678][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:38:46,724][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:40:09,724][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:40:14,281][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:43:04,819][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:43:10,277][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:43:14,841][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:43:15,893][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:43:19,782][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:43:21,170][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:46:08,876][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:46:13,240][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:48:05,850][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:48:10,664][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:49:12,918][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:49:15,892][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:49:18,134][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:49:20,996][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:50:51,966][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:50:57,746][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:52:52,000][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:52:56,474][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:53:56,955][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:53:58,932][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:54:01,605][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:54:04,514][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:55:38,004][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:55:42,540][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:57:41,162][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:57:46,814][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 16:58:52,058][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 16:58:56,864][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 17:02:25,273][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 17:02:30,233][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 17:39:54,461][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 17:39:57,476][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 17:39:59,707][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 17:40:02,639][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 17:41:21,551][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 17:41:27,000][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 17:42:17,422][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 17:42:22,537][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 17:44:47,427][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 17:44:51,820][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-05-15 18:19:50,646][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-15 18:19:55,014][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).

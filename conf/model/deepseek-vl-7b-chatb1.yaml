@@ -1,0 +1,7 @@
+# conf/model/deepseek-vl-7b-chat.yaml
+name: deepseek-vl-7b-chat
+class_path: model.InferenceModel
+model_size: 7B
+test_mode: false
+model_path: '/home2/ys_zheng/HugginfaceDownloader/deepseek-vl-7b-chat'
+batch_size: 1

@@ -1,0 +1,23 @@
+[2025-04-28 09:27:12,017][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-28 09:27:50,941][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-28 09:28:19,558][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-04-28 09:28:29,399][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-28 09:28:52,917][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-04-28 09:28:52,994][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-04-28 09:29:33,009][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-28 09:29:57,476][transformers_modules.Phi-3.5-vision-instruct.modeling_phi3_v][INFO] - learnable separator enabled for hd transform, hd_transform_order = sub_glb
+[2025-04-28 09:30:07,971][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-28 09:30:52,821][accelerate.utils.modeling][INFO] - We will use 90% of the memory on device 0 for storing the model, and 10% for the buffer to avoid OOM. You can set `max_memory` in to a higher value to use more memory (at your own risk).
+[2025-04-28 09:30:58,952][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-28 09:31:22,491][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-04-28 09:31:22,491][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-04-28 09:31:22,491][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-04-28 09:31:22,491][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-04-28 09:31:22,499][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - vision_select_layer: -1
+[2025-04-28 09:31:22,499][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - ps_version: v2
+[2025-04-28 09:31:22,499][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - min_dynamic_patch: 1
+[2025-04-28 09:31:22,499][transformers_modules.InternVL3-8B.configuration_internvl_chat][INFO] - max_dynamic_patch: 12
+[2025-04-28 09:31:23,098][transformers_modules.InternVL3-8B.modeling_intern_vit][INFO] - Discovered apex.normalization.FusedRMSNorm - will use it instead of InternRMSNorm
+[2025-04-28 09:31:23,102][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - num_image_token: 256
+[2025-04-28 09:31:23,102][transformers_modules.InternVL3-8B.modeling_internvl_chat][INFO] - ps_version: v2
+[2025-04-28 09:31:34,465][datasets][INFO] - PyTorch version 2.6.0 available.

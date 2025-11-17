@@ -1,0 +1,7 @@
+# conf/model/mPLUG-owl3_7b.yaml
+name: mPLUG-owl3_7b
+class_path: model.InferenceModel
+model_size: 7B
+test_mode: false
+model_path: '/home2/ys_zheng/HugginfaceDownloader/mPLUG-Owl3-7B-240728'
+batch_size: 8

@@ -1,0 +1,30 @@
+defaults:
+  - _self_
+
+  # ── models ───────────────────────────────────────────────────────────────
+  - model@models.0: qwen25vl_7b
+  - model@models.1: mPLUG-owl3_7b
+
+  # ── tasks ────────────────────────────────────────────────────────────────
+  - task@tasks.location:      location
+  - task@tasks.orin:          orin
+  - task@tasks.orin_random:   orin_random
+
+# ───────────────────────── global knobs ────────────────────────────────────
+output_base: /home/LMMBench/output
+batch_size: 1
+
+# ───────────────────────── pipeline wiring ─────────────────────────────────
+# Each entry chooses one model & a *block‑style* list of tasks it should run.
+pipelines:
+
+  # model‑0 handles both orientation & location
+  - model: ${models.0}
+    tasks:
+      - ${tasks.location}
+      - ${tasks.orin}
+
+  # model‑1 handles location only
+  - model: ${models.1}
+    tasks:
+      - ${tasks.location}

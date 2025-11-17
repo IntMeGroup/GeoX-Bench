@@ -1,0 +1,39 @@
+name: orin4_random_FoV130
+dataset_class: Tasks.orin_task_random.OrientationRandomDataset
+data_writer_class: Tasks.orin_task_random.OrintationDataWriter
+lmm_message_class: Tasks.orin_task_random.Orintation4LMMMessage
+get_dataloader_fn: Tasks.orin_task_random.get_dataloader
+output_dir: orin4_random_FoV130
+instances:
+- root_dir: /home/Data/Mule_Transfer_135FoV/CVGloable
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVGloable.json
+  output: CVGloable.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer_135FoV/CVUSA
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom18.json
+  output: CVUSA_zoom18.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer_135FoV/CVUSA
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom19.json
+  output: CVUSA_zoom19.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer_135FoV/CVUSA
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/CVUSA_zoom20.json
+  output: CVUSA_zoom20.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer_135FoV/OmniCity
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_view1.json
+  output: OmniCity_View1.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer_135FoV/OmniCity
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_view2.json
+  output: OmniCity_View2.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer_135FoV/OmniCity
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/OmniCity_view3.json
+  output: OmniCity_View3.json
+  sample_size: 0
+- root_dir: /home/Data/Mule_Transfer_135FoV/VIGOR_Chicago
+  json_path: /home/LMMBench/Dataset_Index/Orin4_SameLocation/VIGOR_Chicago.json
+  output: VIGOR_Chicago.json
+  sample_size: 0

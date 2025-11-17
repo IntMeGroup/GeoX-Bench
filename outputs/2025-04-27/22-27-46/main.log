@@ -1,0 +1,4 @@
+[2025-04-27 22:27:47,410][datasets][INFO] - PyTorch version 2.6.0 available.
+[2025-04-27 22:28:30,232][qwen_vl_utils.vision_process][INFO] - set VIDEO_TOTAL_PIXELS: 50176
+[2025-04-27 22:28:38,466][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-04-27 22:28:38,575][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config

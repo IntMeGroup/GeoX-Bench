@@ -1,0 +1,15 @@
+name: map_gauss
+dataset_class: Tasks.map_gauss.MapGaussDataset
+data_writer_class: Tasks.map_gauss.MapGaussDataWriter
+lmm_message_class: Tasks.map_gauss.MapGaussLMMMessage
+get_dataloader_fn: Tasks.map_gauss.get_dataloader
+output_dir: map_gauss
+instances:
+- root_dir: /home/Data/LocationSelection/CVUSA
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/CVUSA_zoom19.json
+  output: CVUSA_zoom19.json
+  sample_size: 0
+- root_dir: /home/Data/LocationSelection/CVUSA
+  json_path: /home/LMMBench/Dataset_Index/LocationSelection/CVUSA_zoom20.json
+  output: CVUSA_zoom20.json
+  sample_size: 0

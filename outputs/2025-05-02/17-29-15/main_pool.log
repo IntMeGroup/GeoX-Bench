@@ -1,0 +1,42 @@
+[2025-05-02 17:29:17,329][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:17,329][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:17,330][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:17,330][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:17,334][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:17,334][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:17,335][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:20,705][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,733][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,749][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,750][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,764][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,783][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,802][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,813][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,864][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,870][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,892][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,894][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,937][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:20,950][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:36,386][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:37,379][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:37,379][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:37,380][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:37,383][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:38,434][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:38,481][datasets][INFO] - PyTorch version 2.7.0 available.
+[2025-05-02 17:29:39,687][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:39,756][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,026][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,097][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,156][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,160][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,203][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,225][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,230][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,268][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,272][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,338][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,395][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config
+[2025-05-02 17:29:41,467][transformers_modules.mPLUG-Owl3-7B-240728.configuration_mplugowl3][INFO] - vision_config is None, using default vision config

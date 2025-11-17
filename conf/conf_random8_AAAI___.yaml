@@ -1,0 +1,30 @@
+defaults:
+  - _self_
+
+  # ── models ───────────────────────────────────────────────────────────────
+
+  - model@models.6: InternVL3-8B
+  - model@models.13: qwen25vl_7b
+  - model@models.15: qwen2vl_7b
+  - model@models.1: llava_interleave_qwen_7b.yaml
+
+
+# ── tasks ────────────────────────────────────────────────────────────────
+  - task@tasks.location8: location4_random9_FoV90
+# ───────────────────────── global knobs ────────────────────────────────────
+
+output_base: /home/LMMBench/output/Location9Gauss8CorrectAAAI
+
+# ───────────────────────── pipeline wiring ─────────────────────────────────
+pipelines:
+  # - model: ${models.6}
+  #   tasks:
+  #     - ${tasks.location8}
+  #
+  # - model: ${models.13}
+  #   tasks:
+  #     - ${tasks.location8}
+
+  - model: ${models.1}
+    tasks:
+      - ${tasks.location8}
